@@ -33,13 +33,34 @@ namespace Parser
             public string Name { get; set; }
             public double Value { get; set; }
         }
+        
+        static Dictionary<string, Category> cats;
+        static Dictionary<string, Article> articles;
+        static Dictionary<string, Article> articlesByNameDict;
+        static Dictionary<Category, Dictionary<Category, int>> realCatMap;
 
         static void Main(string[] args)
+        {
+            Setup();
+
+            if (true)
+            {
+                ByWords();
+            }
+            else
+            {
+                ByLinks();
+            }
+            Console.WriteLine("Done");
+            Console.Read();
+        }
+
+        static void Setup()
         {
             var dir = @"";
             var categoriesFile = Path.Combine(dir, "cats");
             var catsString = File.ReadAllLines(categoriesFile);
-            var cats = new Dictionary<string, Category>();
+            cats = new Dictionary<string, Category>();
             foreach (var line in catsString)
             {
                 var words = line.Split(' ', '\t');
@@ -61,8 +82,8 @@ namespace Parser
             }
 
             var articlesFile = Path.Combine(dir, "articles");
-            var articles = new Dictionary<string, Article>();
-            var articlesByNameDict = new Dictionary<string, Article>();
+            articles = new Dictionary<string, Article>();
+            articlesByNameDict = new Dictionary<string, Article>();
             var articlesString = File.ReadAllLines(articlesFile);
             foreach (var line in articlesString)
             {
@@ -115,9 +136,9 @@ namespace Parser
                     cat.Articles.Add(art);
                 }
             }
-            foreach(var cat in cats.Values)
+            foreach (var cat in cats.Values)
             {
-                foreach(var cat_art in cat.Articles)
+                foreach (var cat_art in cat.Articles)
                 {
                     articles[cat_art.Id].Categories.Add(cat);
                 }
@@ -141,9 +162,9 @@ namespace Parser
                     }
                 }
             }
-            
+
             //mapa kategori wikipedi, wszystkie kategorie nadrzedne i droga do ich podkategori
-            var realCatMap = new Dictionary<Category, Dictionary<Category, int>>();
+            realCatMap = new Dictionary<Category, Dictionary<Category, int>>();
             int dist = 1;
             foreach (var p in catParentChild)
             {
@@ -154,13 +175,13 @@ namespace Parser
             do
             {
                 toAdd.Clear();
-                foreach(var parent in realCatMap)
+                foreach (var parent in realCatMap)
                 {
-                    foreach(var child in parent.Value)
+                    foreach (var child in parent.Value)
                     {
                         if (realCatMap.ContainsKey(child.Key))
                         {
-                            foreach(var newChild in realCatMap[child.Key])
+                            foreach (var newChild in realCatMap[child.Key])
                             {
                                 if (!parent.Value.ContainsKey(newChild.Key))
                                 {
@@ -174,9 +195,10 @@ namespace Parser
                         }
                     }
                 }
-                foreach(var a in toAdd)
+                foreach (var a in toAdd)
                 {
-                    foreach(var c in a.Value) {
+                    foreach (var c in a.Value)
+                    {
                         if (!realCatMap[a.Key].ContainsKey(c))
                         {
                             realCatMap[a.Key].Add(c, dist);
@@ -185,146 +207,154 @@ namespace Parser
                 }
                 ++dist;
             } while (toAdd.Any());
+        }
 
-            if (false)
+        static void ByWords()
+        {
+            foreach (var cat in cats.Values)
             {
-                foreach(var cat in cats.Values)
+                var name = cat.Name;
+                var parts = name.Split(' ');
+                foreach (var otherCat in cats.Values)
                 {
-                    var name = cat.Name;
-                    var parts = name.Split(' ');
-                    foreach (var otherCat in cats.Values)
-                    {          
-                        if(otherCat.Id == cat.Id)
-                        {
-                            continue;
-                        }
-
-                        double min = double.MaxValue;
-                        foreach(var part in parts)
-                        {
-                            double sum = 0;
-                            foreach (var art in otherCat.Articles)
-                            {      
-                                //TODO zoptymalizowac single                      
-                                var value = art.Features.SingleOrDefault(x => x.Name.ToLower() == part.ToLower());
-                                if (value != null)
-                                {
-                                    sum += value.Value;
-                                }
-                            }
-                            if (sum < min)
-                            {
-                                min = sum;
-                            }
-                        }
-                        cat.SimilarCategories.Add(new Tuple<Category, double>(otherCat, min));
-                    }
-                }
-
-                foreach (var cat in cats.Values)
-                {
-                    var best3 = cat.SimilarCategories.OrderByDescending(x => x.Item2).Take(7);
-                    Console.WriteLine(cat.Name);
-                    foreach (var c in best3)
+                    if (otherCat.Id == cat.Id)
                     {
-                        if (c.Item2 > 0)
-                            Console.WriteLine("     {0}: {1}", c.Item1.Name, c.Item2);
-                        else
-                            Console.WriteLine("     No match");
+                        continue;
+                    }
+
+                    double min = double.MaxValue;
+                    foreach (var part in parts)
+                    {
+                        double sum = 0;
+                        foreach (var art in otherCat.Articles)
+                        {
+                            //TODO zoptymalizowac single                      
+                            var value = art.Features.SingleOrDefault(x => x.Name.ToLower() == part.ToLower());
+                            if (value != null)
+                            {
+                                sum += value.Value;
+                            }
+                        }
+                        if (sum < min)
+                        {
+                            min = sum;
+                        }
+                    }
+                    cat.SimilarCategories.Add(new Tuple<Category, double>(otherCat, min));
+                }
+            }
+
+            foreach (var cat in cats.Values)
+            {
+                var thisGroupSimilar = groupSimilarWords(cat, cat.SimilarCategories.Where(x => x.Item2 >= 0.09), int.MaxValue, realCatMap);
+                if (thisGroupSimilar.Any())
+                {
+                    var thisGroupBest = new GroupBest(thisGroupSimilar, cat);
+                    Console.WriteLine("{0}", thisGroupBest.ToStringSummary());
+                    {
+                        foreach (var groupBest in thisGroupBest.best.OrderByDescending(x => x.val).Take(7))
+                        {
+                            Console.WriteLine("\t{0}", thisGroupBest.ToStringLink(groupBest));
+                        }
                     }
                 }
             }
-            else
+        }
+
+        static void ByLinks()
+        {
+            //liczenie podobienstwa kategori na podstawie linkow
+            foreach (var art in articles.Values)
             {
-                //liczenie podobienstwa kategori na podstawie linkow
-                foreach (var art in articles.Values)
+                var art1_cats = art.Categories;
+                foreach (var f in art.Features)
                 {
-                    var art1_cats = art.Categories;
-                    foreach (var f in art.Features)
+                    var art2 = articlesByNameDict[f.Name];
+                    if (art.Id != art2.Id)
                     {
-                        var art2 = articlesByNameDict[f.Name];
-                        if (art.Id != art2.Id)
+                        var art2_cats = art2.Categories;
+                        foreach (var cat1 in art1_cats)
                         {
-                            var art2_cats = art2.Categories;
-                            foreach (var cat1 in art1_cats)
+                            foreach (var cat2 in art2_cats)
                             {
-                                foreach (var cat2 in art2_cats)
+                                if (cat1.Id != cat2.Id)
                                 {
-                                    if (cat1.Id != cat2.Id)
+                                    if (cat1.SimilarCategories2.ContainsKey(cat2.Id))
                                     {
-                                        if (cat1.SimilarCategories2.ContainsKey(cat2.Id))
-                                        {
-                                            var old = cat1.SimilarCategories2[cat2.Id];
-                                            cat1.SimilarCategories2.Remove(cat2.Id);
-                                            cat1.SimilarCategories2.Add(cat2.Id, new Tuple<Category, double, int>(cat2, old.Item2 + f.Value, old.Item3 + 1));
-                                        }
-                                        else
-                                        {
-                                            cat1.SimilarCategories2.Add(cat2.Id, new Tuple<Category, double, int>(cat2, f.Value, 1));
-                                        }
+                                        var old = cat1.SimilarCategories2[cat2.Id];
+                                        cat1.SimilarCategories2.Remove(cat2.Id);
+                                        cat1.SimilarCategories2.Add(cat2.Id, new Tuple<Category, double, int>(cat2, old.Item2 + f.Value, old.Item3 + 1));
+                                    }
+                                    else
+                                    {
+                                        cat1.SimilarCategories2.Add(cat2.Id, new Tuple<Category, double, int>(cat2, f.Value, 1));
                                     }
                                 }
                             }
                         }
                     }
                 }
-                List<CatLinkResult> bestCats = new List<CatLinkResult>();
-                //filtrowanie powiazan
-                foreach( var cat in cats.Values)
+            }
+            List<CatLinkResult> bestCats = new List<CatLinkResult>();
+            //filtrowanie powiazan
+            foreach (var cat in cats.Values)
+            {
+                var thisGroupSimilar = groupSimilarLinks(cat, cat.SimilarCategories2.Values.Where(x => x.Item2 / x.Item3 >= 0.09), int.MaxValue, realCatMap);
+                if (thisGroupSimilar.Any())
                 {
-                    var thisGroupSimilar = groupSimilar(cat, cat.SimilarCategories2.Values.Where(x => x.Item2 / x.Item3 >= 0.09), int.MaxValue, realCatMap);
-                    if (thisGroupSimilar.Any())
+                    var thisGroupBest = new GroupBest(thisGroupSimilar, cat);
+                    Console.WriteLine("{0}", thisGroupBest.ToStringSummary());
                     {
-                        var thisGroupBest = new GroupBest(thisGroupSimilar, cat);
-                        Console.WriteLine("{0}", thisGroupBest.ToStringSummary());
+                        foreach (var groupBest in thisGroupBest.best.OrderByDescending(x => x.val).Take(7))
                         {
-                            foreach (var groupBest in thisGroupBest.best.OrderByDescending(x => x.val).Take(7))
-                            {
-                                Console.WriteLine("\t{0}", thisGroupBest.ToStringLink(groupBest));
-                            }
+                            Console.WriteLine("\t{0}", thisGroupBest.ToStringLink(groupBest));
                         }
                     }
-                    //stare liczenie
-                    //if (false)
-                    //{
-                    //    var bestSimCatsWithoutWikiLink = cat.SimilarCategories2.Values
-                    //        .Where(x => x.Item2 / x.Item3 > 0.20)
-                    //        .OrderByDescending(x => x.Item2 / x.Item3)
-                    //        .Select(c => new Tuple<Tuple<Category, double, int>, CatDistResult>(c, CatDistResult.search(cat, c.Item1, realCatMap, 25)))
-                    //        .Where(c =>
-                    //        {
-                    //            var search = c.Item2;
-                    //            return search.left == -1 || (search.left >= 3 && search.right >= 3) || (search.left + search.right >= 7);
-                    //        });
-                    //    foreach (var simCat in bestSimCatsWithoutWikiLink)
-                    //    {
-                    //        bestCats.Add(new CatLinkResult() { category = cat, similarCategory = simCat.Item1.Item1, val = simCat.Item1.Item2 / simCat.Item1.Item3, num = simCat.Item1.Item3, dist = simCat.Item2 });
-                    //    }
-                    //}
                 }
-                //var newLinks = bestCats
-                //    .Where(c => c.num > 5)
-                //    .Select(s => {
-                //        s.dist = CatDistResult.search(s.category, s.similarCategory, realCatMap, int.MaxValue);
-                //        return s;
-                //        })
-                //    .Where(s => s.dist.right >= 2 && s.dist.left >= 2)
-                //    .OrderByDescending(s => s.dist.left + s.dist.right)
-                //    .ThenByDescending(c => c.num)
-                //    .ThenByDescending(c => c.val)
-                //    ;
-                //foreach(var link in newLinks)
+                //stare liczenie
+                //if (false)
                 //{
-                //    Console.WriteLine("  {0} -> {1} v: {2} n: {3} p: {4} l: {5} r: {6} ", link.category.Name, link.similarCategory.Name, link.val, link.num, link.dist.parent.Name, link.dist.left, link.dist.right);
+                //    var bestSimCatsWithoutWikiLink = cat.SimilarCategories2.Values
+                //        .Where(x => x.Item2 / x.Item3 > 0.20)
+                //        .OrderByDescending(x => x.Item2 / x.Item3)
+                //        .Select(c => new Tuple<Tuple<Category, double, int>, CatDistResult>(c, CatDistResult.search(cat, c.Item1, realCatMap, 25)))
+                //        .Where(c =>
+                //        {
+                //            var search = c.Item2;
+                //            return search.left == -1 || (search.left >= 3 && search.right >= 3) || (search.left + search.right >= 7);
+                //        });
+                //    foreach (var simCat in bestSimCatsWithoutWikiLink)
+                //    {
+                //        bestCats.Add(new CatLinkResult() { category = cat, similarCategory = simCat.Item1.Item1, val = simCat.Item1.Item2 / simCat.Item1.Item3, num = simCat.Item1.Item3, dist = simCat.Item2 });
+                //    }
                 //}
             }
-            Console.WriteLine("Done");
-            //Console.Read();
+            //var newLinks = bestCats
+            //    .Where(c => c.num > 5)
+            //    .Select(s => {
+            //        s.dist = CatDistResult.search(s.category, s.similarCategory, realCatMap, int.MaxValue);
+            //        return s;
+            //        })
+            //    .Where(s => s.dist.right >= 2 && s.dist.left >= 2)
+            //    .OrderByDescending(s => s.dist.left + s.dist.right)
+            //    .ThenByDescending(c => c.num)
+            //    .ThenByDescending(c => c.val)
+            //    ;
+            //foreach(var link in newLinks)
+            //{
+            //    Console.WriteLine("  {0} -> {1} v: {2} n: {3} p: {4} l: {5} r: {6} ", link.category.Name, link.similarCategory.Name, link.val, link.num, link.dist.parent.Name, link.dist.left, link.dist.right);
+            //}
         }
 
-        public static IEnumerable<CatLinkResult> groupSimilar(Category parent, IEnumerable<Tuple<Category, double, int>> similarCategories, int searchDistThreshhold, Dictionary<Category, Dictionary<Category, int>> realCatMap)
+        public static IEnumerable<CatLinkResult> groupSimilarLinks(Category parent, IEnumerable<Tuple<Category, double, int>> similarCategories, int searchDistThreshhold, Dictionary<Category, Dictionary<Category, int>> realCatMap)
         {
             var thisGroupSimilar = similarCategories.Select(x => new CatLinkResult() { category = parent, similarCategory = x.Item1, val = x.Item2 / x.Item3, num = x.Item3, dist = CatDistResult.search(parent, x.Item1, realCatMap, searchDistThreshhold) });
+            return thisGroupSimilar;
+        }
+
+        public static IEnumerable<CatLinkResult> groupSimilarWords(Category parent, IEnumerable<Tuple<Category, double>> similarCategories, int searchDistThreshhold, Dictionary<Category, Dictionary<Category, int>> realCatMap)
+        {
+            var thisGroupSimilar = similarCategories.Select(x => new CatLinkResult() { category = parent, similarCategory = x.Item1, val = x.Item2, num = 1, dist = CatDistResult.search(parent, x.Item1, realCatMap, searchDistThreshhold) });
             return thisGroupSimilar;
         }
 
