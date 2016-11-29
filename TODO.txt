@@ -1,0 +1,7 @@
+- Stemowanie nazw kategorii dla s³ów
+- Napisaæ generowanie rezultatu dla s³ów tak jest jest dla linków
++ Wygenerowaæ dane dla ca³ej simple wiki dla s³ów (64-bity!)
+- Wygenerowaæ dane dla ca³ej simple wiki dla linków (64-bity!) (bez floyda?)
+- Zebraæ wyniki dla s³ów
+- Zebraæ wyniki dla lików
+- Poprawienie sprawozdania
