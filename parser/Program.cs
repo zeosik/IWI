@@ -272,7 +272,7 @@ namespace Parser
                 //filtrowanie powiazan
                 foreach( var cat in cats.Values)
                 {
-                    var thisGroupSimilar = groupSimilar(cat, cat.SimilarCategories2.Values.Where(x => x.Item2 >= 0.09), int.MaxValue, realCatMap);
+                    var thisGroupSimilar = groupSimilar(cat, cat.SimilarCategories2.Values.Where(x => x.Item2 / x.Item3 >= 0.09), int.MaxValue, realCatMap);
                     if (thisGroupSimilar.Any())
                     {
                         var thisGroupBest = new GroupBest(thisGroupSimilar, cat);
@@ -319,7 +319,7 @@ namespace Parser
                 //}
             }
             Console.WriteLine("Done");
-            Console.Read();
+            //Console.Read();
         }
 
         public static IEnumerable<CatLinkResult> groupSimilar(Category parent, IEnumerable<Tuple<Category, double, int>> similarCategories, int searchDistThreshhold, Dictionary<Category, Dictionary<Category, int>> realCatMap)
