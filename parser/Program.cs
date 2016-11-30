@@ -211,6 +211,7 @@ namespace Parser
 
         static void ByWords()
         {
+            var stemmer = new TextStemmerEN();
             foreach (var cat in cats.Values)
             {
                 var name = cat.Name;
@@ -225,11 +226,14 @@ namespace Parser
                     double min = double.MaxValue;
                     foreach (var part in parts)
                     {
+                        stemmer.add(part.ToLower().ToCharArray(), part.Length);
+                        stemmer.stem();
+                        var stemmedPart = stemmer.ToString();
                         double sum = 0;
                         foreach (var art in otherCat.Articles)
                         {
                             //TODO zoptymalizowac single                      
-                            var value = art.Features.SingleOrDefault(x => x.Name.ToLower() == part.ToLower());
+                            var value = art.Features.SingleOrDefault(x => x.Name.ToLower() == stemmedPart);
                             if (value != null)
                             {
                                 sum += value.Value;
@@ -311,39 +315,7 @@ namespace Parser
                         }
                     }
                 }
-                //stare liczenie
-                //if (false)
-                //{
-                //    var bestSimCatsWithoutWikiLink = cat.SimilarCategories2.Values
-                //        .Where(x => x.Item2 / x.Item3 > 0.20)
-                //        .OrderByDescending(x => x.Item2 / x.Item3)
-                //        .Select(c => new Tuple<Tuple<Category, double, int>, CatDistResult>(c, CatDistResult.search(cat, c.Item1, realCatMap, 25)))
-                //        .Where(c =>
-                //        {
-                //            var search = c.Item2;
-                //            return search.left == -1 || (search.left >= 3 && search.right >= 3) || (search.left + search.right >= 7);
-                //        });
-                //    foreach (var simCat in bestSimCatsWithoutWikiLink)
-                //    {
-                //        bestCats.Add(new CatLinkResult() { category = cat, similarCategory = simCat.Item1.Item1, val = simCat.Item1.Item2 / simCat.Item1.Item3, num = simCat.Item1.Item3, dist = simCat.Item2 });
-                //    }
-                //}
             }
-            //var newLinks = bestCats
-            //    .Where(c => c.num > 5)
-            //    .Select(s => {
-            //        s.dist = CatDistResult.search(s.category, s.similarCategory, realCatMap, int.MaxValue);
-            //        return s;
-            //        })
-            //    .Where(s => s.dist.right >= 2 && s.dist.left >= 2)
-            //    .OrderByDescending(s => s.dist.left + s.dist.right)
-            //    .ThenByDescending(c => c.num)
-            //    .ThenByDescending(c => c.val)
-            //    ;
-            //foreach(var link in newLinks)
-            //{
-            //    Console.WriteLine("  {0} -> {1} v: {2} n: {3} p: {4} l: {5} r: {6} ", link.category.Name, link.similarCategory.Name, link.val, link.num, link.dist.parent.Name, link.dist.left, link.dist.right);
-            //}
         }
 
         public static IEnumerable<CatLinkResult> groupSimilarLinks(Category parent, IEnumerable<Tuple<Category, double, int>> similarCategories, int searchDistThreshhold, Dictionary<Category, Dictionary<Category, int>> realCatMap)
