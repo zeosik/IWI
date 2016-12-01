@@ -88,7 +88,7 @@ namespace Parser
             foreach (var line in articlesString)
             {
                 var words = line.Split(' ', '\t');
-                var a = new Article { Id = words[1], Name = words[0].Replace('_', ' '), Categories = new List<Category>() };
+                var a = new Article { Id = words[1], Name = words[0].Replace('_', ' '), Categories = new List<Category>(), Features = new List<Feature>()};
                 articles.Add(words[1], a);
                 articlesByNameDict.Add(a.Name, a);
             }
