@@ -15,8 +15,13 @@ namespace Parser
             public string Id { get; set; }
             public string Name { get; set; }
             public List<Article> Articles { get; set; }
-            public List<Tuple<Category, double>> SimilarCategories { get; set; }
             public Dictionary<string, Tuple<Category, double, int>> SimilarCategories2 { get; set; }
+        }
+
+        public class CetegoryWordSimilarity
+        {
+            public Category category;
+            public List<Tuple<Category, double>> SimilarCategories { get; set; }
         }
 
         public class Article
@@ -52,7 +57,7 @@ namespace Parser
                 ByLinks();
             }
             Console.WriteLine("Done");
-            Console.Read();
+            //Console.Read();
         }
 
         static void Setup()
@@ -64,7 +69,7 @@ namespace Parser
             foreach (var line in catsString)
             {
                 var words = line.Split(' ', '\t');
-                cats.Add(words[1], new Category { Id = words[1], Name = words[0].Replace('_', ' '), Articles = new List<Article>(), SimilarCategories = new List<Tuple<Category, double>>(), SimilarCategories2 = new Dictionary<string, Tuple<Category, double, int>>() });
+                cats.Add(words[1], new Category { Id = words[1], Name = words[0].Replace('_', ' '), Articles = new List<Article>(), SimilarCategories2 = new Dictionary<string, Tuple<Category, double, int>>() });
             }
 
             foreach (var cat in cats.Values)
@@ -214,15 +219,21 @@ namespace Parser
             var total = cats.Values.Count;
             var step = 0;
             var stemmer = new TextStemmerEN();
-            foreach (var cat in cats.Values)
+            var categories = cats.Values.Select(c => new CetegoryWordSimilarity() { category = c, SimilarCategories = new List<Tuple<Category, double>>() });
+
+            foreach (var cat in categories)
             {
                 ++step;
                 var progress = (double)step / total * 100.0;
-                var name = cat.Name;
+                if (step % 100 == 0)
+                {
+                    Console.WriteLine("Progress: {0:0.00}%", progress);
+                }
+                var name = cat.category.Name;
                 var parts = name.Split(' ');
                 foreach (var otherCat in cats.Values)
                 {
-                    if (otherCat.Id == cat.Id)
+                    if (otherCat.Id == cat.category.Id)
                     {
                         continue;
                     }
@@ -249,14 +260,11 @@ namespace Parser
                     }
                     cat.SimilarCategories.Add(new Tuple<Category, double>(otherCat, min));
                 }
-            }
 
-            foreach (var cat in cats.Values)
-            {
-                var thisGroupSimilar = groupSimilarWords(cat, cat.SimilarCategories.Where(x => x.Item2 >= 5), int.MaxValue, realCatMap);
+                var thisGroupSimilar = groupSimilarWords(cat.category, cat.SimilarCategories.Where(x => x.Item2 >= 5), int.MaxValue, realCatMap);
                 if (thisGroupSimilar.Any())
                 {
-                    var thisGroupBest = new GroupBest(thisGroupSimilar, cat);
+                    var thisGroupBest = new GroupBest(thisGroupSimilar, cat.category);
                     Console.WriteLine("{0}", thisGroupBest.ToStringSummary());
                     {
                         foreach (var groupBest in thisGroupBest.best.OrderByDescending(x => x.val).Take(7))
@@ -265,6 +273,8 @@ namespace Parser
                         }
                     }
                 }
+                //zwalnaimy miejsce bo nie uzywamy juz tego
+                cat.SimilarCategories.Clear();
             }
         }
 
@@ -351,7 +361,7 @@ namespace Parser
 
             public string ToStringLink(CatLinkResult link)
             {
-                return string.Format("{0} \t dist:{1:0.00} n:{5} wikiDist:{2} l:{3} r:{4}", link.similarCategory.Name.PadRight(30, ' '), link.val, link.dist.dist(), link.dist.left, link.dist.right, link.num);
+                return string.Format("{0} \t value:{1:0.00} n:{5} wikiDist:{2} l:{3} r:{4} parent: {6}", link.similarCategory.Name.PadRight(30, ' '), link.val, link.dist.dist(), link.dist.left, link.dist.right, link.num, link.dist.parent.Name);
             }
 
             public string ToStringSummary()
@@ -400,9 +410,12 @@ namespace Parser
                     return result;
                 }
                 var commonParents = allCommonParents(one, two, distMap, threshhold);
-                var maxDist = commonParents.Max(r => r.dist());
-                result = commonParents.First(r => r.dist() == maxDist);
-                if (result == null)
+                if (commonParents.Any())
+                {
+                    var maxDist = commonParents.Max(r => r.dist());
+                    result = commonParents.First(r => r.dist() == maxDist);
+                }
+                else
                 {
                     result = new CatDistResult(new Category() { Name = "Not found" }, -1, -1);
                 }
