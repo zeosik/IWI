@@ -23,7 +23,7 @@ namespace Parser
         {
             public string Id { get; set; }
             public string Name { get; set; }
-            public List<Feature> Features { get; set; }
+            public Dictionary<string, Feature> Features { get; set; } //byName
             public List<Category> Categories { get; set; }
         }
 
@@ -88,7 +88,7 @@ namespace Parser
             foreach (var line in articlesString)
             {
                 var words = line.Split(' ', '\t');
-                var a = new Article { Id = words[1], Name = words[0].Replace('_', ' '), Categories = new List<Category>(), Features = new List<Feature>()};
+                var a = new Article { Id = words[1], Name = words[0].Replace('_', ' '), Categories = new List<Category>(), Features = new Dictionary<string, Feature>()};
                 articles.Add(words[1], a);
                 articlesByNameDict.Add(a.Name, a);
             }
@@ -107,7 +107,7 @@ namespace Parser
                     continue;
                 }
                 var featuresValues = fts.Split(' ', '\t');
-                article.Features = new List<Feature>();
+                article.Features = new Dictionary<string, Feature>();
                 foreach (var fv in featuresValues)
                 {
                     var words2 = fv.Split(new char[] { '-' }, 2);
@@ -119,7 +119,7 @@ namespace Parser
                         continue;
                     }
                     var f = features[fid];
-                    article.Features.Add(new Feature() { Name = f.Name, Value = value });
+                    article.Features.Add(f.Name, new Feature() { Name = f.Name, Value = value });
                 }
             }
 
@@ -211,9 +211,13 @@ namespace Parser
 
         static void ByWords()
         {
+            var total = cats.Values.Count;
+            var step = 0;
             var stemmer = new TextStemmerEN();
             foreach (var cat in cats.Values)
             {
+                ++step;
+                var progress = (double)step / total * 100.0;
                 var name = cat.Name;
                 var parts = name.Split(' ');
                 foreach (var otherCat in cats.Values)
@@ -232,10 +236,9 @@ namespace Parser
                         double sum = 0;
                         foreach (var art in otherCat.Articles)
                         {
-                            //TODO zoptymalizowac single                      
-                            var value = art.Features.SingleOrDefault(x => x.Name.ToLower() == stemmedPart);
-                            if (value != null)
+                            if (art.Features.ContainsKey(stemmedPart))
                             {
+                                var value = art.Features[stemmedPart];
                                 sum += value.Value;
                             }
                         }
@@ -250,7 +253,7 @@ namespace Parser
 
             foreach (var cat in cats.Values)
             {
-                var thisGroupSimilar = groupSimilarWords(cat, cat.SimilarCategories.Where(x => x.Item2 >= 0.09), int.MaxValue, realCatMap);
+                var thisGroupSimilar = groupSimilarWords(cat, cat.SimilarCategories.Where(x => x.Item2 >= 5), int.MaxValue, realCatMap);
                 if (thisGroupSimilar.Any())
                 {
                     var thisGroupBest = new GroupBest(thisGroupSimilar, cat);
@@ -271,7 +274,7 @@ namespace Parser
             foreach (var art in articles.Values)
             {
                 var art1_cats = art.Categories;
-                foreach (var f in art.Features)
+                foreach (var f in art.Features.Values)
                 {
                     var art2 = articlesByNameDict[f.Name];
                     if (art.Id != art2.Id)
