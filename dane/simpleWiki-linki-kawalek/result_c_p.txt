@@ -1,0 +1,4859 @@
+categories: 15424 unkown: 11933
+Wiki parent-child similarity with distance 1: 25990 known: 6124
+Wiki child-parent similarity with distance 1: 25990 known: 6255
+1912 births - c-p wiki:2 words:1
+1954 deaths - c-p wiki:2 words:0
+Computer scientists - c-p wiki:2 words:0
+English mathematicians - c-p wiki:2 words:1
+English scientists - p-c wiki:6 words:2
+English scientists - c-p wiki:2 words:1
+Gay men - c-p wiki:1 words:0
+LGBT people from the United Kingdom - c-p wiki:2 words:2
+People from London - c-p wiki:2 words:0
+People who committed suicide - c-p wiki:3 words:0
+Animals - p-c wiki:18 words:8
+Animals - c-p wiki:1 words:0
+Basic physics ideas - p-c wiki:2 words:2
+Basic physics ideas - c-p wiki:1 words:1
+Mechanics - p-c wiki:2 words:0
+Mechanics - c-p wiki:2 words:0
+Beijing - c-p wiki:3 words:1
+Continents - p-c wiki:10 words:2
+Continents - c-p wiki:2 words:2
+Geology - p-c wiki:15 words:7
+Geology - c-p wiki:4 words:1
+Comedy movies - p-c wiki:3 words:1
+Comedy movies - c-p wiki:1 words:0
+Plays - p-c wiki:1 words:1
+Plays - c-p wiki:2 words:0
+Television - p-c wiki:15 words:0
+Television - c-p wiki:2 words:1
+Theater - p-c wiki:3 words:0
+Theater - c-p wiki:2 words:1
+Comets - c-p wiki:2 words:1
+Shapes - p-c wiki:1 words:0
+Shapes - c-p wiki:1 words:1
+Dublin - c-p wiki:3 words:1
+Dictionaries - c-p wiki:1 words:0
+Europe - p-c wiki:16 words:2
+Europe - c-p wiki:1 words:1
+Ethics - p-c wiki:3 words:1
+Ethics - c-p wiki:1 words:1
+Ecology - p-c wiki:7 words:2
+Ecology - c-p wiki:1 words:1
+Basic English 850 words - c-p wiki:1 words:0
+Foods - p-c wiki:24 words:10
+Foods - c-p wiki:2 words:0
+Fruits - p-c wiki:11 words:1
+Fruits - c-p wiki:2 words:2
+Geography - p-c wiki:25 words:6
+Geography - c-p wiki:1 words:0
+History - p-c wiki:25 words:7
+History - c-p wiki:1 words:0
+Health - p-c wiki:12 words:2
+Health - c-p wiki:2 words:1
+Medicine - p-c wiki:15 words:4
+Medicine - c-p wiki:1 words:1
+Census-designated places - c-p wiki:1 words:0
+Cities in Hawaii - c-p wiki:2 words:0
+United States capital cities - p-c wiki:4 words:0
+United States capital cities - c-p wiki:2 words:0
+Biology - p-c wiki:31 words:16
+Biology - c-p wiki:2 words:0
+Divided regions - p-c wiki:4 words:1
+Divided regions - c-p wiki:2 words:1
+Ireland - p-c wiki:12 words:5
+Ireland - c-p wiki:1 words:1
+Islands in Europe - p-c wiki:4 words:1
+Islands in Europe - c-p wiki:2 words:0
+Immunology - c-p wiki:1 words:1
+Science - p-c wiki:32 words:9
+Science - c-p wiki:1 words:0
+Metaphors - c-p wiki:1 words:0
+Words - p-c wiki:5 words:2
+Words - c-p wiki:1 words:0
+Operating systems - p-c wiki:6 words:2
+Operating systems - c-p wiki:3 words:2
+Political parties - p-c wiki:7 words:2
+Political parties - c-p wiki:2 words:1
+Planets - p-c wiki:7 words:0
+Planets - c-p wiki:1 words:0
+Emergency services - p-c wiki:1 words:0
+Emergency services - c-p wiki:2 words:0
+Law - p-c wiki:23 words:6
+Law - c-p wiki:1 words:0
+Police - p-c wiki:3 words:0
+Police - c-p wiki:1 words:0
+Peace - p-c wiki:2 words:0
+Peace - c-p wiki:1 words:1
+Society - p-c wiki:23 words:5
+Society - c-p wiki:1 words:0
+SUVs - c-p wiki:1 words:0
+Sound - p-c wiki:1 words:0
+Sound - c-p wiki:2 words:1
+Science stubs - c-p wiki:3 words:0
+String theory - c-p wiki:1 words:1
+Internet slang - c-p wiki:2 words:0
+Software - p-c wiki:29 words:4
+Software - c-p wiki:1 words:0
+Technology stubs - c-p wiki:3 words:1
+Microsoft operating systems - c-p wiki:2 words:1
+Prisons - p-c wiki:2 words:1
+Prisons - c-p wiki:3 words:1
+Atlantic Ocean - c-p wiki:1 words:0
+Geography stubs - p-c wiki:1 words:1
+Geography stubs - c-p wiki:3 words:1
+Pacific Ocean - p-c wiki:2 words:0
+Pacific Ocean - c-p wiki:1 words:0
+Sociology - p-c wiki:12 words:1
+Sociology - c-p wiki:2 words:1
+Music genres - p-c wiki:30 words:6
+Music genres - c-p wiki:1 words:0
+Chemical elements - p-c wiki:9 words:5
+Chemical elements - c-p wiki:1 words:1
+Nonmetals - p-c wiki:1 words:1
+Nonmetals - c-p wiki:1 words:1
+Chemistry - p-c wiki:18 words:4
+Chemistry - c-p wiki:2 words:0
+Cities in Rhineland-Palatinate - c-p wiki:2 words:0
+Municipalities in Rhineland-Palatinate - p-c wiki:3 words:0
+Municipalities in Rhineland-Palatinate - c-p wiki:2 words:0
+World Heritage Sites in Germany - c-p wiki:2 words:0
+50 establishments - c-p wiki:1 words:0
+Cities with more than 500,000 inhabitants - c-p wiki:1 words:0
+Cologne - c-p wiki:2 words:0
+Hanseatic League - c-p wiki:2 words:0
+Towns in North Rhine-Westphalia - c-p wiki:2 words:0
+Developmental biology - c-p wiki:1 words:1
+1929 - p-c wiki:6 words:1
+1929 - c-p wiki:1 words:0
+Force - c-p wiki:2 words:1
+1980s - p-c wiki:19 words:2
+1980s - c-p wiki:1 words:0
+Incomplete lists - c-p wiki:1 words:0
+1965 - p-c wiki:6 words:2
+1965 - c-p wiki:1 words:0
+Communication - p-c wiki:18 words:7
+Communication - c-p wiki:2 words:2
+Politics - p-c wiki:26 words:9
+Politics - c-p wiki:1 words:1
+1933 - p-c wiki:5 words:1
+1933 - c-p wiki:1 words:0
+Northern Ireland - p-c wiki:5 words:0
+Northern Ireland - c-p wiki:2 words:1
+Provinces - p-c wiki:1 words:0
+Provinces - c-p wiki:1 words:0
+United Kingdom - p-c wiki:26 words:5
+United Kingdom - c-p wiki:3 words:1
+United Kingdom stubs - c-p wiki:3 words:1
+1967 - p-c wiki:7 words:0
+1967 - c-p wiki:1 words:0
+German football clubs - p-c wiki:1 words:0
+German football clubs - c-p wiki:2 words:0
+Sports lists - p-c wiki:2 words:0
+Sports lists - c-p wiki:2 words:1
+English football clubs - p-c wiki:1 words:0
+English football clubs - c-p wiki:2 words:0
+Sports stubs - p-c wiki:2 words:1
+Sports stubs - c-p wiki:3 words:1
+Matter - p-c wiki:1 words:1
+Matter - c-p wiki:1 words:1
+Wave physics - p-c wiki:4 words:3
+Wave physics - c-p wiki:1 words:1
+Weapons - p-c wiki:10 words:0
+Weapons - c-p wiki:2 words:1
+Alaska - p-c wiki:5 words:0
+Alaska - c-p wiki:1 words:0
+United States Geography stubs - c-p wiki:5 words:3
+Milk - c-p wiki:2 words:0
+Symbols of Oklahoma - c-p wiki:2 words:0
+Culture - p-c wiki:14 words:2
+Culture - c-p wiki:2 words:1
+Former very good articles - c-p wiki:2 words:0
+Japanese culture - p-c wiki:7 words:1
+Japanese culture - c-p wiki:2 words:0
+Nuclear physics - p-c wiki:6 words:5
+Nuclear physics - c-p wiki:1 words:1
+Asia - p-c wiki:15 words:2
+Asia - c-p wiki:1 words:1
+Punishments - p-c wiki:2 words:1
+Punishments - c-p wiki:4 words:2
+Cell biology - p-c wiki:2 words:2
+Cell biology - c-p wiki:1 words:1
+Cellular respiration - c-p wiki:1 words:1
+Metabolism - c-p wiki:2 words:2
+Plant physiology - c-p wiki:2 words:2
+1869 births - c-p wiki:2 words:1
+1948 deaths - c-p wiki:2 words:0
+Assassinations - c-p wiki:1 words:0
+Indian politicians - c-p wiki:4 words:0
+Time People of the Year - c-p wiki:1 words:0
+Electromagnetism - p-c wiki:4 words:2
+Electromagnetism - c-p wiki:1 words:1
+Elementary particles - c-p wiki:2 words:2
+Light - p-c wiki:3 words:2
+Light - c-p wiki:1 words:1
+427 BC births - c-p wiki:2 words:0
+4th century BC deaths - p-c wiki:5 words:0
+4th century BC deaths - c-p wiki:2 words:0
+Ancient Greek philosophers - p-c wiki:1 words:0
+Ancient Greek philosophers - c-p wiki:2 words:1
+Parts of speech - p-c wiki:2 words:0
+Parts of speech - c-p wiki:1 words:0
+Pronouns - c-p wiki:1 words:0
+Satellites - c-p wiki:1 words:0
+Telescopes - c-p wiki:2 words:1
+2003 - p-c wiki:7 words:3
+2003 - c-p wiki:1 words:0
+Precipitation - p-c wiki:1 words:0
+Precipitation - c-p wiki:1 words:0
+Video games - p-c wiki:25 words:4
+Video games - c-p wiki:2 words:0
+Lakes - p-c wiki:5 words:0
+Lakes - c-p wiki:1 words:0
+Parliaments - p-c wiki:2 words:0
+Parliaments - c-p wiki:2 words:2
+Capital cities in Europe - p-c wiki:12 words:2
+Capital cities in Europe - c-p wiki:2 words:1
+Cities in Poland - p-c wiki:1 words:0
+Cities in Poland - c-p wiki:3 words:0
+Lists - p-c wiki:18 words:3
+Lists - c-p wiki:1 words:0
+Religions - p-c wiki:5 words:0
+Religions - c-p wiki:1 words:0
+Geography of Africa - p-c wiki:5 words:0
+Geography of Africa - c-p wiki:2 words:0
+Acids - c-p wiki:1 words:1
+Arabic words - c-p wiki:2 words:2
+Islam - p-c wiki:9 words:5
+Islam - c-p wiki:1 words:0
+Religious texts - p-c wiki:2 words:1
+Religious texts - c-p wiki:3 words:0
+Terminology - c-p wiki:1 words:1
+1953 births - c-p wiki:2 words:0
+British Prime Ministers - c-p wiki:2 words:1
+British Roman Catholics - c-p wiki:2 words:0
+Former Labour MPs (UK) - c-p wiki:1 words:0
+Former members of the British House of Commons for English constituencies - c-p wiki:1 words:0
+Living people - c-p wiki:1 words:0
+People from Edinburgh - c-p wiki:3 words:0
+Scottish politicians - p-c wiki:1 words:0
+Scottish politicians - c-p wiki:2 words:0
+Atmosphere - p-c wiki:2 words:1
+Atmosphere - c-p wiki:1 words:0
+Breads - c-p wiki:1 words:1
+1869 - p-c wiki:3 words:2
+1869 - c-p wiki:1 words:0
+1882 - p-c wiki:3 words:1
+1882 - c-p wiki:1 words:0
+1451 births - c-p wiki:2 words:0
+1506 deaths - c-p wiki:2 words:0
+Italian explorers - c-p wiki:2 words:0
+Rocks - c-p wiki:2 words:1
+Aerospace engineering - c-p wiki:2 words:1
+Aircraft - p-c wiki:9 words:1
+Aircraft - c-p wiki:2 words:1
+Cultural studies - p-c wiki:2 words:0
+Cultural studies - c-p wiki:3 words:0
+Theology - p-c wiki:1 words:0
+Theology - c-p wiki:1 words:0
+Cities in Victoria - p-c wiki:1 words:1
+Cities in Victoria - c-p wiki:2 words:1
+Former national capitals - p-c wiki:1 words:1
+Former national capitals - c-p wiki:1 words:1
+Melbourne - p-c wiki:2 words:0
+Melbourne - c-p wiki:3 words:2
+Capital cities in Oceania - p-c wiki:1 words:1
+Capital cities in Oceania - c-p wiki:2 words:1
+Cities in Australia - p-c wiki:7 words:2
+Cities in Australia - c-p wiki:3 words:1
+Olympic cities - p-c wiki:10 words:2
+Olympic cities - c-p wiki:2 words:0
+Sydney - p-c wiki:2 words:1
+Sydney - c-p wiki:2 words:1
+Unix - c-p wiki:1 words:1
+Food ingredients - p-c wiki:5 words:1
+Food ingredients - c-p wiki:1 words:1
+Philosophy - p-c wiki:14 words:5
+Philosophy - c-p wiki:1 words:0
+Diseases - p-c wiki:8 words:2
+Diseases - c-p wiki:1 words:0
+Archaeology - p-c wiki:6 words:2
+Archaeology - c-p wiki:1 words:1
+Buildings and structures in England - p-c wiki:9 words:1
+Buildings and structures in England - c-p wiki:2 words:0
+Prehistoric buildings and structures - c-p wiki:2 words:1
+Religious buildings - p-c wiki:2 words:0
+Religious buildings - c-p wiki:2 words:0
+Wiltshire - p-c wiki:2 words:0
+Wiltshire - c-p wiki:2 words:1
+World Heritage Sites in Great Britain - c-p wiki:1 words:0
+Georgia (U.S. state) - p-c wiki:5 words:1
+Georgia (U.S. state) - c-p wiki:1 words:0
+Ancient Greek poets - c-p wiki:2 words:0
+Ernestine duchies - p-c wiki:1 words:0
+Ernestine duchies - c-p wiki:3 words:1
+Former countries in Europe - p-c wiki:10 words:6
+Former countries in Europe - c-p wiki:2 words:1
+States of the Confederation of the Rhine - c-p wiki:1 words:0
+States of the Holy Roman Empire - c-p wiki:2 words:1
+1971 births - c-p wiki:2 words:0
+American cyclists - c-p wiki:2 words:1
+Tour de France winners - c-p wiki:1 words:0
+Sports - p-c wiki:40 words:1
+Sports - c-p wiki:3 words:1
+Capital cities in India - c-p wiki:2 words:1
+Maharashtra - c-p wiki:1 words:0
+Mumbai - c-p wiki:1 words:1
+Aviation - p-c wiki:7 words:1
+Aviation - c-p wiki:1 words:1
+Inventors - p-c wiki:3 words:0
+Inventors - c-p wiki:2 words:2
+People from Ohio - c-p wiki:2 words:0
+1723 births - c-p wiki:2 words:0
+1790 deaths - c-p wiki:2 words:0
+18th century philosophers - c-p wiki:2 words:0
+Scottish writers - p-c wiki:1 words:0
+Scottish writers - c-p wiki:3 words:0
+1882 births - c-p wiki:2 words:1
+1941 deaths - c-p wiki:2 words:0
+Bisexual people - c-p wiki:1 words:1
+English novelists - p-c wiki:1 words:0
+English novelists - c-p wiki:2 words:1
+English playwrights - c-p wiki:2 words:1
+Feminists - c-p wiki:1 words:1
+Days - p-c wiki:1 words:1
+Days - c-p wiki:1 words:0
+1816 births - c-p wiki:2 words:0
+1885 deaths - c-p wiki:2 words:0
+English poets - c-p wiki:2 words:1
+Cities in Italy - p-c wiki:3 words:0
+Cities in Italy - c-p wiki:3 words:0
+History of Italy - p-c wiki:1 words:0
+History of Italy - c-p wiki:1 words:0
+Buildings and structures in Paris - c-p wiki:2 words:0
+France stubs - c-p wiki:3 words:1
+Towers - c-p wiki:1 words:1
+Ancient history - p-c wiki:9 words:4
+Ancient history - c-p wiki:2 words:2
+Periods and ages in history - p-c wiki:2 words:0
+Periods and ages in history - c-p wiki:1 words:1
+1872 births - c-p wiki:2 words:0
+1933 deaths - c-p wiki:2 words:0
+Governors of Massachusetts - c-p wiki:2 words:1
+People from Vermont - c-p wiki:2 words:0
+Presidents of the United States - p-c wiki:3 words:0
+Presidents of the United States - c-p wiki:2 words:1
+US Republican Party politicians - c-p wiki:2 words:1
+Vice Presidents of the United States - p-c wiki:1 words:0
+Vice Presidents of the United States - c-p wiki:2 words:1
+1735 births - c-p wiki:2 words:0
+1826 deaths - c-p wiki:2 words:0
+Ambassadors - c-p wiki:1 words:0
+American revolutionaries - p-c wiki:1 words:1
+American revolutionaries - c-p wiki:2 words:0
+Founding Fathers of the United States - p-c wiki:1 words:1
+Founding Fathers of the United States - c-p wiki:1 words:0
+Massachusetts politicians - p-c wiki:1 words:1
+Massachusetts politicians - c-p wiki:2 words:2
+Signers of the U.S. Declaration of Independence - c-p wiki:3 words:3
+0s - p-c wiki:1 words:0
+0s - c-p wiki:1 words:0
+Microsoft Office - c-p wiki:2 words:0
+Word processors - c-p wiki:1 words:1
+303 deaths - c-p wiki:2 words:0
+3rd century births - p-c wiki:3 words:0
+3rd century births - c-p wiki:2 words:0
+Saints - p-c wiki:3 words:1
+Saints - c-p wiki:2 words:2
+Somerset - p-c wiki:6 words:0
+Somerset - c-p wiki:2 words:1
+German people - p-c wiki:13 words:3
+German people - c-p wiki:3 words:0
+1979 births - c-p wiki:2 words:0
+American movie actors - p-c wiki:2 words:0
+American movie actors - c-p wiki:2 words:1
+American television actors - p-c wiki:1 words:0
+American television actors - c-p wiki:3 words:1
+People from Texas - c-p wiki:2 words:0
+1929 births - c-p wiki:2 words:1
+1993 deaths - c-p wiki:2 words:0
+Academy Award winning actors - c-p wiki:1 words:1
+British movie actors - c-p wiki:2 words:0
+British stage actors - c-p wiki:2 words:0
+British television actors - c-p wiki:2 words:0
+Deaths from colorectal cancer - c-p wiki:1 words:1
+English actors - c-p wiki:2 words:0
+Towns - p-c wiki:3 words:0
+Towns - c-p wiki:1 words:0
+1485 births - c-p wiki:2 words:0
+1547 deaths - c-p wiki:2 words:0
+Spanish explorers - c-p wiki:2 words:0
+History of Mexico - c-p wiki:2 words:0
+Native American - p-c wiki:2 words:1
+Native American - c-p wiki:3 words:0
+1913 births - c-p wiki:2 words:0
+2006 deaths - c-p wiki:2 words:0
+People from Nebraska - c-p wiki:2 words:0
+United States representatives - c-p wiki:2 words:1
+Blood - c-p wiki:2 words:2
+1711 births - c-p wiki:2 words:0
+1776 deaths - c-p wiki:2 words:0
+1588 births - c-p wiki:2 words:0
+1679 deaths - c-p wiki:2 words:0
+English philosophers - c-p wiki:2 words:1
+Buildings and structures - p-c wiki:10 words:1
+Buildings and structures - c-p wiki:2 words:0
+Civil engineering - p-c wiki:6 words:0
+Civil engineering - c-p wiki:1 words:0
+Board games - p-c wiki:2 words:1
+Board games - c-p wiki:1 words:0
+Draughts - c-p wiki:1 words:0
+Caribbean island nations - p-c wiki:13 words:2
+Caribbean island nations - c-p wiki:2 words:1
+Commonwealth member states - p-c wiki:3 words:2
+Commonwealth member states - c-p wiki:1 words:0
+Commonwealth realms - p-c wiki:10 words:2
+Commonwealth realms - c-p wiki:1 words:1
+Organisation of Eastern Caribbean States - c-p wiki:2 words:2
+San Marino - c-p wiki:2 words:1
+Geometry - p-c wiki:3 words:1
+Geometry - c-p wiki:1 words:1
+Mathematics - p-c wiki:18 words:5
+Mathematics - c-p wiki:1 words:0
+1925 books - c-p wiki:2 words:0
+Nazism - p-c wiki:3 words:0
+Nazism - c-p wiki:3 words:1
+Constructed languages - p-c wiki:1 words:0
+Constructed languages - c-p wiki:1 words:0
+165 deaths - c-p wiki:2 words:0
+85 births - c-p wiki:1 words:0
+Ancient Greek astronomers - c-p wiki:2 words:1
+Geographers - c-p wiki:2 words:2
+1942 births - c-p wiki:2 words:1
+Commanders of the Order of the British Empire - c-p wiki:1 words:1
+Companions of Honour - c-p wiki:1 words:0
+English physicists - c-p wiki:2 words:2
+English science writers - c-p wiki:1 words:1
+Fellows of the Royal Society - p-c wiki:1 words:1
+Fellows of the Royal Society - c-p wiki:2 words:0
+People from Oxfordshire - c-p wiki:2 words:0
+Royal Society of Arts - c-p wiki:6 words:2
+Carbon - c-p wiki:2 words:2
+Gemstones - p-c wiki:1 words:0
+Gemstones - c-p wiki:2 words:1
+1469 births - c-p wiki:2 words:0
+1524 deaths - c-p wiki:2 words:0
+Portuguese explorers - c-p wiki:2 words:0
+Electricity - p-c wiki:1 words:1
+Electricity - c-p wiki:2 words:2
+Tools - p-c wiki:13 words:1
+Tools - c-p wiki:2 words:2
+Building materials - p-c wiki:2 words:0
+Building materials - c-p wiki:1 words:0
+1779 births - c-p wiki:2 words:0
+1884 deaths - c-p wiki:2 words:0
+French people - p-c wiki:8 words:1
+French people - c-p wiki:2 words:1
+Kings and Queens of the Netherlands - c-p wiki:2 words:0
+Chemical compounds - p-c wiki:40 words:2
+Chemical compounds - c-p wiki:1 words:1
+1938 births - c-p wiki:2 words:0
+African politicians - p-c wiki:5 words:2
+African politicians - c-p wiki:2 words:0
+Knights Grand Cross of the Order of St Michael and St George - c-p wiki:1 words:1
+Nobel Peace Prize winners - c-p wiki:1 words:0
+Order of Merit of the Federal Republic of Germany - c-p wiki:1 words:0
+United Nations Secretaries-General - c-p wiki:1 words:0
+1915 births - c-p wiki:2 words:0
+Deaths from cardiovascular disease - p-c wiki:2 words:1
+Deaths from cardiovascular disease - c-p wiki:3 words:1
+Former dictators - c-p wiki:1 words:0
+People stubs - p-c wiki:3 words:3
+People stubs - c-p wiki:3 words:0
+Presidents of Chile - c-p wiki:2 words:0
+Astrophysics - c-p wiki:2 words:1
+Belgium - p-c wiki:6 words:0
+Belgium - c-p wiki:4 words:1
+German Empire - p-c wiki:2 words:1
+German Empire - c-p wiki:2 words:1
+Weimar Republic - p-c wiki:1 words:1
+Weimar Republic - c-p wiki:2 words:2
+Architectural elements - p-c wiki:1 words:0
+Architectural elements - c-p wiki:1 words:0
+Everyday life - p-c wiki:28 words:8
+Everyday life - c-p wiki:1 words:0
+Home - p-c wiki:3 words:0
+Home - c-p wiki:1 words:0
+Leisure - p-c wiki:7 words:0
+Leisure - c-p wiki:3 words:1
+Plants - p-c wiki:28 words:7
+Plants - c-p wiki:2 words:1
+1926 births - c-p wiki:2 words:0
+Communists - p-c wiki:2 words:0
+Communists - c-p wiki:1 words:0
+Cuban politicians - c-p wiki:3 words:0
+Presidents - p-c wiki:2 words:0
+Presidents - c-p wiki:2 words:1
+Prime ministers - p-c wiki:8 words:2
+Prime ministers - c-p wiki:1 words:1
+Socialists - c-p wiki:1 words:0
+1994 television series - c-p wiki:2 words:0
+American sitcoms - c-p wiki:2 words:0
+1895 births - c-p wiki:2 words:0
+1952 deaths - c-p wiki:2 words:0
+Deaths from lung cancer - c-p wiki:1 words:1
+Kings and Queens of the United Kingdom - c-p wiki:2 words:1
+People from Norfolk - c-p wiki:2 words:0
+Animals of Antarctica - c-p wiki:1 words:0
+Flightless birds - p-c wiki:1 words:0
+Flightless birds - c-p wiki:1 words:0
+Penguins - c-p wiki:1 words:0
+Sphenisciformes - c-p wiki:1 words:0
+Batman - p-c wiki:2 words:1
+Batman - c-p wiki:1 words:0
+1838 births - c-p wiki:2 words:0
+1865 deaths - c-p wiki:2 words:0
+Abraham Lincoln - c-p wiki:2 words:2
+Assassins - c-p wiki:1 words:0
+Cities in Maryland - c-p wiki:2 words:1
+Former capitals of the United States - c-p wiki:2 words:1
+Optical discs - p-c wiki:2 words:0
+Optical discs - c-p wiki:2 words:1
+Video Discs - c-p wiki:1 words:0
+Lebanon - p-c wiki:2 words:0
+Lebanon - c-p wiki:2 words:1
+Ancient Rome - p-c wiki:7 words:0
+Ancient Rome - c-p wiki:2 words:0
+Numbers - p-c wiki:6 words:1
+Numbers - c-p wiki:1 words:1
+Cartography - p-c wiki:2 words:0
+Cartography - c-p wiki:1 words:1
+1924 births - c-p wiki:2 words:0
+American Nobel Prize winners - c-p wiki:2 words:0
+People from Georgia (U.S. state) - c-p wiki:2 words:1
+France - p-c wiki:15 words:2
+France - c-p wiki:3 words:1
+Movie festivals - c-p wiki:2 words:1
+Logic - p-c wiki:4 words:0
+Logic - c-p wiki:1 words:1
+Gondwana - p-c wiki:1 words:0
+Gondwana - c-p wiki:1 words:1
+Madagascar - c-p wiki:1 words:0
+1767 births - c-p wiki:2 words:0
+1845 deaths - c-p wiki:2 words:0
+United States senators - p-c wiki:1 words:0
+United States senators - c-p wiki:2 words:1
+Zimbabwe - p-c wiki:2 words:0
+Zimbabwe - c-p wiki:1 words:0
+1952 births - c-p wiki:2 words:0
+Presidents of Russia - c-p wiki:2 words:1
+Russian politicians - p-c wiki:1 words:1
+Russian politicians - c-p wiki:4 words:0
+Handheld video games - p-c wiki:1 words:0
+Handheld video games - c-p wiki:1 words:1
+Nintendo video game consoles - p-c wiki:2 words:0
+Nintendo video game consoles - c-p wiki:2 words:1
+1858 births - c-p wiki:2 words:0
+1947 deaths - c-p wiki:2 words:0
+German physicists - c-p wiki:2 words:2
+Nobel Prize in Physics winners - c-p wiki:1 words:0
+1951 births - c-p wiki:2 words:0
+Actor stubs - c-p wiki:4 words:1
+American actors - p-c wiki:8 words:3
+American actors - c-p wiki:3 words:0
+Golden Globe Award winners - c-p wiki:1 words:0
+1894 births - c-p wiki:2 words:0
+1969 deaths - c-p wiki:2 words:0
+Indian people - p-c wiki:4 words:0
+Indian people - c-p wiki:3 words:1
+Religious leaders - c-p wiki:1 words:1
+Italy - p-c wiki:14 words:2
+Italy - c-p wiki:3 words:1
+Languages of Europe - p-c wiki:7 words:3
+Languages of Europe - c-p wiki:1 words:0
+Romance languages - c-p wiki:2 words:2
+1934 - p-c wiki:4 words:2
+1934 - c-p wiki:1 words:0
+1946 births - c-p wiki:2 words:0
+Academy Award winners - p-c wiki:2 words:1
+Academy Award winners - c-p wiki:1 words:1
+American Jews - p-c wiki:2 words:0
+American Jews - c-p wiki:2 words:1
+American movie directors - p-c wiki:1 words:0
+American movie directors - c-p wiki:2 words:0
+American movie producers - c-p wiki:2 words:0
+American screenwriters - c-p wiki:3 words:1
+BAFTA Award winners - c-p wiki:1 words:0
+Jewish actors - c-p wiki:2 words:1
+Asian countries - p-c wiki:55 words:9
+Asian countries - c-p wiki:2 words:0
+British India - p-c wiki:1 words:0
+British India - c-p wiki:3 words:1
+Disputed territories - p-c wiki:1 words:1
+Disputed territories - c-p wiki:1 words:0
+Former protectorates - c-p wiki:1 words:0
+Occupied territories - p-c wiki:1 words:1
+Occupied territories - c-p wiki:1 words:0
+Roleplaying video games - p-c wiki:3 words:2
+Roleplaying video games - c-p wiki:1 words:0
+Video game stubs - c-p wiki:3 words:1
+Semitic languages - p-c wiki:1 words:1
+Semitic languages - c-p wiki:1 words:0
+1797 births - c-p wiki:2 words:0
+1851 deaths - c-p wiki:2 words:0
+Deaths from cancer - p-c wiki:4 words:2
+Deaths from cancer - c-p wiki:3 words:0
+Vegetarians - c-p wiki:1 words:0
+1918 births - c-p wiki:2 words:1
+Knights of the Order of St John - p-c wiki:2 words:1
+Knights of the Order of St John - c-p wiki:1 words:0
+Order of Merit - c-p wiki:1 words:0
+South African politicians - c-p wiki:3 words:1
+Radio - p-c wiki:6 words:1
+Radio - c-p wiki:2 words:1
+1759 births - c-p wiki:2 words:0
+1797 deaths - c-p wiki:2 words:0
+English writers - p-c wiki:7 words:3
+English writers - c-p wiki:4 words:1
+1920 births - c-p wiki:2 words:0
+1992 deaths - c-p wiki:2 words:0
+American scientists - p-c wiki:8 words:5
+American scientists - c-p wiki:2 words:0
+Atheists - p-c wiki:2 words:0
+Atheists - c-p wiki:1 words:0
+Columbia University alumni - c-p wiki:1 words:0
+Jewish American writers - c-p wiki:2 words:2
+Nightshades - p-c wiki:2 words:0
+Nightshades - c-p wiki:1 words:0
+Smoking - c-p wiki:1 words:0
+Celtic languages - c-p wiki:2 words:2
+Cornwall - p-c wiki:3 words:0
+Cornwall - c-p wiki:2 words:1
+Peninsulas - c-p wiki:1 words:1
+Marriage - c-p wiki:2 words:0
+Sacraments - c-p wiki:1 words:1
+1942 - p-c wiki:5 words:2
+1942 - c-p wiki:1 words:0
+1985 - p-c wiki:9 words:3
+1985 - c-p wiki:1 words:1
+1918 - p-c wiki:5 words:2
+1918 - c-p wiki:1 words:0
+Bolivia - p-c wiki:2 words:0
+Bolivia - c-p wiki:2 words:1
+Hip hop - p-c wiki:2 words:0
+Hip hop - c-p wiki:1 words:1
+Indo-European languages - p-c wiki:7 words:3
+Indo-European languages - c-p wiki:2 words:0
+Metals - p-c wiki:7 words:2
+Metals - c-p wiki:2 words:1
+Fire - p-c wiki:3 words:0
+Fire - c-p wiki:2 words:1
+Mythology - p-c wiki:13 words:5
+Mythology - c-p wiki:1 words:0
+Towns in Buckinghamshire - c-p wiki:2 words:0
+Emotions - c-p wiki:1 words:1
+Healthy lifestyle - p-c wiki:1 words:0
+Healthy lifestyle - c-p wiki:1 words:1
+Endangered species - c-p wiki:2 words:2
+Tigers - c-p wiki:1 words:0
+Mammals of Africa - c-p wiki:1 words:0
+Panthera - p-c wiki:1 words:1
+Panthera - c-p wiki:1 words:0
+Felines - p-c wiki:2 words:0
+Felines - c-p wiki:1 words:0
+1912 - p-c wiki:3 words:2
+1912 - c-p wiki:1 words:0
+Clocks - c-p wiki:2 words:0
+American Civil War - p-c wiki:3 words:0
+American Civil War - c-p wiki:3 words:3
+Confederate States of America - c-p wiki:1 words:0
+Former countries - p-c wiki:7 words:1
+Former countries - c-p wiki:2 words:1
+United States stubs - p-c wiki:2 words:2
+United States stubs - c-p wiki:3 words:1
+Hesse - p-c wiki:3 words:0
+Hesse - c-p wiki:1 words:0
+1944 - p-c wiki:2 words:1
+1944 - c-p wiki:1 words:0
+1960s music groups - c-p wiki:2 words:0
+1970s music groups - c-p wiki:2 words:0
+1980s music groups - c-p wiki:2 words:0
+1990s music groups - c-p wiki:2 words:0
+2000s music groups - p-c wiki:2 words:0
+2000s music groups - c-p wiki:2 words:0
+2010s music groups - p-c wiki:1 words:0
+2010s music groups - c-p wiki:2 words:0
+Music stubs - c-p wiki:3 words:0
+Rolling Stones - c-p wiki:1 words:0
+Cities in Lower Saxony - c-p wiki:2 words:0
+1875 births - c-p wiki:2 words:0
+Occultists - c-p wiki:2 words:0
+1899 births - c-p wiki:2 words:0
+1987 deaths - c-p wiki:2 words:0
+American dancers - c-p wiki:2 words:0
+American singers - p-c wiki:12 words:0
+American singers - c-p wiki:2 words:0
+American stage actors - p-c wiki:1 words:0
+American stage actors - c-p wiki:2 words:1
+Kennedy Center honorees - p-c wiki:1 words:0
+Kennedy Center honorees - c-p wiki:1 words:0
+1954 births - c-p wiki:2 words:0
+Chancellors of Germany - c-p wiki:2 words:1
+East German politicians - c-p wiki:1 words:0
+Members of the German Bundestag - p-c wiki:2 words:1
+Members of the German Bundestag - c-p wiki:1 words:0
+People from Hamburg - c-p wiki:2 words:0
+Politicians of the Christian Democratic Union of Germany - c-p wiki:2 words:0
+Protestants - p-c wiki:3 words:0
+Protestants - c-p wiki:2 words:1
+1835 - p-c wiki:3 words:1
+1835 - c-p wiki:1 words:0
+Ethiopia - p-c wiki:1 words:0
+Ethiopia - c-p wiki:1 words:0
+Italian-speaking countries - p-c wiki:2 words:2
+Italian-speaking countries - c-p wiki:1 words:0
+1685 - p-c wiki:2 words:0
+1685 - c-p wiki:1 words:0
+Marsupials - p-c wiki:2 words:2
+Marsupials - c-p wiki:1 words:1
+Capital cities in South America - p-c wiki:1 words:0
+Capital cities in South America - c-p wiki:2 words:1
+Cities in Argentina - p-c wiki:1 words:0
+Cities in Argentina - c-p wiki:3 words:0
+1908 births - c-p wiki:2 words:0
+1973 deaths - c-p wiki:2 words:0
+US Democratic Party politicians - c-p wiki:2 words:1
+Dravidian languages - p-c wiki:1 words:0
+Dravidian languages - c-p wiki:1 words:0
+Languages of India - p-c wiki:1 words:1
+Languages of India - c-p wiki:2 words:0
+Bacteria - p-c wiki:2 words:0
+Bacteria - c-p wiki:2 words:2
+Microbiology - p-c wiki:6 words:4
+Microbiology - c-p wiki:1 words:1
+Prokaryotes - c-p wiki:1 words:1
+American soccer teams - p-c wiki:1 words:0
+American soccer teams - c-p wiki:2 words:0
+1516 births - c-p wiki:2 words:0
+1558 deaths - c-p wiki:2 words:0
+House of Tudor - c-p wiki:3 words:1
+Kings and Queens of England - p-c wiki:5 words:2
+Kings and Queens of England - c-p wiki:3 words:2
+1536 deaths - c-p wiki:2 words:0
+Kings and Queens consort of England - c-p wiki:1 words:1
+Princes and Princesses of Wales - c-p wiki:2 words:1
+1977 births - c-p wiki:2 words:0
+2009 deaths - c-p wiki:1 words:0
+Deaths from pneumonia - c-p wiki:2 words:1
+People from New Jersey - c-p wiki:2 words:0
+Capital cities in Africa - p-c wiki:1 words:1
+Capital cities in Africa - c-p wiki:2 words:1
+Capital of Egypt - c-p wiki:3 words:2
+Cities in Egypt - p-c wiki:1 words:1
+Cities in Egypt - c-p wiki:3 words:0
+1520s births - p-c wiki:4 words:0
+1520s births - c-p wiki:2 words:0
+1542 deaths - c-p wiki:2 words:0
+Kentucky - p-c wiki:6 words:1
+Kentucky - c-p wiki:1 words:0
+Wyoming - p-c wiki:7 words:0
+Wyoming - c-p wiki:1 words:0
+Animation studios - p-c wiki:1 words:0
+Animation studios - c-p wiki:2 words:1
+Evolutionary biology - p-c wiki:3 words:2
+Evolutionary biology - c-p wiki:1 words:1
+Extinction events - c-p wiki:4 words:4
+Volcanology - p-c wiki:1 words:1
+Volcanology - c-p wiki:2 words:1
+Illinois - p-c wiki:6 words:2
+Illinois - c-p wiki:1 words:0
+Midwestern United States - c-p wiki:1 words:1
+Seattle, Washington - c-p wiki:1 words:0
+Central Asian countries - p-c wiki:2 words:1
+Central Asian countries - c-p wiki:1 words:1
+Kazakhstan - p-c wiki:3 words:0
+Kazakhstan - c-p wiki:1 words:1
+Cities in Florida - p-c wiki:4 words:2
+Cities in Florida - c-p wiki:2 words:0
+County seats in Florida - p-c wiki:1 words:1
+County seats in Florida - c-p wiki:2 words:1
+New Testament - p-c wiki:2 words:1
+New Testament - c-p wiki:1 words:0
+3 births - c-p wiki:1 words:0
+67 deaths - c-p wiki:1 words:1
+Early Christian Saints - c-p wiki:1 words:0
+Old Testament - p-c wiki:2 words:1
+Old Testament - c-p wiki:1 words:0
+Biology stubs - c-p wiki:3 words:1
+Domesticated animals - p-c wiki:1 words:0
+Domesticated animals - c-p wiki:2 words:2
+Horses - p-c wiki:1 words:0
+Horses - c-p wiki:1 words:1
+Mammals - p-c wiki:15 words:1
+Mammals - c-p wiki:1 words:0
+Meats - c-p wiki:1 words:1
+Transportation - p-c wiki:26 words:2
+Transportation - c-p wiki:1 words:1
+Nevada - p-c wiki:6 words:0
+Nevada - c-p wiki:1 words:0
+1948 movies - c-p wiki:2 words:0
+1960 movies - c-p wiki:2 words:0
+1990 movies - c-p wiki:2 words:0
+1996 movies - c-p wiki:2 words:0
+Plays by William Shakespeare - c-p wiki:3 words:0
+Cities in Alabama - p-c wiki:1 words:1
+Cities in Alabama - c-p wiki:2 words:0
+Cities in England - p-c wiki:8 words:1
+Cities in England - c-p wiki:3 words:0
+Merseyside - p-c wiki:2 words:0
+Merseyside - c-p wiki:2 words:0
+Fungi - p-c wiki:1 words:0
+Fungi - c-p wiki:1 words:0
+1915 deaths - c-p wiki:2 words:0
+20th century composers - c-p wiki:2 words:0
+Romantic composers - c-p wiki:1 words:0
+Russian composers - c-p wiki:2 words:0
+Russian pianists - c-p wiki:2 words:0
+U2 - p-c wiki:1 words:1
+U2 - c-p wiki:3 words:1
+1970 births - c-p wiki:2 words:0
+People from New York - p-c wiki:2 words:2
+People from New York - c-p wiki:2 words:0
+Pop musicians - p-c wiki:6 words:0
+Pop musicians - c-p wiki:2 words:0
+1874 births - c-p wiki:2 words:0
+1964 deaths - c-p wiki:2 words:0
+Quakers - c-p wiki:1 words:0
+United States Secretaries of Commerce - c-p wiki:2 words:1
+World War I - p-c wiki:3 words:0
+World War I - c-p wiki:1 words:1
+1848 deaths - c-p wiki:2 words:0
+Children of Presidents of the United States - c-p wiki:2 words:0
+Democratic Republican party (US) politicians - c-p wiki:1 words:1
+Federalist party (US) politicians - c-p wiki:1 words:1
+National Republican party (US) politicians - c-p wiki:1 words:1
+United States Secretaries of State - c-p wiki:1 words:1
+Whig party (US) politicians - c-p wiki:1 words:1
+Islamic denominations - c-p wiki:1 words:1
+Hyperoperations - c-p wiki:1 words:0
+Indiana - p-c wiki:7 words:2
+Indiana - c-p wiki:1 words:0
+Central African Republic - c-p wiki:1 words:0
+French-speaking countries - p-c wiki:4 words:1
+French-speaking countries - c-p wiki:1 words:0
+Maryland - p-c wiki:5 words:2
+Maryland - c-p wiki:1 words:0
+Fictional animals - p-c wiki:3 words:0
+Fictional animals - c-p wiki:2 words:0
+Nicktoons - c-p wiki:1 words:0
+SpongeBob SquarePants - c-p wiki:2 words:1
+1703 - p-c wiki:2 words:1
+1703 - c-p wiki:1 words:0
+Costa Rica - p-c wiki:4 words:0
+Costa Rica - c-p wiki:1 words:0
+Spanish-speaking countries - p-c wiki:16 words:1
+Spanish-speaking countries - c-p wiki:1 words:0
+Phasianidae - c-p wiki:1 words:0
+1867 - p-c wiki:3 words:1
+1867 - c-p wiki:1 words:0
+Malware - c-p wiki:1 words:1
+1596 births - c-p wiki:2 words:0
+1650 deaths - c-p wiki:2 words:0
+French philosophers - c-p wiki:2 words:0
+French physicists - c-p wiki:2 words:1
+1707 establishments - c-p wiki:1 words:0
+1800 disestablishments - c-p wiki:1 words:0
+Former countries in the British Isles - c-p wiki:3 words:3
+Former monarchies of Europe - c-p wiki:2 words:1
+Former state unions - c-p wiki:1 words:0
+History of the United Kingdom - p-c wiki:4 words:2
+History of the United Kingdom - c-p wiki:3 words:2
+American punk bands - p-c wiki:5 words:1
+American punk bands - c-p wiki:2 words:0
+Animation - p-c wiki:6 words:3
+Animation - c-p wiki:1 words:1
+Movies - p-c wiki:28 words:2
+Movies - c-p wiki:2 words:2
+478 BC deaths - c-p wiki:2 words:0
+551 BC births - c-p wiki:2 words:0
+Chinese people - p-c wiki:9 words:0
+Chinese people - c-p wiki:3 words:1
+Confucianism - c-p wiki:2 words:1
+Eastern philosophers - c-p wiki:1 words:0
+Medical specialties - p-c wiki:12 words:3
+Medical specialties - c-p wiki:1 words:1
+1890 births - c-p wiki:2 words:0
+1937 deaths - c-p wiki:2 words:0
+American writers - p-c wiki:9 words:0
+American writers - c-p wiki:2 words:0
+Linux distributions - p-c wiki:4 words:0
+Linux distributions - c-p wiki:2 words:2
+X86-64 Linux distributions - c-p wiki:1 words:0
+Sensory system - c-p wiki:3 words:1
+Cardiovascular system - p-c wiki:2 words:0
+Cardiovascular system - c-p wiki:1 words:0
+Heart disease - c-p wiki:2 words:1
+Digestive system - c-p wiki:1 words:0
+The Simpsons characters - c-p wiki:2 words:1
+South Dakota - p-c wiki:5 words:0
+South Dakota - c-p wiki:1 words:0
+Pets - p-c wiki:4 words:1
+Pets - c-p wiki:1 words:1
+Rodents - p-c wiki:5 words:0
+Rodents - c-p wiki:1 words:1
+Record labels - p-c wiki:10 words:2
+Record labels - c-p wiki:3 words:0
+Muscular system - c-p wiki:1 words:0
+Tissues - p-c wiki:1 words:1
+Tissues - c-p wiki:1 words:0
+Medical signs - c-p wiki:1 words:1
+1996 video games - c-p wiki:2 words:0
+3D platform games - c-p wiki:1 words:1
+Mario platform games - c-p wiki:1 words:0
+Nintendo 64 games - c-p wiki:1 words:0
+File formats for music - c-p wiki:2 words:0
+1998 video games - c-p wiki:2 words:0
+PlayStation games - c-p wiki:2 words:0
+American bands - p-c wiki:5 words:2
+American bands - c-p wiki:2 words:0
+Internet - p-c wiki:17 words:0
+Internet - c-p wiki:2 words:0
+Alkali metals - c-p wiki:1 words:1
+Animated television series - p-c wiki:7 words:2
+Animated television series - c-p wiki:2 words:1
+Fox Broadcasting Company - c-p wiki:1 words:0
+The Simpsons - p-c wiki:2 words:1
+The Simpsons - c-p wiki:2 words:1
+Toothed whales - p-c wiki:2 words:0
+Toothed whales - c-p wiki:1 words:0
+Pigs - c-p wiki:1 words:0
+South-central Asia - p-c wiki:6 words:3
+South-central Asia - c-p wiki:1 words:0
+Tajikistan - p-c wiki:1 words:1
+Tajikistan - c-p wiki:3 words:3
+Fantasy movies - p-c wiki:2 words:0
+Fantasy movies - c-p wiki:2 words:0
+Final Fantasy games - c-p wiki:2 words:1
+New Orleans, Louisiana - c-p wiki:1 words:0
+Woodwind instruments - c-p wiki:1 words:1
+DC Comics characters - p-c wiki:1 words:0
+DC Comics characters - c-p wiki:2 words:0
+Fantasy television series - p-c wiki:2 words:0
+Fantasy television series - c-p wiki:2 words:0
+Feminism - p-c wiki:1 words:1
+Feminism - c-p wiki:2 words:1
+Battles of World War II - c-p wiki:2 words:2
+Normandy - p-c wiki:2 words:0
+Normandy - c-p wiki:1 words:0
+Buildings and structures in Washington, D.C. - p-c wiki:1 words:1
+Buildings and structures in Washington, D.C. - c-p wiki:2 words:0
+Computer science - p-c wiki:17 words:2
+Computer science - c-p wiki:2 words:0
+Computing measurement - c-p wiki:2 words:0
+Algebra - c-p wiki:1 words:0
+Electronics - p-c wiki:5 words:2
+Electronics - c-p wiki:2 words:2
+Logic gates - c-p wiki:4 words:0
+Math stubs - c-p wiki:3 words:1
+Botswana - c-p wiki:1 words:0
+English-speaking countries - p-c wiki:10 words:2
+English-speaking countries - c-p wiki:1 words:0
+West Virginia - p-c wiki:7 words:1
+West Virginia - c-p wiki:1 words:0
+Virginia - p-c wiki:6 words:1
+Virginia - c-p wiki:1 words:0
+South Carolina - p-c wiki:5 words:1
+South Carolina - c-p wiki:1 words:0
+Rhode Island - p-c wiki:4 words:0
+Rhode Island - c-p wiki:1 words:0
+New Hampshire - p-c wiki:5 words:2
+New Hampshire - c-p wiki:1 words:0
+Apple products - c-p wiki:1 words:0
+Drinks - p-c wiki:6 words:2
+Drinks - c-p wiki:2 words:0
+Miami, Florida - p-c wiki:1 words:0
+Miami, Florida - c-p wiki:2 words:2
+Eritrea - c-p wiki:2 words:1
+Greater Middle East - p-c wiki:8 words:4
+Greater Middle East - c-p wiki:1 words:0
+323 BC deaths - c-p wiki:2 words:0
+356 BC births - c-p wiki:2 words:0
+Emperors and empresses - p-c wiki:5 words:5
+Emperors and empresses - c-p wiki:1 words:0
+People from Ancient Greece - p-c wiki:3 words:2
+People from Ancient Greece - c-p wiki:2 words:1
+Austronesian languages - c-p wiki:1 words:0
+Sudan - p-c wiki:4 words:1
+Sudan - c-p wiki:2 words:1
+1910 - p-c wiki:3 words:1
+1910 - c-p wiki:1 words:0
+Punk rock - p-c wiki:3 words:0
+Punk rock - c-p wiki:1 words:1
+Rock music - p-c wiki:10 words:2
+Rock music - c-p wiki:1 words:1
+Capital cities in Australia - p-c wiki:3 words:2
+Capital cities in Australia - c-p wiki:2 words:2
+Perth, Western Australia - c-p wiki:2 words:0
+Battles - p-c wiki:5 words:1
+Battles - c-p wiki:1 words:1
+Discrimination - p-c wiki:3 words:1
+Discrimination - c-p wiki:1 words:0
+Fascism - p-c wiki:1 words:0
+Fascism - c-p wiki:1 words:0
+Forms of government - p-c wiki:7 words:0
+Forms of government - c-p wiki:1 words:0
+World War II - p-c wiki:6 words:2
+World War II - c-p wiki:1 words:1
+Gibraltar - c-p wiki:1 words:1
+Seven Wonders of the Modern World - c-p wiki:1 words:1
+Seven Wonders of the World - p-c wiki:1 words:1
+Seven Wonders of the World - c-p wiki:2 words:2
+Edible fish - c-p wiki:2 words:1
+Perciformes - c-p wiki:1 words:0
+Cnidarians - c-p wiki:1 words:1
+US Virgin Islands - p-c wiki:1 words:0
+US Virgin Islands - c-p wiki:3 words:2
+740s births - c-p wiki:2 words:0
+814 deaths - c-p wiki:2 words:0
+History of Germany - p-c wiki:12 words:7
+History of Germany - c-p wiki:3 words:1
+Holy Roman Emperors - c-p wiki:2 words:0
+Kings and Queens of France - c-p wiki:3 words:0
+1857 births - c-p wiki:2 words:0
+1930 deaths - c-p wiki:2 words:0
+Chief Justices of the United States - c-p wiki:1 words:0
+Judges - p-c wiki:1 words:0
+Judges - c-p wiki:1 words:0
+United States Supreme Court justices - p-c wiki:1 words:0
+United States Supreme Court justices - c-p wiki:2 words:0
+Equids - p-c wiki:1 words:1
+Equids - c-p wiki:1 words:0
+Iranian languages - p-c wiki:3 words:0
+Iranian languages - c-p wiki:1 words:0
+Languages of Afghanistan - c-p wiki:2 words:0
+Languages of Iran - c-p wiki:2 words:0
+Languages of Tajikistan - c-p wiki:2 words:1
+Pop punk bands - p-c wiki:2 words:0
+Pop punk bands - c-p wiki:2 words:0
+Concentration camps - p-c wiki:1 words:0
+Concentration camps - c-p wiki:2 words:1
+Nazi concentration camps - p-c wiki:1 words:0
+Nazi concentration camps - c-p wiki:2 words:1
+History stubs - c-p wiki:3 words:1
+Nazi Germany - p-c wiki:3 words:2
+Nazi Germany - c-p wiki:6 words:2
+Cucurbitaceae - c-p wiki:1 words:0
+Melons - c-p wiki:1 words:1
+Guam - p-c wiki:2 words:0
+Guam - c-p wiki:1 words:0
+Micronesian islands - p-c wiki:2 words:0
+Micronesian islands - c-p wiki:1 words:0
+United States territories - p-c wiki:2 words:1
+United States territories - c-p wiki:1 words:1
+English hard rock bands - p-c wiki:1 words:1
+English hard rock bands - c-p wiki:2 words:1
+English heavy metal bands - p-c wiki:2 words:1
+English heavy metal bands - c-p wiki:2 words:2
+Reptiles - p-c wiki:8 words:1
+Reptiles - c-p wiki:1 words:0
+1991 deaths - c-p wiki:2 words:0
+British singers - p-c wiki:4 words:0
+British singers - c-p wiki:2 words:0
+Indian singers - c-p wiki:2 words:0
+Rock musicians - p-c wiki:3 words:0
+Rock musicians - c-p wiki:2 words:1
+Biblical people - p-c wiki:2 words:1
+Biblical people - c-p wiki:2 words:1
+Wikimedia - p-c wiki:1 words:0
+Wikimedia - c-p wiki:2 words:1
+Wikis - p-c wiki:1 words:0
+Wikis - c-p wiki:1 words:0
+Canadian guitarists - c-p wiki:2 words:0
+Canadian singers - p-c wiki:2 words:0
+Canadian singers - c-p wiki:2 words:0
+Canadian songwriters - p-c wiki:1 words:0
+Canadian songwriters - c-p wiki:2 words:0
+Country musicians - c-p wiki:2 words:1
+Folk musicians - c-p wiki:2 words:1
+People from Ontario - p-c wiki:5 words:0
+People from Ontario - c-p wiki:2 words:0
+1800 births - c-p wiki:3 words:0
+1874 deaths - c-p wiki:2 words:0
+New York politicians - p-c wiki:2 words:1
+New York politicians - c-p wiki:2 words:2
+1790 births - c-p wiki:2 words:0
+1862 deaths - c-p wiki:2 words:0
+People from Virginia - c-p wiki:2 words:1
+Presidents pro tempore of the United States Senate - c-p wiki:1 words:0
+Computer protocols - p-c wiki:1 words:1
+Computer protocols - c-p wiki:1 words:1
+IRC - p-c wiki:4 words:0
+IRC - c-p wiki:1 words:1
+Internet communication - p-c wiki:2 words:2
+Internet communication - c-p wiki:3 words:1
+2003 movies - c-p wiki:2 words:1
+Movie stubs - c-p wiki:3 words:1
+Pirates of the Caribbean - c-p wiki:3 words:1
+1982 movies - c-p wiki:2 words:0
+American movies - p-c wiki:8 words:1
+American movies - c-p wiki:2 words:0
+Animated movies - p-c wiki:3 words:1
+Animated movies - c-p wiki:2 words:1
+Children\'s movies - c-p wiki:2 words:1
+English language movies - p-c wiki:6 words:2
+English language movies - c-p wiki:1 words:0
+Family movies - c-p wiki:1 words:0
+1985 movies - c-p wiki:2 words:1
+1998 movies - c-p wiki:2 words:0
+Disney animated movies - p-c wiki:1 words:0
+Disney animated movies - c-p wiki:2 words:1
+Musical movies - p-c wiki:1 words:0
+Musical movies - c-p wiki:1 words:0
+Cities and towns in Russia - p-c wiki:2 words:1
+Cities and towns in Russia - c-p wiki:5 words:0
+Saint Petersburg - c-p wiki:1 words:1
+Astronomical phenomena - c-p wiki:1 words:0
+AC/DC - p-c wiki:1 words:0
+AC/DC - c-p wiki:3 words:0
+Australian bands - p-c wiki:1 words:0
+Australian bands - c-p wiki:2 words:0
+Hard rock bands - p-c wiki:4 words:1
+Hard rock bands - c-p wiki:2 words:0
+Heavy metal bands - p-c wiki:3 words:1
+Heavy metal bands - c-p wiki:2 words:0
+1340s births - p-c wiki:2 words:0
+1340s births - c-p wiki:2 words:1
+1400 deaths - c-p wiki:2 words:1
+Medieval poets - c-p wiki:2 words:1
+People buried in Westminster Abbey - c-p wiki:3 words:1
+2005 movies - c-p wiki:2 words:0
+Movies directed by George Lucas - p-c wiki:1 words:1
+Movies directed by George Lucas - c-p wiki:1 words:0
+Prequel movies - c-p wiki:1 words:1
+Star Wars movies - c-p wiki:7 words:3
+Typography - p-c wiki:2 words:0
+Typography - c-p wiki:2 words:1
+Writing tools - c-p wiki:2 words:2
+1933 births - c-p wiki:2 words:1
+Emperors of Japan - c-p wiki:3 words:3
+1841 - p-c wiki:4 words:1
+1841 - c-p wiki:1 words:0
+Trinidad and Tobago - p-c wiki:1 words:0
+Trinidad and Tobago - c-p wiki:1 words:1
+Politics of the United States - p-c wiki:5 words:1
+Politics of the United States - c-p wiki:2 words:0
+1856 deaths - c-p wiki:2 words:0
+German poets - c-p wiki:2 words:1
+People from DÅsseldorf - c-p wiki:2 words:0
+Airports in Germany - c-p wiki:3 words:0
+DÅsseldorf - p-c wiki:1 words:0
+DÅsseldorf - c-p wiki:2 words:0
+Cities in North Rhine-Westphalia - p-c wiki:2 words:1
+Cities in North Rhine-Westphalia - c-p wiki:2 words:0
+Former republics - p-c wiki:1 words:0
+Former republics - c-p wiki:1 words:0
+Imperial free cities - c-p wiki:1 words:1
+Urban districts in Regierungsbezirk Cologne - p-c wiki:2 words:1
+Urban districts in Regierungsbezirk Cologne - c-p wiki:1 words:0
+1977 movies - c-p wiki:2 words:0
+ASEAN Members - c-p wiki:2 words:2
+Brunei - p-c wiki:1 words:0
+Brunei - c-p wiki:1 words:1
+Cities in Colombia - c-p wiki:2 words:0
+History of the United States - p-c wiki:10 words:1
+History of the United States - c-p wiki:3 words:1
+Wars - p-c wiki:10 words:5
+Wars - c-p wiki:1 words:0
+Armenian Genocide - c-p wiki:4 words:1
+American rock bands - p-c wiki:11 words:1
+American rock bands - c-p wiki:2 words:0
+Fall Out Boy - p-c wiki:2 words:0
+Fall Out Boy - c-p wiki:1 words:1
+1980 movies - c-p wiki:2 words:0
+Cephalopods - p-c wiki:1 words:0
+Cephalopods - c-p wiki:1 words:0
+Mimicry - c-p wiki:2 words:1
+Fictional characters - p-c wiki:7 words:0
+Fictional characters - c-p wiki:1 words:1
+Horror movies - p-c wiki:1 words:0
+Horror movies - c-p wiki:2 words:0
+Comics - p-c wiki:6 words:0
+Comics - c-p wiki:2 words:1
+Number theory - p-c wiki:1 words:0
+Number theory - c-p wiki:2 words:0
+Academy Awards - p-c wiki:1 words:0
+Academy Awards - c-p wiki:1 words:0
+Technology - p-c wiki:24 words:6
+Technology - c-p wiki:1 words:0
+Dog breeds - p-c wiki:1 words:0
+Dog breeds - c-p wiki:1 words:1
+Cities in Connecticut - c-p wiki:2 words:0
+Cities in Vermont - c-p wiki:2 words:0
+Cities in New Hampshire - c-p wiki:2 words:1
+Columbus, Ohio - c-p wiki:1 words:0
+County seats in South Dakota - c-p wiki:2 words:0
+Cities in Illinois - p-c wiki:2 words:1
+Cities in Illinois - c-p wiki:2 words:0
+Cities in Hungary - c-p wiki:3 words:0
+Science fiction television series - p-c wiki:4 words:1
+Science fiction television series - c-p wiki:2 words:0
+Burkina Faso - p-c wiki:3 words:0
+Burkina Faso - c-p wiki:1 words:0
+Equatorial Guinea - c-p wiki:1 words:0
+E-mail - c-p wiki:1 words:0
+Messaging - p-c wiki:4 words:1
+Messaging - c-p wiki:1 words:0
+1989 deaths - c-p wiki:2 words:0
+American rapists - c-p wiki:1 words:0
+American serial killers - c-p wiki:2 words:1
+Executed people - c-p wiki:1 words:0
+Association of American Universities - c-p wiki:3 words:0
+Colleges and universities in Connecticut - c-p wiki:2 words:0
+ECAC Hockey - c-p wiki:1 words:0
+Ivy League - c-p wiki:1 words:0
+Halogens - c-p wiki:1 words:1
+Vitamins - c-p wiki:1 words:0
+Fiction - p-c wiki:10 words:1
+Fiction - c-p wiki:2 words:0
+Boston Bruins - p-c wiki:1 words:0
+Boston Bruins - c-p wiki:2 words:0
+Uralic languages - c-p wiki:2 words:1
+1777 births - c-p wiki:2 words:0
+1855 deaths - c-p wiki:2 words:0
+Child prodigies - c-p wiki:1 words:0
+German mathematicians - c-p wiki:2 words:1
+Geography of the United States - p-c wiki:9 words:2
+Geography of the United States - c-p wiki:3 words:1
+Landforms - p-c wiki:14 words:3
+Landforms - c-p wiki:3 words:2
+National parks in the U.S.A. - c-p wiki:1 words:0
+World Heritage Sites in the U.S.A. - c-p wiki:1 words:0
+Vancouver, British Columbia - p-c wiki:1 words:0
+Vancouver, British Columbia - c-p wiki:2 words:1
+Vancouver Canucks - p-c wiki:1 words:1
+Vancouver Canucks - c-p wiki:2 words:0
+1969 movies - c-p wiki:2 words:0
+Best Picture Oscar - c-p wiki:1 words:0
+Drama movies - p-c wiki:1 words:0
+Drama movies - c-p wiki:1 words:0
+Ayyavazhi - c-p wiki:1 words:0
+1869 books - c-p wiki:2 words:1
+Books by Leo Tolstoy - c-p wiki:1 words:0
+Literature stubs - c-p wiki:3 words:0
+Sierra Leone - c-p wiki:1 words:0
+Colors - c-p wiki:3 words:3
+1728 births - c-p wiki:2 words:0
+1779 deaths - c-p wiki:2 words:0
+English explorers - c-p wiki:2 words:1
+Exploration of Australia - c-p wiki:1 words:0
+Holidays - p-c wiki:4 words:0
+Holidays - c-p wiki:1 words:1
+1791 - p-c wiki:2 words:1
+1791 - c-p wiki:1 words:0
+Diseases caused by viruses - p-c wiki:1 words:0
+Diseases caused by viruses - c-p wiki:3 words:0
+Pulmonology - c-p wiki:1 words:1
+Somaliland - c-p wiki:1 words:0
+States of Somalia - c-p wiki:1 words:1
+1661 - p-c wiki:3 words:0
+1661 - c-p wiki:1 words:0
+1688 - p-c wiki:1 words:0
+1688 - c-p wiki:1 words:0
+1759 - p-c wiki:2 words:2
+1759 - c-p wiki:1 words:0
+Assault rifles - c-p wiki:1 words:0
+States of Mexico - c-p wiki:2 words:0
+Turkmenistan - p-c wiki:1 words:0
+Turkmenistan - c-p wiki:3 words:3
+1793 - p-c wiki:2 words:0
+1793 - c-p wiki:1 words:0
+Christianity - p-c wiki:19 words:3
+Christianity - c-p wiki:1 words:0
+Myanmar - p-c wiki:3 words:0
+Myanmar - c-p wiki:2 words:1
+Cities in Amazonas State - c-p wiki:1 words:0
+Saint Lucia - c-p wiki:1 words:1
+American people stubs - c-p wiki:5 words:2
+Emmy Award winners - c-p wiki:1 words:0
+Grammy Award winners - p-c wiki:3 words:1
+Grammy Award winners - c-p wiki:1 words:0
+Tony Award winners - c-p wiki:1 words:0
+Ethology - c-p wiki:2 words:2
+Physiology - p-c wiki:10 words:6
+Physiology - c-p wiki:2 words:2
+Caribbean islands - p-c wiki:7 words:2
+Caribbean islands - c-p wiki:1 words:0
+Commonwealth dependent states - p-c wiki:2 words:1
+Commonwealth dependent states - c-p wiki:2 words:2
+265 BC deaths - c-p wiki:2 words:0
+325 BC births - c-p wiki:2 words:0
+Ancient mathematicians - c-p wiki:2 words:1
+Stationery - c-p wiki:1 words:0
+Programming languages - p-c wiki:2 words:0
+Programming languages - c-p wiki:1 words:0
+Atlantic hurricane seasons - p-c wiki:21 words:0
+Atlantic hurricane seasons - c-p wiki:1 words:0
+Events by year - p-c wiki:14 words:0
+Events by year - c-p wiki:1 words:0
+1963 - p-c wiki:3 words:2
+1963 - c-p wiki:1 words:0
+2000 video games - c-p wiki:2 words:0
+The Sims - c-p wiki:3 words:0
+Seven deadly sins - c-p wiki:1 words:0
+1606 births - c-p wiki:2 words:0
+1669 deaths - c-p wiki:2 words:0
+Dutch painters - c-p wiki:2 words:0
+Hominids - p-c wiki:1 words:1
+Hominids - c-p wiki:1 words:0
+Country music - p-c wiki:1 words:0
+Country music - c-p wiki:1 words:1
+Entertainment in the United States - p-c wiki:4 words:0
+Entertainment in the United States - c-p wiki:2 words:1
+1940 births - c-p wiki:2 words:1
+Kings and Queens of Denmark - c-p wiki:2 words:1
+Knights Grand Cross of the Royal Victorian Order - c-p wiki:1 words:0
+Capital cities of Switzerland - c-p wiki:2 words:1
+Municipalities of Bern - c-p wiki:2 words:0
+Prime Ministers of Canada - c-p wiki:1 words:0
+Magnetism - c-p wiki:1 words:1
+Blues music - p-c wiki:2 words:1
+Blues music - c-p wiki:1 words:1
+Economics - p-c wiki:22 words:0
+Economics - c-p wiki:1 words:0
+Asian people - p-c wiki:23 words:2
+Asian people - c-p wiki:2 words:0
+United Arab Emirates - p-c wiki:3 words:0
+United Arab Emirates - c-p wiki:3 words:1
+Uttar Pradesh - c-p wiki:1 words:0
+Lists of Heads of state - c-p wiki:2 words:1
+Politics of Australia - p-c wiki:2 words:0
+Politics of Australia - c-p wiki:2 words:1
+Alcohol - p-c wiki:2 words:1
+Alcohol - c-p wiki:1 words:1
+Arachnids - p-c wiki:1 words:0
+Arachnids - c-p wiki:1 words:0
+Freedom - c-p wiki:1 words:1
+Voivodeships of Poland - c-p wiki:1 words:0
+1680 - p-c wiki:4 words:1
+1680 - c-p wiki:1 words:0
+Natural events - p-c wiki:1 words:0
+Natural events - c-p wiki:1 words:0
+Lists of movies - c-p wiki:2 words:2
+1561 births - c-p wiki:2 words:0
+1626 deaths - c-p wiki:2 words:0
+1847 births - c-p wiki:2 words:0
+1911 deaths - c-p wiki:2 words:0
+American journalists - c-p wiki:2 words:1
+Pulitzer Prizes - p-c wiki:1 words:1
+Pulitzer Prizes - c-p wiki:2 words:0
+1981 movies - c-p wiki:2 words:0
+Indiana Jones movies - c-p wiki:7 words:4
+Twelve Olympians - c-p wiki:1 words:0
+Ford - p-c wiki:1 words:0
+Ford - c-p wiki:1 words:0
+1840 births - c-p wiki:2 words:0
+1926 deaths - c-p wiki:2 words:0
+French painters - c-p wiki:2 words:0
+People from Paris - c-p wiki:1 words:0
+1986 - p-c wiki:8 words:2
+1986 - c-p wiki:1 words:1
+Nuclear accidents - c-p wiki:2 words:1
+Nuclear energy - p-c wiki:1 words:0
+Nuclear energy - c-p wiki:2 words:2
+Ukraine - p-c wiki:7 words:0
+Ukraine - c-p wiki:1 words:0
+Oleaceae - c-p wiki:1 words:0
+Trees - p-c wiki:2 words:0
+Trees - c-p wiki:1 words:1
+Russia - p-c wiki:11 words:2
+Russia - c-p wiki:3 words:1
+New Testament people - p-c wiki:1 words:0
+New Testament people - c-p wiki:2 words:1
+Sexually transmitted diseases - p-c wiki:1 words:0
+Sexually transmitted diseases - c-p wiki:2 words:1
+1983 births - c-p wiki:2 words:0
+Japanese singers - c-p wiki:2 words:0
+People from New York City - c-p wiki:2 words:1
+Songwriters - p-c wiki:2 words:0
+Songwriters - c-p wiki:1 words:0
+States of Brazil - p-c wiki:1 words:0
+States of Brazil - c-p wiki:2 words:0
+Islands of Canada - c-p wiki:3 words:1
+Overseas Territories of France - c-p wiki:1 words:0
+Houston, Texas - c-p wiki:1 words:0
+Materials - p-c wiki:10 words:3
+Materials - c-p wiki:1 words:0
+Navigation - c-p wiki:1 words:1
+Transition metals - c-p wiki:2 words:2
+1684 - p-c wiki:2 words:0
+1684 - c-p wiki:1 words:0
+Folk music - p-c wiki:2 words:0
+Folk music - c-p wiki:1 words:1
+1921 births - c-p wiki:2 words:0
+Nuclear physicists - c-p wiki:2 words:2
+Russian scientists - p-c wiki:3 words:0
+Russian scientists - c-p wiki:2 words:0
+1686 - p-c wiki:1 words:0
+1686 - c-p wiki:1 words:0
+Easter traditions - c-p wiki:1 words:0
+Archaeans - c-p wiki:2 words:2
+Ancient Greece - p-c wiki:5 words:3
+Ancient Greece - c-p wiki:2 words:1
+Empires - p-c wiki:5 words:3
+Empires - c-p wiki:1 words:0
+History of Pakistan - p-c wiki:5 words:0
+History of Pakistan - c-p wiki:2 words:0
+1999 television series - c-p wiki:2 words:0
+1823 births - c-p wiki:2 words:0
+1917 deaths - c-p wiki:2 words:0
+Knights Commander of the Order of St Michael and St George - c-p wiki:1 words:1
+People from Suffolk - c-p wiki:2 words:0
+Privy Councillors (Canada) - c-p wiki:1 words:0
+Books by Jane Austen - c-p wiki:4 words:0
+1967 albums - c-p wiki:2 words:0
+The Beatles albums - c-p wiki:2 words:0
+1717 births - c-p wiki:2 words:0
+1780 deaths - c-p wiki:2 words:0
+Habsburg Dynasty - p-c wiki:2 words:1
+Habsburg Dynasty - c-p wiki:2 words:1
+Holy Roman Empresses consort - c-p wiki:2 words:0
+House of Habsburg-Lorraine - c-p wiki:3 words:2
+House of Lorraine - p-c wiki:3 words:0
+House of Lorraine - c-p wiki:1 words:0
+Disney movies - p-c wiki:5 words:1
+Disney movies - c-p wiki:2 words:0
+1906 births - c-p wiki:2 words:0
+1978 deaths - c-p wiki:2 words:0
+20th century philosophers - c-p wiki:2 words:0
+American mathematicians - c-p wiki:2 words:0
+Austrian scientists - c-p wiki:2 words:0
+Social sciences - p-c wiki:26 words:0
+Social sciences - c-p wiki:3 words:0
+Sustainable development - c-p wiki:3 words:1
+High-speed trains - c-p wiki:3 words:0
+Rapid transport systems - p-c wiki:5 words:0
+Rapid transport systems - c-p wiki:1 words:0
+Transportation in France - p-c wiki:1 words:0
+Transportation in France - c-p wiki:2 words:1
+Deer - c-p wiki:1 words:0
+Mammals of North America - c-p wiki:3 words:0
+1917 births - c-p wiki:2 words:0
+2010 deaths - c-p wiki:2 words:0
+American Christians - p-c wiki:1 words:0
+American Christians - c-p wiki:2 words:0
+Deans of the United States Senate - c-p wiki:1 words:0
+People from North Carolina - c-p wiki:2 words:0
+People from West Virginia - p-c wiki:1 words:0
+People from West Virginia - c-p wiki:2 words:1
+Greek mythology - p-c wiki:3 words:0
+Greek mythology - c-p wiki:2 words:1
+Papua New Guinea - c-p wiki:4 words:2
+1902 births - c-p wiki:2 words:0
+2003 deaths - c-p wiki:2 words:1
+American military people - p-c wiki:2 words:0
+American military people - c-p wiki:3 words:1
+Centenarians - p-c wiki:1 words:0
+Centenarians - c-p wiki:1 words:0
+People from South Carolina - c-p wiki:2 words:1
+Jordanian people - c-p wiki:2 words:0
+Martial artists - p-c wiki:1 words:0
+Martial artists - c-p wiki:2 words:0
+1939 births - c-p wiki:2 words:0
+People from Sydney - c-p wiki:3 words:1
+Prime Ministers of Australia - c-p wiki:2 words:1
+Germanic languages - p-c wiki:2 words:0
+Germanic languages - c-p wiki:2 words:1
+League of Nations - p-c wiki:1 words:0
+League of Nations - c-p wiki:3 words:3
+St. Louis, Missouri - p-c wiki:1 words:0
+St. Louis, Missouri - c-p wiki:1 words:0
+1999 movies - c-p wiki:2 words:0
+2002 movies - c-p wiki:2 words:0
+Crustaceans - p-c wiki:2 words:1
+Crustaceans - c-p wiki:1 words:0
+Psychology - p-c wiki:9 words:2
+Psychology - c-p wiki:1 words:0
+Sexuality - p-c wiki:4 words:2
+Sexuality - c-p wiki:1 words:0
+Treaties and Conventions - c-p wiki:2 words:1
+1884 books - c-p wiki:2 words:0
+Books by Mark Twain - c-p wiki:1 words:0
+Children\'s books - c-p wiki:1 words:0
+Fiction books - p-c wiki:10 words:0
+Fiction books - c-p wiki:2 words:1
+Colleges and universities in England - p-c wiki:3 words:0
+Colleges and universities in England - c-p wiki:1 words:0
+Leeds - c-p wiki:1 words:0
+Norway - p-c wiki:7 words:1
+Norway - c-p wiki:1 words:0
+Polynesian islands - p-c wiki:7 words:0
+Polynesian islands - c-p wiki:1 words:0
+Diprotodonts - p-c wiki:1 words:1
+Diprotodonts - c-p wiki:1 words:1
+Marsupials of Australia - p-c wiki:1 words:1
+Marsupials of Australia - c-p wiki:2 words:2
+Periods in music history - c-p wiki:1 words:0
+Kansas City, Missouri - c-p wiki:1 words:0
+1876 books - c-p wiki:2 words:0
+Illegal drugs - p-c wiki:1 words:0
+Illegal drugs - c-p wiki:2 words:0
+Heads of state - p-c wiki:9 words:3
+Heads of state - c-p wiki:1 words:0
+Monarchy - c-p wiki:3 words:0
+Kings and Queens of Scotland - c-p wiki:2 words:0
+Ancient Greek writers - p-c wiki:1 words:1
+Ancient Greek writers - c-p wiki:3 words:1
+Capital cities in Asia - p-c wiki:9 words:2
+Capital cities in Asia - c-p wiki:2 words:1
+Yerevan - c-p wiki:1 words:0
+History of China - p-c wiki:11 words:2
+History of China - c-p wiki:3 words:1
+1781 births - c-p wiki:2 words:0
+1828 deaths - c-p wiki:2 words:0
+African people - p-c wiki:8 words:0
+African people - c-p wiki:2 words:0
+History of Africa - p-c wiki:2 words:0
+History of Africa - c-p wiki:2 words:0
+History of India - p-c wiki:3 words:0
+History of India - c-p wiki:3 words:0
+Cities in Slovakia - c-p wiki:3 words:0
+Mars - c-p wiki:2 words:2
+Moons - p-c wiki:6 words:2
+Moons - c-p wiki:2 words:1
+Pluto\'s moons - c-p wiki:2 words:0
+1566 births - c-p wiki:2 words:0
+1625 deaths - c-p wiki:2 words:0
+House of Stuart - p-c wiki:1 words:1
+House of Stuart - c-p wiki:4 words:2
+1709 births - c-p wiki:2 words:0
+1784 deaths - c-p wiki:2 words:0
+Turkic languages - c-p wiki:1 words:0
+Chicago, Illinois - p-c wiki:4 words:2
+Chicago, Illinois - c-p wiki:1 words:0
+Colleges and universities in Illinois - p-c wiki:1 words:0
+Colleges and universities in Illinois - c-p wiki:2 words:1
+England - p-c wiki:17 words:3
+England - c-p wiki:1 words:0
+Linguistics - p-c wiki:6 words:2
+Linguistics - c-p wiki:2 words:1
+United States - p-c wiki:20 words:5
+United States - c-p wiki:2 words:0
+1725 - p-c wiki:2 words:0
+1725 - c-p wiki:1 words:0
+Hindu texts - c-p wiki:2 words:1
+Hinduism - p-c wiki:5 words:0
+Hinduism - c-p wiki:1 words:0
+Civil wars - p-c wiki:2 words:1
+Civil wars - c-p wiki:1 words:1
+History of England - p-c wiki:2 words:0
+History of England - c-p wiki:3 words:1
+Indo-Aryan languages - c-p wiki:1 words:0
+Languages of Azad Jammu and Kashmir - c-p wiki:2 words:1
+Urdu language - p-c wiki:1 words:0
+Urdu language - c-p wiki:2 words:0
+Art movements - c-p wiki:1 words:1
+Musical movements - c-p wiki:1 words:0
+Relationships - c-p wiki:1 words:1
+Religion - p-c wiki:21 words:7
+Religion - c-p wiki:1 words:0
+Hindu gods and goddesses - c-p wiki:2 words:1
+1822 births - c-p wiki:2 words:0
+Austrian Roman Catholics - c-p wiki:2 words:0
+Botanists - p-c wiki:2 words:0
+Botanists - c-p wiki:1 words:0
+Geneticists - p-c wiki:1 words:1
+Geneticists - c-p wiki:2 words:1
+Religious people - p-c wiki:4 words:0
+Religious people - c-p wiki:2 words:0
+Fishing - c-p wiki:2 words:0
+Music - p-c wiki:36 words:6
+Music - c-p wiki:3 words:2
+1958 deaths - c-p wiki:2 words:0
+English composers - c-p wiki:2 words:0
+People from Gloucestershire - c-p wiki:3 words:1
+Marine reptiles - c-p wiki:1 words:1
+Plesiosaurs - c-p wiki:1 words:0
+Gastropods - c-p wiki:1 words:0
+Mixed martial arts - p-c wiki:1 words:0
+Mixed martial arts - c-p wiki:1 words:0
+1932 births - c-p wiki:2 words:0
+Flags - p-c wiki:1 words:0
+Flags - c-p wiki:3 words:0
+Singapore - p-c wiki:10 words:0
+Singapore - c-p wiki:1 words:0
+Agriculture - p-c wiki:2 words:1
+Agriculture - c-p wiki:2 words:2
+Weather events - p-c wiki:1 words:0
+Weather events - c-p wiki:1 words:0
+2004 video games - c-p wiki:2 words:1
+Schools in Singapore - c-p wiki:2 words:0
+International organizations - p-c wiki:11 words:6
+International organizations - c-p wiki:2 words:0
+Charities - p-c wiki:2 words:0
+Charities - c-p wiki:1 words:0
+String instruments - p-c wiki:1 words:0
+String instruments - c-p wiki:1 words:1
+Brazilian football clubs - p-c wiki:1 words:0
+Brazilian football clubs - c-p wiki:2 words:1
+Non-profit organizations - p-c wiki:1 words:0
+Non-profit organizations - c-p wiki:1 words:0
+United Nations - p-c wiki:3 words:0
+United Nations - c-p wiki:3 words:3
+1881 births - c-p wiki:2 words:0
+1938 deaths - c-p wiki:2 words:0
+Presidents of Turkey - c-p wiki:2 words:0
+1981 births - c-p wiki:2 words:0
+English footballers - c-p wiki:3 words:0
+People from Lancashire - c-p wiki:2 words:0
+Sportspeople stubs - c-p wiki:5 words:2
+Medical emergencies - c-p wiki:1 words:0
+Hong Kong actors - c-p wiki:3 words:0
+People from California - p-c wiki:2 words:1
+People from California - c-p wiki:2 words:0
+2011 deaths - c-p wiki:3 words:0
+Autobiographers - c-p wiki:1 words:0
+First Ladies of the United States - c-p wiki:1 words:0
+People from Chicago - c-p wiki:2 words:2
+Second Ladies of the United States - c-p wiki:1 words:0
+1961 deaths - c-p wiki:2 words:0
+1944 deaths - c-p wiki:2 words:1
+Greek Islands - c-p wiki:3 words:0
+Keane - p-c wiki:1 words:1
+Keane - c-p wiki:1 words:0
+2004 songs - c-p wiki:2 words:0
+Keane songs - c-p wiki:2 words:1
+995 establishments - c-p wiki:1 words:0
+Cities in Thuringia - c-p wiki:2 words:0
+Urban Districts of Thuringia - c-p wiki:1 words:0
+1985 deaths - c-p wiki:2 words:1
+German writers - p-c wiki:1 words:1
+German writers - c-p wiki:2 words:0
+Nobel Prize in Literature winners - c-p wiki:2 words:0
+Echinoderms - c-p wiki:1 words:1
+Even-toed ungulates - p-c wiki:5 words:2
+Even-toed ungulates - c-p wiki:1 words:0
+1990 deaths - c-p wiki:2 words:0
+Swiss writers - c-p wiki:2 words:0
+Italian writers - p-c wiki:1 words:0
+Italian writers - c-p wiki:2 words:0
+Semioticians - c-p wiki:1 words:0
+Romanization - c-p wiki:1 words:0
+1571 births - c-p wiki:2 words:0
+1630 deaths - c-p wiki:2 words:1
+German astronomers - c-p wiki:2 words:1
+Female reproductive system - c-p wiki:1 words:1
+National anthems - c-p wiki:1 words:0
+1805 births - c-p wiki:2 words:0
+1875 deaths - c-p wiki:2 words:0
+Danish writers - c-p wiki:2 words:0
+1649 - p-c wiki:2 words:0
+1649 - c-p wiki:1 words:0
+County capitals of Romania - c-p wiki:1 words:0
+Romania stubs - c-p wiki:3 words:0
+Biochemistry - p-c wiki:4 words:2
+Biochemistry - c-p wiki:2 words:2
+Documents - p-c wiki:7 words:1
+Documents - c-p wiki:2 words:0
+Politics of the United Kingdom - p-c wiki:8 words:3
+Politics of the United Kingdom - c-p wiki:2 words:1
+Chordates - p-c wiki:1 words:1
+Chordates - c-p wiki:1 words:1
+Invertebrates - p-c wiki:9 words:2
+Invertebrates - c-p wiki:1 words:1
+Mormonism - c-p wiki:2 words:0
+Taxonomy - p-c wiki:2 words:0
+Taxonomy - c-p wiki:1 words:1
+Autonomous areas - p-c wiki:4 words:0
+Autonomous areas - c-p wiki:1 words:0
+Tibet - p-c wiki:5 words:1
+Tibet - c-p wiki:2 words:2
+Psychiatry - p-c wiki:5 words:1
+Psychiatry - c-p wiki:1 words:0
+1962 births - c-p wiki:2 words:0
+Australian actors - p-c wiki:2 words:0
+Australian actors - c-p wiki:2 words:0
+Australian people - p-c wiki:9 words:1
+Australian people - c-p wiki:3 words:1
+Rays - c-p wiki:1 words:1
+1873 births - c-p wiki:2 words:0
+1943 deaths - c-p wiki:2 words:0
+1976 births - c-p wiki:2 words:0
+Dutch footballers - c-p wiki:2 words:0
+1988 births - c-p wiki:2 words:0
+American models - c-p wiki:2 words:0
+Disney actors - p-c wiki:2 words:0
+Disney actors - c-p wiki:2 words:0
+Musical forms - p-c wiki:2 words:2
+Musical forms - c-p wiki:1 words:0
+1945 births - c-p wiki:2 words:0
+German footballers - c-p wiki:2 words:0
+Cells - p-c wiki:1 words:0
+Cells - c-p wiki:1 words:1
+1970 deaths - c-p wiki:2 words:0
+Deaths from myocardial infarction - c-p wiki:2 words:0
+Egyptian politicians - c-p wiki:2 words:1
+Muslims - p-c wiki:3 words:0
+Muslims - c-p wiki:2 words:1
+Speed metal bands - c-p wiki:1 words:0
+Thrash metal bands - c-p wiki:1 words:0
+Football stadiums in Germany - c-p wiki:3 words:0
+G8 - p-c wiki:2 words:0
+G8 - c-p wiki:1 words:1
+National Basketball Association - p-c wiki:3 words:1
+National Basketball Association - c-p wiki:2 words:0
+Dances - p-c wiki:1 words:0
+Dances - c-p wiki:1 words:0
+1630 - p-c wiki:2 words:1
+1630 - c-p wiki:1 words:0
+Western Australia - p-c wiki:4 words:0
+Western Australia - c-p wiki:1 words:0
+Opioids - c-p wiki:1 words:0
+2007 video games - c-p wiki:2 words:0
+Canceled Nintendo GameCube games - c-p wiki:1 words:0
+Wii-only games - c-p wiki:1 words:0
+Wii games - p-c wiki:1 words:1
+Wii games - c-p wiki:2 words:0
+Space Shuttles - p-c wiki:1 words:0
+Space Shuttles - c-p wiki:1 words:0
+Musical groups - p-c wiki:6 words:0
+Musical groups - c-p wiki:1 words:0
+Vocal music - p-c wiki:1 words:0
+Vocal music - c-p wiki:1 words:0
+The Legend of Zelda games - c-p wiki:2 words:0
+1703 births - c-p wiki:2 words:1
+1791 deaths - c-p wiki:2 words:1
+English people - p-c wiki:16 words:7
+English people - c-p wiki:3 words:1
+Methodism - c-p wiki:1 words:1
+Priests - c-p wiki:1 words:0
+Cities in Chile - p-c wiki:2 words:0
+Cities in Chile - c-p wiki:2 words:0
+Caprids - c-p wiki:1 words:0
+Subtropical cyclones - c-p wiki:1 words:0
+Islands of Japan - c-p wiki:3 words:1
+Dragon Ball - p-c wiki:1 words:1
+Dragon Ball - c-p wiki:1 words:0
+Rivers of Germany - c-p wiki:2 words:0
+Rivers of Poland - c-p wiki:2 words:0
+Rivers of the Czech Republic - c-p wiki:2 words:0
+Buddhism - p-c wiki:3 words:0
+Buddhism - c-p wiki:1 words:0
+Book terminology - p-c wiki:1 words:0
+Book terminology - c-p wiki:1 words:1
+Graphics - p-c wiki:2 words:0
+Graphics - c-p wiki:2 words:1
+History of printing - c-p wiki:2 words:0
+Written communication - p-c wiki:4 words:2
+Written communication - c-p wiki:1 words:0
+1683 - p-c wiki:2 words:0
+1683 - c-p wiki:1 words:0
+1973 births - c-p wiki:2 words:0
+Italian footballers - c-p wiki:2 words:0
+Politicians - p-c wiki:6 words:0
+Politicians - c-p wiki:2 words:2
+Music theory - p-c wiki:3 words:1
+Music theory - c-p wiki:1 words:0
+1378 - c-p wiki:1 words:0
+2000s television series - p-c wiki:11 words:2
+2000s television series - c-p wiki:2 words:0
+BBC television programmes - p-c wiki:2 words:1
+BBC television programmes - c-p wiki:2 words:0
+Doctor Who - p-c wiki:1 words:0
+Doctor Who - c-p wiki:2 words:2
+Glamorgan - c-p wiki:1 words:0
+Bridges in the United States - c-p wiki:3 words:0
+Buildings and structures in New York City - p-c wiki:2 words:0
+Buildings and structures in New York City - c-p wiki:2 words:0
+Hudson River - c-p wiki:2 words:0
+Cuba - p-c wiki:4 words:0
+Cuba - c-p wiki:1 words:1
+United States Navy - p-c wiki:1 words:0
+United States Navy - c-p wiki:2 words:1
+Norse mythology - p-c wiki:1 words:1
+Norse mythology - c-p wiki:2 words:0
+Former members of the German Bundestag - c-p wiki:1 words:1
+Heads of government - p-c wiki:7 words:2
+Heads of government - c-p wiki:1 words:0
+Mayors of Berlin - c-p wiki:4 words:0
+People from Schleswig-Holstein - c-p wiki:2 words:0
+Politicians of the Social Democratic Party of Germany - c-p wiki:2 words:0
+Presidents of the German Bundesrat - c-p wiki:2 words:0
+Socialist International - c-p wiki:1 words:1
+Vice Chancellors of Germany - c-p wiki:1 words:0
+Star Wars characters - c-p wiki:2 words:0
+Moths - p-c wiki:6 words:0
+Moths - c-p wiki:1 words:1
+Decapods - c-p wiki:1 words:1
+1978 births - c-p wiki:2 words:0
+German musical entertainers - p-c wiki:3 words:1
+German musical entertainers - c-p wiki:2 words:0
+People from Berlin - p-c wiki:1 words:0
+People from Berlin - c-p wiki:2 words:0
+Rap musicians - p-c wiki:1 words:0
+Rap musicians - c-p wiki:1 words:0
+History of the British Isles - p-c wiki:7 words:4
+History of the British Isles - c-p wiki:1 words:1
+Compositions by Dmitri Shostakovich - c-p wiki:1 words:0
+Operas - c-p wiki:2 words:0
+1905 births - c-p wiki:2 words:0
+2000 deaths - c-p wiki:3 words:0
+1646 births - c-p wiki:2 words:0
+1716 deaths - c-p wiki:2 words:0
+German philosophers - c-p wiki:2 words:1
+Musical instruments - p-c wiki:12 words:3
+Musical instruments - c-p wiki:1 words:0
+1831 births - c-p wiki:2 words:0
+1879 deaths - c-p wiki:2 words:0
+People from Glasgow - c-p wiki:2 words:0
+Physicists - p-c wiki:5 words:5
+Physicists - c-p wiki:2 words:1
+Compositions by LeoÁ Jan†üek - c-p wiki:1 words:0
+1925 births - c-p wiki:2 words:0
+2008 deaths - c-p wiki:2 words:0
+Norse gods and goddesses - c-p wiki:2 words:2
+1305 deaths - c-p wiki:2 words:1
+13th century births - p-c wiki:10 words:0
+13th century births - c-p wiki:2 words:0
+Scottish people - p-c wiki:4 words:1
+Scottish people - c-p wiki:3 words:1
+1274 births - c-p wiki:2 words:0
+1329 deaths - c-p wiki:2 words:0
+Australia - p-c wiki:20 words:5
+Australia - c-p wiki:3 words:2
+Currency - p-c wiki:1 words:0
+Currency - c-p wiki:1 words:0
+Ankylosauria - c-p wiki:1 words:0
+1666 - c-p wiki:1 words:0
+Fires - c-p wiki:2 words:1
+History of London - c-p wiki:2 words:1
+SI units - c-p wiki:1 words:1
+Solar System - p-c wiki:11 words:2
+Solar System - c-p wiki:2 words:0
+Pterosaurs - c-p wiki:2 words:0
+Breakfast foods - p-c wiki:1 words:0
+Breakfast foods - c-p wiki:1 words:1
+Desserts - p-c wiki:1 words:0
+Desserts - c-p wiki:1 words:0
+Fast food - p-c wiki:1 words:0
+Fast food - c-p wiki:2 words:0
+Cretaceous dinosaurs - c-p wiki:2 words:1
+Theropods - p-c wiki:6 words:0
+Theropods - c-p wiki:1 words:0
+1633 births - c-p wiki:2 words:0
+1701 deaths - c-p wiki:2 words:1
+Jacobite pretenders - c-p wiki:1 words:0
+Jacobitism - p-c wiki:1 words:0
+Jacobitism - c-p wiki:2 words:2
+Kings and Queens of Ireland - c-p wiki:2 words:1
+Sports in the Netherlands - p-c wiki:2 words:0
+Sports in the Netherlands - c-p wiki:3 words:0
+History of the Middle East - p-c wiki:5 words:1
+History of the Middle East - c-p wiki:1 words:0
+Adventure movies - p-c wiki:2 words:0
+Adventure movies - c-p wiki:1 words:0
+Series of movies - p-c wiki:12 words:1
+Series of movies - c-p wiki:1 words:1
+Universal Pictures - c-p wiki:1 words:0
+Geography of Japan - p-c wiki:3 words:0
+Geography of Japan - c-p wiki:3 words:0
+Mountains in Japan - c-p wiki:2 words:0
+Volcanoes - p-c wiki:5 words:0
+Volcanoes - c-p wiki:2 words:2
+Martial arts - p-c wiki:5 words:1
+Martial arts - c-p wiki:1 words:1
+1035 deaths - c-p wiki:2 words:0
+990s births - p-c wiki:1 words:0
+990s births - c-p wiki:2 words:1
+Kings and Queens of Norway - c-p wiki:2 words:0
+Kings and Queens of Sweden - c-p wiki:2 words:0
+1312 births - c-p wiki:2 words:0
+1377 deaths - c-p wiki:2 words:0
+House of Plantagenet - c-p wiki:2 words:0
+United Kingdom political parties - p-c wiki:5 words:0
+United Kingdom political parties - c-p wiki:3 words:2
+Measurement - p-c wiki:14 words:1
+Measurement - c-p wiki:1 words:0
+Companies listed on the New York Stock Exchange - c-p wiki:2 words:0
+World Wrestling Entertainment - p-c wiki:11 words:5
+World Wrestling Entertainment - c-p wiki:3 words:1
+Protista - p-c wiki:5 words:3
+Protista - c-p wiki:2 words:2
+Anime - p-c wiki:11 words:0
+Anime - c-p wiki:2 words:2
+Manga - p-c wiki:5 words:0
+Manga - c-p wiki:1 words:1
+Naruto - p-c wiki:1 words:0
+Naruto - c-p wiki:1 words:0
+Lists of cities - c-p wiki:2 words:0
+Municipalities of Vaud - c-p wiki:2 words:0
+Swiss lists - c-p wiki:2 words:0
+Lists about U.S. states - c-p wiki:2 words:0
+1931 births - c-p wiki:2 words:0
+Criminals - p-c wiki:6 words:1
+Criminals - c-p wiki:2 words:0
+South Korean presidents - c-p wiki:2 words:0
+2000s in music - p-c wiki:12 words:1
+2000s in music - c-p wiki:2 words:0
+Canadian punk bands - p-c wiki:1 words:0
+Canadian punk bands - c-p wiki:2 words:0
+Canadian rock bands - p-c wiki:1 words:0
+Canadian rock bands - c-p wiki:2 words:0
+Sum 41 - c-p wiki:3 words:0
+United States military - p-c wiki:6 words:1
+United States military - c-p wiki:2 words:0
+French footballers - c-p wiki:3 words:1
+Pyrotechnics - c-p wiki:1 words:1
+Spanish football clubs - p-c wiki:1 words:0
+Spanish football clubs - c-p wiki:2 words:1
+Laptops - c-p wiki:1 words:0
+Free Democratic Party of Germany - p-c wiki:1 words:0
+Free Democratic Party of Germany - c-p wiki:1 words:1
+German political parties - p-c wiki:9 words:1
+German political parties - c-p wiki:2 words:1
+Green Party of Germany - p-c wiki:1 words:0
+Green Party of Germany - c-p wiki:1 words:0
+Mental illnesses - p-c wiki:2 words:0
+Mental illnesses - c-p wiki:4 words:3
+2006 video games - c-p wiki:2 words:0
+Disney - p-c wiki:7 words:1
+Disney - c-p wiki:1 words:0
+Flies - p-c wiki:1 words:0
+Flies - c-p wiki:1 words:1
+1975 births - c-p wiki:2 words:0
+Japanese manga artists - c-p wiki:2 words:0
+2007 deaths - c-p wiki:2 words:0
+1539 deaths - c-p wiki:2 words:0
+Non-christian Saints - c-p wiki:1 words:0
+Pakistani people - p-c wiki:6 words:0
+Pakistani people - c-p wiki:3 words:0
+Sikhism - c-p wiki:1 words:0
+1867 births - c-p wiki:2 words:1
+1934 deaths - c-p wiki:2 words:1
+Female scientists - c-p wiki:1 words:0
+French chemists - c-p wiki:2 words:1
+Nobel Prize in Chemistry winners - c-p wiki:1 words:0
+Polish scientists - p-c wiki:1 words:0
+Polish scientists - c-p wiki:2 words:0
+Movie occupations - p-c wiki:5 words:0
+Movie occupations - c-p wiki:2 words:1
+1985 video games - c-p wiki:2 words:1
+Nintendo Entertainment System games - c-p wiki:2 words:0
+Legislatures - p-c wiki:1 words:1
+Legislatures - c-p wiki:1 words:0
+Goalkeepers - c-p wiki:1 words:0
+People from Hertfordshire - c-p wiki:2 words:0
+2004 - p-c wiki:9 words:1
+2004 - c-p wiki:1 words:0
+Earthquakes - p-c wiki:2 words:0
+Earthquakes - c-p wiki:2 words:1
+Indian Ocean - c-p wiki:1 words:0
+Tsunamis - c-p wiki:2 words:1
+1955 births - c-p wiki:2 words:0
+Knights and Dames Commander of the Order of the British Empire - c-p wiki:1 words:1
+1968 deaths - c-p wiki:2 words:0
+Pulitzer Prize winners - c-p wiki:1 words:0
+Ninjas - c-p wiki:2 words:0
+Seafood - p-c wiki:1 words:0
+Seafood - c-p wiki:1 words:1
+1832 births - c-p wiki:2 words:0
+1907 deaths - c-p wiki:2 words:0
+Chemists - p-c wiki:5 words:3
+Chemists - c-p wiki:2 words:1
+1960 deaths - c-p wiki:2 words:0
+French novelists - c-p wiki:2 words:0
+French playwrights - c-p wiki:2 words:0
+Beetles - c-p wiki:1 words:1
+Organelles - c-p wiki:2 words:2
+1986 deaths - c-p wiki:2 words:1
+French writers - p-c wiki:3 words:3
+French writers - c-p wiki:2 words:0
+Women writers - c-p wiki:2 words:0
+Time zones - c-p wiki:1 words:0
+London Underground lines - c-p wiki:2 words:0
+1969 births - c-p wiki:2 words:0
+American Roman Catholics - c-p wiki:2 words:1
+American professional wrestlers - c-p wiki:3 words:2
+People from New Hampshire - c-p wiki:2 words:1
+WWE wrestlers - p-c wiki:1 words:0
+WWE wrestlers - c-p wiki:2 words:1
+Lizards - p-c wiki:2 words:0
+Lizards - c-p wiki:1 words:0
+Alloys - c-p wiki:2 words:0
+Cardiology - c-p wiki:1 words:1
+Emergency medicine - p-c wiki:2 words:2
+Emergency medicine - c-p wiki:1 words:1
+Engineering - p-c wiki:6 words:3
+Engineering - c-p wiki:1 words:0
+1963 deaths - c-p wiki:2 words:0
+French singers - c-p wiki:2 words:0
+1998 deaths - c-p wiki:2 words:0
+Italian-Americans - c-p wiki:2 words:0
+1995 deaths - c-p wiki:2 words:0
+Cities in Spain - p-c wiki:2 words:0
+Cities in Spain - c-p wiki:3 words:0
+Japanese swords - c-p wiki:2 words:0
+Presentation software - c-p wiki:1 words:1
+Ethnic groups in Europe - p-c wiki:5 words:0
+Ethnic groups in Europe - c-p wiki:3 words:1
+Song forms - p-c wiki:1 words:0
+Song forms - c-p wiki:1 words:0
+1924 deaths - c-p wiki:2 words:0
+Italian composers - c-p wiki:2 words:0
+Monaco - c-p wiki:1 words:0
+1829 births - c-p wiki:2 words:0
+1902 deaths - c-p wiki:2 words:0
+American business people - p-c wiki:2 words:1
+American business people - c-p wiki:2 words:0
+Underwear - c-p wiki:1 words:1
+Capitals of Argentine provinces - c-p wiki:2 words:1
+1900 births - c-p wiki:3 words:0
+1945 deaths - c-p wiki:2 words:0
+Nazi leaders - c-p wiki:3 words:1
+Politicians in the Nazi Party - c-p wiki:3 words:0
+1856 births - c-p wiki:2 words:0
+1950 deaths - c-p wiki:2 words:0
+Irish writers - p-c wiki:1 words:0
+Irish writers - c-p wiki:4 words:0
+Music critics - c-p wiki:1 words:0
+People from Dublin - c-p wiki:2 words:0
+Royal Society of Literature - c-p wiki:2 words:0
+1904 births - c-p wiki:2 words:0
+Chilean people - p-c wiki:4 words:0
+Chilean people - c-p wiki:3 words:0
+Poets - p-c wiki:3 words:1
+Poets - c-p wiki:2 words:0
+Market forms - c-p wiki:1 words:0
+Animal anatomy - c-p wiki:2 words:1
+1971 - p-c wiki:8 words:0
+1971 - c-p wiki:1 words:0
+History of Bangladesh - p-c wiki:1 words:0
+History of Bangladesh - c-p wiki:3 words:0
+War crimes - c-p wiki:2 words:0
+Gloucestershire - p-c wiki:2 words:1
+Gloucestershire - c-p wiki:2 words:1
+Compositions by Richard Wagner - c-p wiki:1 words:0
+Provinces of Cuba - c-p wiki:2 words:0
+1758 births - c-p wiki:2 words:0
+1805 deaths - c-p wiki:2 words:0
+British Barons - c-p wiki:1 words:0
+British Navy - p-c wiki:2 words:0
+British Navy - c-p wiki:2 words:0
+British Viscounts - c-p wiki:1 words:0
+Knights Grand Cross of the Order of the Bath - c-p wiki:1 words:0
+United Kingdom Barons - c-p wiki:1 words:0
+United Kingdom Viscounts - c-p wiki:1 words:0
+1910 births - c-p wiki:2 words:1
+French poets - c-p wiki:2 words:0
+LGBT people - p-c wiki:5 words:4
+LGBT people - c-p wiki:2 words:0
+1984 deaths - c-p wiki:2 words:0
+1707 births - c-p wiki:2 words:0
+1783 deaths - c-p wiki:2 words:0
+Mathematicians - p-c wiki:12 words:0
+Mathematicians - c-p wiki:2 words:0
+Music theorists - c-p wiki:1 words:0
+Swiss scientists - c-p wiki:2 words:0
+Genocide - p-c wiki:2 words:1
+Genocide - c-p wiki:2 words:0
+West Yorkshire - p-c wiki:4 words:0
+West Yorkshire - c-p wiki:3 words:0
+Yorkshire and Humberside region of England - p-c wiki:4 words:0
+Yorkshire and Humberside region of England - c-p wiki:1 words:0
+Geography of England - p-c wiki:4 words:0
+Geography of England - c-p wiki:2 words:0
+Counties in England - p-c wiki:44 words:2
+Counties in England - c-p wiki:2 words:0
+Football leagues - p-c wiki:4 words:0
+Football leagues - c-p wiki:3 words:1
+Sports in Spain - p-c wiki:3 words:1
+Sports in Spain - c-p wiki:3 words:0
+1769 births - c-p wiki:2 words:0
+1852 deaths - c-p wiki:2 words:0
+Irish people - p-c wiki:4 words:0
+Irish people - c-p wiki:2 words:1
+Knights of the Bath - c-p wiki:1 words:0
+Knights of the Garter - c-p wiki:3 words:0
+Privy Councillors (UK) - c-p wiki:2 words:1
+United Kingdom Dukes - c-p wiki:1 words:0
+United Kingdom Earls - c-p wiki:1 words:0
+United Kingdom Marquesses - c-p wiki:1 words:0
+1824 births - c-p wiki:2 words:0
+1895 deaths - c-p wiki:2 words:0
+Burials at Montmartre Cemetery, Paris - c-p wiki:1 words:0
+Ships - p-c wiki:4 words:0
+Ships - c-p wiki:2 words:0
+1940s - p-c wiki:18 words:3
+1940s - c-p wiki:1 words:0
+West Midlands of England region - p-c wiki:6 words:0
+West Midlands of England region - c-p wiki:1 words:0
+Roads - p-c wiki:4 words:0
+Roads - c-p wiki:2 words:0
+1991 video games - c-p wiki:2 words:0
+Canceled NES games - c-p wiki:1 words:0
+1992 video games - c-p wiki:2 words:0
+1999 video games - c-p wiki:2 words:0
+1896 deaths - c-p wiki:2 words:0
+Austrian composers - c-p wiki:2 words:0
+Organists - p-c wiki:1 words:0
+Organists - c-p wiki:1 words:0
+CONMEBOL - c-p wiki:2 words:0
+Football competitions - p-c wiki:3 words:1
+Football competitions - c-p wiki:1 words:0
+UEFA - p-c wiki:1 words:0
+UEFA - c-p wiki:1 words:0
+1500s births - p-c wiki:7 words:0
+1500s births - c-p wiki:2 words:0
+1533 deaths - c-p wiki:2 words:0
+Inca civilization - c-p wiki:2 words:0
+South American people - p-c wiki:8 words:3
+South American people - c-p wiki:2 words:0
+Early musical instruments - c-p wiki:2 words:1
+1845 births - c-p wiki:2 words:0
+French composers - c-p wiki:2 words:0
+French organists - c-p wiki:2 words:0
+Legion of Honour - c-p wiki:2 words:1
+Brazilian footballers - c-p wiki:2 words:0
+106 BC births - c-p wiki:2 words:0
+43 BC deaths - c-p wiki:2 words:0
+Ancient Roman writers - c-p wiki:2 words:0
+Roman people - p-c wiki:3 words:2
+Roman people - c-p wiki:2 words:1
+Boy bands - p-c wiki:2 words:0
+Boy bands - c-p wiki:3 words:0
+J-pop - p-c wiki:1 words:0
+J-pop - c-p wiki:2 words:0
+K-pop - c-p wiki:2 words:0
+South Korean bands - c-p wiki:2 words:0
+Annelids - c-p wiki:1 words:1
+Extremophiles - c-p wiki:3 words:3
+Physical quantity - p-c wiki:1 words:0
+Physical quantity - c-p wiki:2 words:2
+Ecosystems - p-c wiki:1 words:0
+Ecosystems - c-p wiki:1 words:1
+Buildings and structures in Turkey - p-c wiki:2 words:0
+Buildings and structures in Turkey - c-p wiki:2 words:1
+Palaces - p-c wiki:1 words:0
+Palaces - c-p wiki:2 words:0
+Italian football clubs - p-c wiki:1 words:0
+Italian football clubs - c-p wiki:2 words:0
+Rivers of Russia - c-p wiki:2 words:0
+Drugs - p-c wiki:4 words:2
+Drugs - c-p wiki:1 words:1
+Major scales - c-p wiki:1 words:1
+1865 births - c-p wiki:2 words:0
+1936 deaths - c-p wiki:2 words:0
+Order of St Michael and St George - p-c wiki:3 words:2
+Order of St Michael and St George - c-p wiki:3 words:0
+1934 births - c-p wiki:2 words:1
+21st century composers - c-p wiki:1 words:0
+History of Europe - p-c wiki:15 words:3
+History of Europe - c-p wiki:2 words:1
+Popes - p-c wiki:5 words:1
+Popes - c-p wiki:5 words:3
+Energy - p-c wiki:11 words:4
+Energy - c-p wiki:1 words:1
+States of Sudan - c-p wiki:1 words:1
+Hydropower - c-p wiki:1 words:1
+1100s births - p-c wiki:2 words:0
+1100s births - c-p wiki:2 words:1
+13th century deaths - p-c wiki:10 words:1
+13th century deaths - c-p wiki:2 words:0
+German composers - c-p wiki:2 words:0
+Medieval composers - c-p wiki:1 words:0
+Arithmetics - p-c wiki:1 words:0
+Arithmetics - c-p wiki:1 words:1
+Baptist - p-c wiki:3 words:0
+Baptist - c-p wiki:1 words:1
+Protestantism - p-c wiki:8 words:3
+Protestantism - c-p wiki:1 words:1
+14 births - c-p wiki:1 words:0
+60s deaths - p-c wiki:3 words:1
+60s deaths - c-p wiki:2 words:0
+Organic compounds - p-c wiki:2 words:0
+Organic compounds - c-p wiki:2 words:1
+Toxicology - p-c wiki:1 words:0
+Toxicology - c-p wiki:2 words:2
+1985 births - c-p wiki:2 words:1
+Football in France - p-c wiki:2 words:0
+Football in France - c-p wiki:2 words:0
+Ecozones - c-p wiki:2 words:2
+1963 births - c-p wiki:2 words:0
+American Olympic gold medalists - c-p wiki:2 words:0
+American basketball players - c-p wiki:2 words:0
+Chicago Bulls players - c-p wiki:1 words:0
+Washington Wizards players - c-p wiki:1 words:0
+Animals of Australia - p-c wiki:6 words:1
+Animals of Australia - c-p wiki:1 words:1
+Dogs - p-c wiki:2 words:0
+Dogs - c-p wiki:2 words:0
+Trade routes - c-p wiki:1 words:0
+1927 births - c-p wiki:2 words:0
+Russian cellists - c-p wiki:2 words:0
+Russian conductors - c-p wiki:2 words:0
+Dasyuromorphia - c-p wiki:1 words:1
+Extinct species - c-p wiki:2 words:2
+Nintendo GameCube games - p-c wiki:1 words:0
+Nintendo GameCube games - c-p wiki:2 words:0
+Art - p-c wiki:20 words:7
+Art - c-p wiki:1 words:1
+Churches - p-c wiki:3 words:0
+Churches - c-p wiki:2 words:0
+Harz Rural District - c-p wiki:1 words:0
+Towns in Saxony-Anhalt - c-p wiki:2 words:0
+Egyptian gods and goddesses - c-p wiki:2 words:1
+1943 births - c-p wiki:2 words:0
+1971 deaths - c-p wiki:2 words:0
+American rock singers - c-p wiki:2 words:1
+Burials at Pcre Lachaise Cemetery - c-p wiki:1 words:0
+People from Florida - c-p wiki:2 words:0
+Predynastic Pharaohs - c-p wiki:1 words:0
+1630s births - p-c wiki:9 words:1
+1630s births - c-p wiki:2 words:0
+1707 deaths - c-p wiki:2 words:1
+Baroque composers - c-p wiki:1 words:0
+Danish composers - c-p wiki:2 words:0
+German organists - c-p wiki:2 words:0
+Statues - c-p wiki:1 words:1
+Lamps - c-p wiki:1 words:1
+New religious movements - p-c wiki:4 words:0
+New religious movements - c-p wiki:1 words:0
+Fictional universes - p-c wiki:9 words:0
+Fictional universes - c-p wiki:4 words:4
+London Borough of Croydon - p-c wiki:2 words:0
+London Borough of Croydon - c-p wiki:1 words:0
+London boroughs - p-c wiki:35 words:0
+London boroughs - c-p wiki:1 words:0
+French politicians - p-c wiki:2 words:0
+French politicians - c-p wiki:4 words:0
+1722 births - c-p wiki:2 words:0
+1803 deaths - c-p wiki:2 words:0
+Environment - p-c wiki:4 words:0
+Environment - c-p wiki:2 words:1
+Wind energy - c-p wiki:1 words:0
+Wind farms - c-p wiki:2 words:0
+Solar energy - c-p wiki:1 words:1
+Spain - p-c wiki:8 words:1
+Spain - c-p wiki:2 words:1
+Religion stubs - c-p wiki:3 words:0
+Septuagint - c-p wiki:1 words:0
+Black metal bands - c-p wiki:1 words:0
+Norwegian bands - c-p wiki:2 words:0
+Roman Catholicism - p-c wiki:6 words:2
+Roman Catholicism - c-p wiki:1 words:0
+1757 births - c-p wiki:2 words:0
+1827 deaths - c-p wiki:2 words:0
+English painters - c-p wiki:2 words:0
+Cities in Saudi Arabia - c-p wiki:3 words:0
+Holy places in Islam - p-c wiki:1 words:0
+Holy places in Islam - c-p wiki:1 words:1
+Citrus - c-p wiki:2 words:1
+721 births - c-p wiki:2 words:0
+815 deaths - c-p wiki:2 words:0
+Islamic people - p-c wiki:1 words:0
+Islamic people - c-p wiki:2 words:1
+Philosophers - p-c wiki:5 words:0
+Philosophers - c-p wiki:2 words:2
+Compositions by Ludwig van Beethoven - c-p wiki:2 words:0
+1965 births - c-p wiki:2 words:1
+American animators - c-p wiki:2 words:0
+Ghana - p-c wiki:2 words:0
+Ghana - c-p wiki:1 words:0
+1890 deaths - c-p wiki:2 words:0
+Belgian composers - c-p wiki:2 words:0
+Benin - c-p wiki:1 words:0
+My-Otome - c-p wiki:2 words:0
+Adult Swim - p-c wiki:1 words:0
+Adult Swim - c-p wiki:1 words:0
+Aqua Teen Hunger Force - c-p wiki:3 words:0
+Sao TomÇ and Pr°ncipe - c-p wiki:1 words:0
+Fauna of North America - p-c wiki:2 words:1
+Fauna of North America - c-p wiki:1 words:0
+Geography of Florida - p-c wiki:2 words:0
+Geography of Florida - c-p wiki:2 words:0
+2007 Atlantic hurricane season - c-p wiki:2 words:0
+Hurricanes in the United States - c-p wiki:1 words:0
+Geomyoid rodents - c-p wiki:1 words:0
+Dragon Ball characters - c-p wiki:2 words:1
+Professional wrestling - p-c wiki:6 words:2
+Professional wrestling - c-p wiki:1 words:1
+Japanese mythology - p-c wiki:1 words:0
+Japanese mythology - c-p wiki:2 words:1
+Mauritania - c-p wiki:1 words:0
+Clothing - p-c wiki:10 words:0
+Clothing - c-p wiki:1 words:1
+People by occupation - p-c wiki:42 words:8
+People by occupation - c-p wiki:1 words:0
+South Park - p-c wiki:1 words:0
+South Park - c-p wiki:3 words:1
+Faboideae - p-c wiki:1 words:0
+Faboideae - c-p wiki:1 words:0
+Model organisms - c-p wiki:2 words:2
+Characters in written fiction - p-c wiki:3 words:0
+Characters in written fiction - c-p wiki:1 words:0
+Series of books - p-c wiki:17 words:0
+Series of books - c-p wiki:1 words:1
+Golf - p-c wiki:1 words:0
+Golf - c-p wiki:1 words:0
+Sports in the United States - p-c wiki:15 words:1
+Sports in the United States - c-p wiki:2 words:0
+Somalia - p-c wiki:2 words:1
+Somalia - c-p wiki:2 words:1
+Statistics - p-c wiki:1 words:0
+Statistics - c-p wiki:2 words:0
+1916 births - c-p wiki:2 words:0
+Children\'s writers - c-p wiki:2 words:0
+Living fossils - c-p wiki:1 words:1
+Krill - c-p wiki:1 words:1
+Andorra - c-p wiki:2 words:0
+Lepidoptera - p-c wiki:2 words:0
+Lepidoptera - c-p wiki:1 words:1
+Thermodynamics - p-c wiki:3 words:0
+Thermodynamics - c-p wiki:2 words:2
+Science-related lists - c-p wiki:2 words:0
+Uranus\' moons - c-p wiki:1 words:0
+Drums - c-p wiki:1 words:0
+1967 births - c-p wiki:2 words:1
+American comedians - c-p wiki:2 words:0
+American voice actors - c-p wiki:2 words:1
+Byzantine Empire - p-c wiki:2 words:0
+Byzantine Empire - c-p wiki:1 words:0
+Rock bands - p-c wiki:6 words:3
+Rock bands - c-p wiki:2 words:1
+1948 births - c-p wiki:2 words:0
+England national football team managers - c-p wiki:1 words:0
+Swedish footballers - c-p wiki:2 words:0
+Male tennis players - c-p wiki:1 words:0
+Swiss athletes - p-c wiki:1 words:0
+Swiss athletes - c-p wiki:3 words:0
+1986 births - c-p wiki:2 words:1
+Spanish athletes - p-c wiki:2 words:0
+Spanish athletes - c-p wiki:1 words:0
+1959 deaths - c-p wiki:2 words:0
+American architects - c-p wiki:2 words:0
+2002 songs - c-p wiki:2 words:0
+Avril Lavigne songs - c-p wiki:2 words:0
+Politics of China - p-c wiki:2 words:0
+Politics of China - c-p wiki:2 words:0
+Presidents by country - p-c wiki:22 words:4
+Presidents by country - c-p wiki:1 words:1
+International Phonetic Alphabet - c-p wiki:1 words:0
+History of Spain - p-c wiki:1 words:0
+History of Spain - c-p wiki:3 words:1
+1982 births - c-p wiki:2 words:0
+Swedish royalty - p-c wiki:1 words:0
+Swedish royalty - c-p wiki:2 words:0
+1810 births - c-p wiki:2 words:0
+1903 deaths - c-p wiki:2 words:0
+Italian popes - c-p wiki:2 words:1
+Minerals - p-c wiki:3 words:1
+Minerals - c-p wiki:2 words:1
+14th century births - p-c wiki:10 words:1
+14th century births - c-p wiki:2 words:0
+14th century deaths - p-c wiki:9 words:1
+14th century deaths - c-p wiki:2 words:0
+Persian poets - c-p wiki:2 words:0
+2005 Atlantic hurricane season - p-c wiki:1 words:0
+2005 Atlantic hurricane season - c-p wiki:2 words:0
+Atlantic tropical storms - c-p wiki:2 words:0
+2001 video games - c-p wiki:2 words:0
+Online games - c-p wiki:2 words:1
+1972 births - c-p wiki:2 words:0
+Indian actors - c-p wiki:2 words:0
+Professional wrestlers - p-c wiki:8 words:3
+Professional wrestlers - c-p wiki:2 words:1
+Activists - p-c wiki:4 words:0
+Activists - c-p wiki:2 words:1
+French Roman Catholics - p-c wiki:1 words:0
+French Roman Catholics - c-p wiki:2 words:0
+French actors - c-p wiki:2 words:0
+Movie actors - p-c wiki:4 words:2
+Movie actors - c-p wiki:1 words:0
+1966 births - c-p wiki:2 words:0
+African American actors - c-p wiki:2 words:1
+Beauty pageant contestants - p-c wiki:1 words:0
+Beauty pageant contestants - c-p wiki:3 words:1
+2004 albums - c-p wiki:2 words:0
+Green Day albums - c-p wiki:2 words:0
+Hurricanes in Bermuda - c-p wiki:1 words:0
+Buildings and structures in Ancient Egypt - c-p wiki:3 words:0
+American murderers - p-c wiki:2 words:0
+American murderers - c-p wiki:2 words:0
+Prisoners - p-c wiki:1 words:0
+Prisoners - c-p wiki:4 words:1
+The Beatles - p-c wiki:3 words:0
+The Beatles - c-p wiki:3 words:1
+People from Kentucky - c-p wiki:2 words:1
+Speakers of the United States House of Representatives - c-p wiki:1 words:0
+1782 births - c-p wiki:2 words:0
+American lawyers - c-p wiki:2 words:0
+German actors - p-c wiki:1 words:0
+German actors - c-p wiki:2 words:0
+1964 births - c-p wiki:2 words:0
+German-American actors - c-p wiki:2 words:0
+Portuguese footballers - c-p wiki:3 words:0
+British conductors - c-p wiki:2 words:0
+Knights Bachelor - c-p wiki:2 words:0
+Bundesrat of Germany - p-c wiki:1 words:0
+Bundesrat of Germany - c-p wiki:1 words:0
+Politics of Germany - p-c wiki:4 words:1
+Politics of Germany - c-p wiki:2 words:0
+Folk music groups - c-p wiki:2 words:1
+Ministers-President of North Rhine-Westphalia - c-p wiki:2 words:0
+Presidents of Germany - p-c wiki:1 words:0
+Presidents of Germany - c-p wiki:4 words:0
+1403 - p-c wiki:1 words:0
+1403 - c-p wiki:1 words:0
+2003 television series - p-c wiki:1 words:0
+2003 television series - c-p wiki:2 words:1
+Television series by Disney - p-c wiki:1 words:0
+Television series by Disney - c-p wiki:2 words:0
+Symphonies - p-c wiki:1 words:0
+Symphonies - c-p wiki:1 words:0
+Intelligent design - c-p wiki:2 words:2
+Islamic organizations - c-p wiki:2 words:1
+Vatican City - c-p wiki:2 words:0
+Places of Ancient Rome - c-p wiki:1 words:1
+Climate - c-p wiki:2 words:1
+Earth sciences - p-c wiki:9 words:5
+Earth sciences - c-p wiki:2 words:0
+County seats in Pennsylvania - c-p wiki:2 words:0
+Festivals - p-c wiki:2 words:0
+Festivals - c-p wiki:1 words:1
+Order of the British Empire - p-c wiki:5 words:1
+Order of the British Empire - c-p wiki:3 words:0
+1972 deaths - c-p wiki:2 words:0
+Knights Grand Commander of the Order of the Indian Empire - c-p wiki:1 words:0
+Knights Grand Commander of the Order of the Star of India - c-p wiki:1 words:0
+Knights and Dames Grand Cross of the Order of the British Empire - c-p wiki:1 words:1
+Knights of Justice of the Order of St John - c-p wiki:1 words:1
+Knights of the Thistle - c-p wiki:3 words:0
+World record holders - c-p wiki:1 words:0
+American photographers - c-p wiki:2 words:0
+Photographers - p-c wiki:1 words:0
+Photographers - c-p wiki:2 words:0
+2007 - p-c wiki:9 words:1
+2007 - c-p wiki:1 words:0
+Plant anatomy - c-p wiki:2 words:1
+1967 deaths - c-p wiki:2 words:1
+People from Wisconsin - c-p wiki:2 words:0
+1980 births - c-p wiki:2 words:0
+Water - p-c wiki:5 words:0
+Water - c-p wiki:2 words:0
+2001 deaths - c-p wiki:2 words:0
+People from Massachusetts - p-c wiki:1 words:1
+People from Massachusetts - c-p wiki:2 words:0
+Deaths from infectious disease - p-c wiki:4 words:0
+Deaths from infectious disease - c-p wiki:3 words:0
+LGBT people from the United States - c-p wiki:2 words:1
+People from Illinois - p-c wiki:1 words:1
+People from Illinois - c-p wiki:2 words:1
+1935 births - c-p wiki:2 words:0
+American television personalities - p-c wiki:1 words:0
+American television personalities - c-p wiki:2 words:0
+Television directors - c-p wiki:3 words:1
+Television writers - c-p wiki:2 words:0
+Commerce - p-c wiki:3 words:0
+Commerce - c-p wiki:1 words:0
+Writing - p-c wiki:3 words:1
+Writing - c-p wiki:2 words:1
+Chinese dynasties - c-p wiki:1 words:0
+Former empires - p-c wiki:1 words:0
+Former empires - c-p wiki:2 words:1
+Former monarchies of Asia - c-p wiki:2 words:0
+780s births - p-c wiki:2 words:1
+780s births - c-p wiki:2 words:1
+842 deaths - c-p wiki:1 words:0
+Poetry forms - c-p wiki:1 words:0
+Compositions by Edward Elgar - c-p wiki:1 words:0
+Oratorios - c-p wiki:1 words:0
+Astrological signs - c-p wiki:1 words:0
+1810s births - p-c wiki:10 words:2
+1810s births - c-p wiki:2 words:0
+1833 deaths - c-p wiki:2 words:0
+Feral children - c-p wiki:1 words:0
+Mysterious people - c-p wiki:1 words:0
+National parks in Vietnam - c-p wiki:2 words:0
+Quang Binh Province - c-p wiki:1 words:0
+World Heritage Sites - p-c wiki:9 words:2
+World Heritage Sites - c-p wiki:4 words:3
+Austrian conductors - c-p wiki:2 words:0
+Falconiformes - c-p wiki:1 words:0
+Batman movies - c-p wiki:3 words:1
+Figure skating - p-c wiki:1 words:0
+Figure skating - c-p wiki:2 words:0
+Buildings on the National Mall - c-p wiki:2 words:1
+Museums in the United States - p-c wiki:3 words:0
+Museums in the United States - c-p wiki:2 words:0
+Smithsonian Institution - c-p wiki:1 words:0
+Railway stations in Melbourne - c-p wiki:3 words:0
+History of Armenia - p-c wiki:3 words:1
+History of Armenia - c-p wiki:3 words:0
+Prefectures of Japan - p-c wiki:1 words:0
+Prefectures of Japan - c-p wiki:2 words:0
+Music education - c-p wiki:1 words:0
+British royalty - p-c wiki:10 words:4
+British royalty - c-p wiki:2 words:1
+Cities in South Africa - c-p wiki:3 words:0
+1997 movies - c-p wiki:2 words:0
+Sequel movies - c-p wiki:1 words:1
+Painting - p-c wiki:2 words:0
+Painting - c-p wiki:1 words:1
+Stone Age - c-p wiki:3 words:1
+1680 births - c-p wiki:2 words:0
+1718 deaths - c-p wiki:2 words:0
+Pirates - c-p wiki:3 words:0
+1961 movies - c-p wiki:2 words:0
+Romantic comedy movies - c-p wiki:2 words:1
+Antarctic region - p-c wiki:1 words:0
+Antarctic region - c-p wiki:1 words:0
+British overseas territories - p-c wiki:6 words:1
+British overseas territories - c-p wiki:2 words:1
+Dependent territories - p-c wiki:2 words:1
+Dependent territories - c-p wiki:1 words:0
+Territories of Australia - p-c wiki:2 words:0
+Territories of Australia - c-p wiki:2 words:1
+Cycling - p-c wiki:12 words:4
+Cycling - c-p wiki:1 words:1
+Rugby - p-c wiki:2 words:0
+Rugby - c-p wiki:1 words:0
+UCI ProTour teams - c-p wiki:2 words:1
+1818 births - c-p wiki:2 words:0
+1893 deaths - c-p wiki:2 words:0
+Dominican Republic - p-c wiki:7 words:3
+Dominican Republic - c-p wiki:2 words:2
+1928 establishments - c-p wiki:2 words:0
+Cycle races - p-c wiki:4 words:1
+Cycle races - c-p wiki:1 words:1
+Sports in Poland - p-c wiki:3 words:0
+Sports in Poland - c-p wiki:3 words:0
+UCI ProTour - p-c wiki:1 words:1
+UCI ProTour - c-p wiki:1 words:1
+Cycle racing in France - p-c wiki:1 words:0
+Cycle racing in France - c-p wiki:2 words:1
+Lifestyles - c-p wiki:1 words:0
+Sexual revolution - c-p wiki:2 words:2
+1842 births - c-p wiki:2 words:0
+1912 deaths - c-p wiki:2 words:1
+1980 albums - c-p wiki:2 words:0
+Debut albums - c-p wiki:1 words:0
+Island Records albums - c-p wiki:1 words:0
+U2 albums - c-p wiki:2 words:1
+German cycling teams - c-p wiki:2 words:0
+UCI Oceania Tour - c-p wiki:1 words:0
+French sculptors - c-p wiki:2 words:0
+American violinists - c-p wiki:2 words:1
+People from Indiana - c-p wiki:2 words:1
+Genetics - p-c wiki:2 words:1
+Genetics - c-p wiki:1 words:1
+Real-time strategy video games - c-p wiki:1 words:0
+2020s - c-p wiki:2 words:1
+Future events - p-c wiki:2 words:0
+Future events - c-p wiki:1 words:0
+Summer Olympic Games - p-c wiki:4 words:0
+Summer Olympic Games - c-p wiki:1 words:0
+Cìte d\'Ivoire footballers - c-p wiki:2 words:0
+Cities in Iowa - c-p wiki:2 words:0
+1849 births - c-p wiki:2 words:0
+1922 deaths - c-p wiki:2 words:0
+German criminals - p-c wiki:1 words:0
+German criminals - c-p wiki:2 words:1
+Hittite Empire - c-p wiki:1 words:1
+Mesopotamia - p-c wiki:1 words:0
+Mesopotamia - c-p wiki:1 words:1
+Cryptography - c-p wiki:2 words:0
+Government of the Republic of Ireland - c-p wiki:1 words:0
+Politics of Ireland - p-c wiki:2 words:0
+Politics of Ireland - c-p wiki:2 words:1
+1883 births - c-p wiki:2 words:0
+2008 video games - c-p wiki:2 words:0
+Super Smash Bros. - c-p wiki:2 words:0
+2000 movies - c-p wiki:2 words:0
+X-Men movies - c-p wiki:5 words:2
+Ballets - c-p wiki:2 words:1
+Compositions by LÇo Delibes - c-p wiki:1 words:0
+Irish Free State - c-p wiki:1 words:0
+History of Native Americans - c-p wiki:2 words:1
+Bones - p-c wiki:1 words:0
+Bones - c-p wiki:1 words:0
+Synapsids - p-c wiki:2 words:0
+Synapsids - c-p wiki:1 words:0
+Bamberg - c-p wiki:1 words:0
+Churches in Germany - c-p wiki:2 words:0
+Roman Catholic Cathedrals - c-p wiki:2 words:1
+1776 births - c-p wiki:2 words:0
+1822 deaths - c-p wiki:2 words:0
+German painters - c-p wiki:2 words:0
+Cities in Missouri - p-c wiki:2 words:1
+Cities in Missouri - c-p wiki:2 words:0
+Milan - c-p wiki:1 words:1
+Opera houses - c-p wiki:2 words:0
+2006 songs - c-p wiki:2 words:0
+BeyoncÇ Knowles songs - c-p wiki:2 words:0
+Jay-Z songs - c-p wiki:1 words:0
+2007 songs - c-p wiki:2 words:0
+2003 songs - c-p wiki:2 words:0
+Lobe-finned fish - c-p wiki:1 words:0
+English bands - p-c wiki:7 words:0
+English bands - c-p wiki:2 words:0
+Musicians from Manchester - c-p wiki:2 words:0
+League of Nations Mandates - c-p wiki:1 words:1
+Saarland - p-c wiki:4 words:0
+Saarland - c-p wiki:1 words:0
+1983 deaths - c-p wiki:2 words:0
+People from Greater Manchester - p-c wiki:1 words:0
+People from Greater Manchester - c-p wiki:3 words:0
+Apple Inc. - p-c wiki:2 words:0
+Apple Inc. - c-p wiki:1 words:0
+Mobile phones - c-p wiki:1 words:0
+Halo - c-p wiki:4 words:0
+Xbox games - c-p wiki:2 words:0
+BeyoncÇ concert tours - c-p wiki:2 words:0
+Concert tours - p-c wiki:1 words:0
+Concert tours - c-p wiki:1 words:0
+BeyoncÇ albums - c-p wiki:2 words:0
+Destiny\'s Child albums - c-p wiki:2 words:0
+Haiti - p-c wiki:4 words:0
+Haiti - c-p wiki:1 words:1
+Rivers of the Dominican Republic - c-p wiki:2 words:1
+1944 births - c-p wiki:2 words:0
+Destiny\'s Child songs - c-p wiki:2 words:0
+1959 establishments - c-p wiki:2 words:0
+Alphabet - p-c wiki:6 words:0
+Alphabet - c-p wiki:1 words:1
+Writing systems - p-c wiki:3 words:1
+Writing systems - c-p wiki:2 words:2
+Berlin Wall - c-p wiki:3 words:1
+Buildings and structures in Berlin - c-p wiki:2 words:0
+Landmarks in Germany - c-p wiki:2 words:1
+Monuments and memorials in Germany - p-c wiki:1 words:0
+Monuments and memorials in Germany - c-p wiki:1 words:0
+Vertebrates - p-c wiki:2 words:0
+Vertebrates - c-p wiki:1 words:1
+Musical notation - p-c wiki:1 words:0
+Musical notation - c-p wiki:2 words:0
+Musical performance techniques - c-p wiki:1 words:0
+Cartilaginous fishes - p-c wiki:2 words:0
+Cartilaginous fishes - c-p wiki:1 words:0
+1782 deaths - c-p wiki:2 words:0
+Bach family - c-p wiki:1 words:0
+Classical era composers - c-p wiki:2 words:0
+People from Saxony - c-p wiki:1 words:0
+Anglicanism - p-c wiki:2 words:0
+Anglicanism - c-p wiki:1 words:1
+Christian music - p-c wiki:3 words:0
+Christian music - c-p wiki:2 words:2
+1887 births - c-p wiki:2 words:0
+1977 deaths - c-p wiki:2 words:0
+Compositions by Pyotr Tchaikovsky - c-p wiki:1 words:0
+States of the German Confederation - c-p wiki:1 words:0
+States of the German Empire - c-p wiki:2 words:1
+States of the North German Confederation - c-p wiki:1 words:0
+States of the Weimar Republic - c-p wiki:2 words:1
+Thuringia - p-c wiki:3 words:0
+Thuringia - c-p wiki:1 words:0
+Germany - p-c wiki:22 words:0
+Germany - c-p wiki:3 words:0
+Moraceae - c-p wiki:1 words:0
+Italian singers - c-p wiki:2 words:0
+Former federations - c-p wiki:1 words:0
+1809 establishments - c-p wiki:2 words:0
+1918 disestablishments - c-p wiki:2 words:1
+Former vassal states - c-p wiki:1 words:0
+House of Wettin - p-c wiki:2 words:1
+House of Wettin - c-p wiki:1 words:0
+1960s television series - p-c wiki:2 words:0
+1960s television series - c-p wiki:2 words:0
+1970s television series - p-c wiki:4 words:0
+1970s television series - c-p wiki:2 words:0
+1980s television series - p-c wiki:6 words:0
+1980s television series - c-p wiki:2 words:0
+1990s television series - p-c wiki:8 words:0
+1990s television series - c-p wiki:2 words:0
+2000s American television series - p-c wiki:1 words:0
+2000s American television series - c-p wiki:2 words:0
+American television series - p-c wiki:5 words:1
+American television series - c-p wiki:2 words:0
+Soap operas - p-c wiki:1 words:0
+Soap operas - c-p wiki:1 words:0
+Television stubs - c-p wiki:3 words:1
+Holy Roman Empire - p-c wiki:3 words:3
+Holy Roman Empire - c-p wiki:3 words:3
+Municipalities in Dominican Republic - c-p wiki:3 words:1
+Female professional wrestlers - c-p wiki:2 words:1
+People from Los Angeles, California - c-p wiki:2 words:1
+Ancient Egypt - p-c wiki:4 words:1
+Ancient Egypt - c-p wiki:2 words:1
+British Museum - c-p wiki:1 words:0
+Egg - c-p wiki:1 words:1
+Ballet - p-c wiki:3 words:1
+Ballet - c-p wiki:2 words:0
+Footwear - c-p wiki:2 words:0
+Cyclists - p-c wiki:6 words:2
+Cyclists - c-p wiki:1 words:0
+Doping cases in cycling - c-p wiki:2 words:1
+German cyclists - c-p wiki:2 words:0
+Jupiter\'s moons - c-p wiki:2 words:0
+1470s births - p-c wiki:9 words:1
+1470s births - c-p wiki:2 words:0
+1541 deaths - c-p wiki:2 words:0
+History of Central America - p-c wiki:1 words:0
+History of Central America - c-p wiki:1 words:0
+Arthropods - p-c wiki:4 words:3
+Arthropods - c-p wiki:1 words:1
+American pianists - c-p wiki:2 words:1
+American singer-songwriters - c-p wiki:3 words:2
+National Basketball Association teams - c-p wiki:1 words:1
+Sports in Los Angeles, California - c-p wiki:2 words:0
+Respiratory system - c-p wiki:1 words:0
+Reproductive system - p-c wiki:2 words:0
+Reproductive system - c-p wiki:2 words:1
+Europe-related lists - p-c wiki:2 words:0
+Europe-related lists - c-p wiki:2 words:1
+Geography of Switzerland - p-c wiki:4 words:0
+Geography of Switzerland - c-p wiki:3 words:0
+Switzerland stubs - c-p wiki:3 words:0
+Beaches in California - c-p wiki:2 words:0
+Sonoma County, California - c-p wiki:1 words:0
+Thurgau - p-c wiki:2 words:0
+Thurgau - c-p wiki:1 words:0
+Nidwalden - p-c wiki:1 words:0
+Nidwalden - c-p wiki:1 words:0
+Folk instruments - c-p wiki:1 words:1
+1460 births - c-p wiki:2 words:0
+1511 deaths - c-p wiki:2 words:0
+Spanish soldiers - c-p wiki:2 words:0
+Towns in West Sussex - c-p wiki:2 words:0
+Disability - p-c wiki:1 words:0
+Disability - c-p wiki:2 words:2
+Sleep disorders - c-p wiki:1 words:0
+Cities in Afghanistan - c-p wiki:3 words:0
+County seats in Alabama - c-p wiki:2 words:1
+1923 births - c-p wiki:2 words:0
+1999 deaths - c-p wiki:2 words:0
+Cardinals of the Roman Catholic Church - c-p wiki:2 words:0
+People from Newcastle upon Tyne - c-p wiki:3 words:0
+Colleges and universities in Germany - c-p wiki:2 words:0
+Saxony - p-c wiki:3 words:0
+Saxony - c-p wiki:1 words:0
+Technical colleges and universities - c-p wiki:1 words:0
+Anti-Armenianism - p-c wiki:1 words:1
+Anti-Armenianism - c-p wiki:2 words:0
+Districts of GraubÅnden - c-p wiki:2 words:0
+Alcoholic spirits - c-p wiki:1 words:1
+Wikipedias by language - c-p wiki:2 words:0
+Battles of the Ancient World - p-c wiki:1 words:0
+Battles of the Ancient World - c-p wiki:2 words:2
+1891 births - c-p wiki:2 words:0
+1980 deaths - c-p wiki:2 words:0
+German military people - c-p wiki:3 words:1
+International Military Tribunal - c-p wiki:4 words:2
+Provinces of the Dominican Republic - c-p wiki:2 words:1
+Districts of Aargau - c-p wiki:2 words:0
+107 deaths - c-p wiki:2 words:0
+35 births - c-p wiki:1 words:0
+Given names - c-p wiki:1 words:0
+American composers - p-c wiki:1 words:0
+American composers - c-p wiki:2 words:0
+People from Saxony-Anhalt - c-p wiki:2 words:0
+Refugees from Nazism - c-p wiki:1 words:0
+1999 books - c-p wiki:2 words:0
+A Series of Unfortunate Events - c-p wiki:1 words:0
+German models - c-p wiki:2 words:0
+German singers - c-p wiki:2 words:0
+People from North Rhine-Westphalia - p-c wiki:1 words:1
+People from North Rhine-Westphalia - c-p wiki:2 words:0
+Photography - p-c wiki:1 words:0
+Photography - c-p wiki:1 words:0
+Asteroids - p-c wiki:2 words:0
+Asteroids - c-p wiki:3 words:1
+Florida Keys - c-p wiki:1 words:0
+1860 births - c-p wiki:2 words:0
+1909 deaths - c-p wiki:2 words:0
+Spanish composers - c-p wiki:2 words:0
+Spanish pianists - c-p wiki:2 words:0
+1934 in sports - p-c wiki:1 words:0
+1934 in sports - c-p wiki:2 words:1
+FIFA World Cup - p-c wiki:2 words:0
+FIFA World Cup - c-p wiki:2 words:1
+1938 in sports - p-c wiki:1 words:0
+1938 in sports - c-p wiki:2 words:0
+Data Input - c-p wiki:1 words:0
+1275 - p-c wiki:1 words:0
+1275 - c-p wiki:1 words:0
+1260 - p-c wiki:1 words:0
+1260 - c-p wiki:1 words:0
+Overijssel - c-p wiki:1 words:0
+Provinces of the Netherlands - p-c wiki:3 words:0
+Provinces of the Netherlands - c-p wiki:1 words:0
+German federal supreme courts - c-p wiki:1 words:0
+The Elder Scrolls - c-p wiki:1 words:1
+Hindu gurus - c-p wiki:2 words:1
+1608 births - c-p wiki:2 words:0
+1674 deaths - c-p wiki:2 words:0
+1909 births - c-p wiki:2 words:0
+American clarinetists - c-p wiki:2 words:1
+American jazz musicians - c-p wiki:2 words:0
+Bandleaders - c-p wiki:1 words:0
+German federal ministries - c-p wiki:1 words:0
+Inner and Outer Hebrides - c-p wiki:1 words:0
+2006 Atlantic hurricane season - c-p wiki:2 words:0
+Puritanism - c-p wiki:1 words:0
+County seats in Massachusetts - c-p wiki:2 words:0
+Towns in Massachusetts - c-p wiki:2 words:0
+British military aircraft - p-c wiki:1 words:0
+British military aircraft - c-p wiki:2 words:0
+Greece - p-c wiki:11 words:1
+Greece - c-p wiki:1 words:0
+Israel Defense Forces - c-p wiki:2 words:0
+Japanese military - p-c wiki:1 words:0
+Japanese military - c-p wiki:2 words:0
+Military aviation - p-c wiki:2 words:0
+Military aviation - c-p wiki:2 words:1
+Netherlands - p-c wiki:12 words:1
+Netherlands - c-p wiki:2 words:0
+Saudi Arabia - p-c wiki:4 words:1
+Saudi Arabia - c-p wiki:3 words:1
+United States military aircraft - p-c wiki:4 words:0
+United States military aircraft - c-p wiki:2 words:1
+Cities in Tuscany - p-c wiki:1 words:1
+Cities in Tuscany - c-p wiki:2 words:1
+1987 births - c-p wiki:2 words:0
+British pop musicians - p-c wiki:1 words:0
+British pop musicians - c-p wiki:3 words:0
+English singers - p-c wiki:1 words:0
+English singers - c-p wiki:2 words:0
+English songwriters - c-p wiki:2 words:0
+Old Testament books - c-p wiki:2 words:1
+Florence - p-c wiki:2 words:0
+Florence - c-p wiki:1 words:0
+Contraltos - c-p wiki:1 words:0
+English guitarists - c-p wiki:2 words:0
+Soul musicians - c-p wiki:2 words:0
+1911 births - c-p wiki:2 words:0
+American guitarists - p-c wiki:1 words:1
+American guitarists - c-p wiki:2 words:1
+Blues guitarists - c-p wiki:2 words:2
+Blues musicians - p-c wiki:7 words:7
+Blues musicians - c-p wiki:2 words:1
+People from Mississippi - c-p wiki:2 words:0
+Display technology - c-p wiki:4 words:0
+Television technology - p-c wiki:1 words:0
+Television technology - c-p wiki:1 words:1
+Sports in New York City - p-c wiki:2 words:0
+Sports in New York City - c-p wiki:2 words:0
+US Open (tennis) - p-c wiki:2 words:0
+US Open (tennis) - c-p wiki:2 words:0
+Buildings and structures in Egypt - c-p wiki:2 words:0
+British tennis players - c-p wiki:3 words:0
+Scottish athletes - p-c wiki:3 words:0
+Scottish athletes - c-p wiki:2 words:0
+1450s births - p-c wiki:5 words:1
+1450s births - c-p wiki:2 words:0
+1521 deaths - c-p wiki:2 words:0
+Franco-Flemish composers - c-p wiki:1 words:0
+Renaissance composers - c-p wiki:1 words:0
+People from Liverpool - p-c wiki:1 words:0
+People from Liverpool - c-p wiki:2 words:0
+1965 deaths - c-p wiki:2 words:1
+Architects - p-c wiki:3 words:1
+Architects - c-p wiki:2 words:1
+C-pop singers - c-p wiki:3 words:0
+Chinese singers - p-c wiki:1 words:0
+Chinese singers - c-p wiki:2 words:0
+Pop music - p-c wiki:5 words:2
+Pop music - c-p wiki:1 words:1
+1989 births - c-p wiki:2 words:0
+Chinese musicians - c-p wiki:2 words:0
+Sichuannese people - c-p wiki:2 words:1
+2003 video games - c-p wiki:2 words:1
+Simulator video games - p-c wiki:2 words:0
+Simulator video games - c-p wiki:1 words:0
+Japanese deities - c-p wiki:2 words:2
+1990 births - c-p wiki:2 words:0
+Romance movies - p-c wiki:2 words:1
+Romance movies - c-p wiki:1 words:0
+Tibetan Buddhism - c-p wiki:2 words:2
+Artists - p-c wiki:3 words:0
+Artists - c-p wiki:2 words:2
+Chinese musical entertainers - p-c wiki:2 words:0
+Chinese musical entertainers - c-p wiki:3 words:0
+Human rights - p-c wiki:3 words:0
+Human rights - c-p wiki:3 words:1
+Fashion houses - p-c wiki:1 words:0
+Fashion houses - c-p wiki:2 words:0
+Italian companies - c-p wiki:2 words:1
+1530s births - p-c wiki:8 words:1
+1530s births - c-p wiki:2 words:0
+1594 deaths - c-p wiki:2 words:0
+Presidents of Indonesia - c-p wiki:2 words:0
+British criminals - c-p wiki:2 words:1
+British people - p-c wiki:16 words:4
+British people - c-p wiki:3 words:1
+Physicians - p-c wiki:3 words:1
+Physicians - c-p wiki:2 words:1
+Serial killers - p-c wiki:2 words:0
+Serial killers - c-p wiki:1 words:0
+Buddhas - c-p wiki:1 words:0
+Cities in Baden-WÅrttemberg - c-p wiki:2 words:0
+1886 births - c-p wiki:2 words:0
+1949 births - c-p wiki:2 words:0
+Freeware video games - c-p wiki:1 words:1
+Australian military - p-c wiki:1 words:0
+Australian military - c-p wiki:2 words:1
+Buildings and structures in Sydney - c-p wiki:2 words:1
+Fortification - p-c wiki:1 words:0
+Fortification - c-p wiki:1 words:0
+History of Australia - p-c wiki:2 words:1
+History of Australia - c-p wiki:3 words:1
+1494 births - c-p wiki:2 words:0
+1566 deaths - c-p wiki:2 words:0
+Sultans of the Ottoman Empire - c-p wiki:2 words:0
+Indian writers - c-p wiki:2 words:0
+Computers - p-c wiki:4 words:0
+Computers - c-p wiki:2 words:0
+Snow - c-p wiki:2 words:1
+Departments of Haiti - c-p wiki:1 words:1
+American songwriters - p-c wiki:2 words:0
+American songwriters - c-p wiki:2 words:0
+Kanye West songs - c-p wiki:1 words:0
+Rap Music - p-c wiki:1 words:0
+Rap Music - c-p wiki:1 words:1
+Insects - p-c wiki:5 words:2
+Insects - c-p wiki:1 words:0
+American musicians - p-c wiki:8 words:2
+American musicians - c-p wiki:3 words:0
+2008 albums - c-p wiki:2 words:0
+Pop punk albums - c-p wiki:1 words:0
+New York City - p-c wiki:7 words:2
+New York City - c-p wiki:1 words:0
+Rail transport in the United States - c-p wiki:2 words:0
+People from Florence - c-p wiki:2 words:1
+English rock bands - p-c wiki:9 words:1
+English rock bands - c-p wiki:3 words:1
+1927 movies - c-p wiki:2 words:0
+Science fiction movies - p-c wiki:5 words:0
+Science fiction movies - c-p wiki:2 words:0
+Silent movies - c-p wiki:1 words:1
+2007 television series - c-p wiki:2 words:1
+210 BC deaths - c-p wiki:2 words:0
+259 BC births - c-p wiki:2 words:0
+Emperors and Empresses of China - p-c wiki:4 words:0
+Emperors and Empresses of China - c-p wiki:3 words:2
+Grunge bands - p-c wiki:3 words:1
+Grunge bands - c-p wiki:2 words:1
+Mario series characters - c-p wiki:1 words:0
+Nintendo video game characters - p-c wiki:4 words:0
+Nintendo video game characters - c-p wiki:2 words:0
+R&B musicians - p-c wiki:1 words:0
+R&B musicians - c-p wiki:2 words:0
+1916 deaths - c-p wiki:2 words:0
+Nicaraguan writers - c-p wiki:2 words:0
+1996 deaths - c-p wiki:2 words:0
+Companions of the Bath - c-p wiki:1 words:0
+Diplomats - p-c wiki:1 words:0
+Diplomats - c-p wiki:2 words:1
+English politicians - c-p wiki:1 words:1
+Peruvian people - p-c wiki:1 words:0
+Peruvian people - c-p wiki:3 words:0
+Roman Catholics - p-c wiki:7 words:2
+Roman Catholics - c-p wiki:2 words:1
+2006 albums - c-p wiki:2 words:0
+Snow Patrol albums - c-p wiki:1 words:0
+1950 births - c-p wiki:2 words:0
+Accidental deaths - c-p wiki:1 words:0
+Austrian politicians - p-c wiki:2 words:0
+Austrian politicians - c-p wiki:3 words:0
+Guitar Hero - c-p wiki:2 words:0
+1037 deaths - c-p wiki:2 words:0
+980 births - c-p wiki:2 words:0
+Persian people - p-c wiki:2 words:0
+Persian people - c-p wiki:1 words:0
+Scientists - p-c wiki:13 words:0
+Scientists - c-p wiki:2 words:0
+Harry Potter characters - c-p wiki:3 words:0
+Turtles - c-p wiki:1 words:1
+Spanish Roman Catholics - c-p wiki:2 words:0
+1498 births - c-p wiki:2 words:0
+1574 deaths - c-p wiki:2 words:0
+English drummers - c-p wiki:2 words:0
+Led Zeppelin - p-c wiki:1 words:1
+Led Zeppelin - c-p wiki:2 words:0
+Schools in Australia - p-c wiki:1 words:0
+Schools in Australia - c-p wiki:2 words:0
+Wake County, North Carolina - c-p wiki:1 words:0
+Radiometric dating - c-p wiki:3 words:2
+Lists of record labels - c-p wiki:2 words:0
+Standards - p-c wiki:1 words:0
+Standards - c-p wiki:1 words:0
+Lists of rivers of the United States - c-p wiki:2 words:0
+Rivers of Alaska - c-p wiki:2 words:0
+Geography of Australia - p-c wiki:6 words:0
+Geography of Australia - c-p wiki:3 words:1
+Elapidae - c-p wiki:1 words:0
+Cities in Haiti - c-p wiki:2 words:1
+1956 births - c-p wiki:2 words:0
+Districts of Khyber Pakhtunkhwa - p-c wiki:3 words:0
+Districts of Khyber Pakhtunkhwa - c-p wiki:1 words:0
+Regions of Pakistan - c-p wiki:1 words:0
+1922 births - c-p wiki:2 words:0
+1613 deaths - c-p wiki:2 words:0
+Lutenists - c-p wiki:1 words:0
+Murderers - p-c wiki:3 words:2
+Murderers - c-p wiki:1 words:0
+Surnames - p-c wiki:2 words:0
+Surnames - c-p wiki:1 words:0
+2006 movies - c-p wiki:2 words:0
+Hugo Award - c-p wiki:2 words:0
+1936 births - c-p wiki:2 words:0
+Art museums - c-p wiki:2 words:1
+Buildings and structures in Florence - c-p wiki:2 words:1
+Renaissance - c-p wiki:1 words:1
+Saturn\'s moons - c-p wiki:1 words:0
+American economists - c-p wiki:2 words:0
+Harvard University alumni - c-p wiki:2 words:0
+Nobel Prize in Economics winners - c-p wiki:1 words:0
+English models - c-p wiki:2 words:1
+Councils - c-p wiki:1 words:0
+C-rock - c-p wiki:3 words:0
+Nigerian footballers - c-p wiki:3 words:0
+International relations - p-c wiki:7 words:2
+International relations - c-p wiki:1 words:1
+1st century BC births - p-c wiki:8 words:0
+1st century BC births - c-p wiki:2 words:0
+1st century BC deaths - p-c wiki:5 words:0
+1st century BC deaths - c-p wiki:2 words:0
+Education - p-c wiki:11 words:0
+Education - c-p wiki:2 words:1
+Welsh football clubs - c-p wiki:2 words:0
+Elephants - c-p wiki:1 words:1
+Counties in Iran - c-p wiki:2 words:0
+Southampton - c-p wiki:1 words:0
+1937 births - c-p wiki:2 words:0
+People from Northumberland - c-p wiki:2 words:0
+1960 births - c-p wiki:2 words:0
+People from Leicestershire - c-p wiki:2 words:0
+1979 establishments - c-p wiki:2 words:0
+World Wrestling Entertainment championships - c-p wiki:1 words:1
+France-related lists - c-p wiki:2 words:0
+1762 births - c-p wiki:2 words:0
+1830 deaths - c-p wiki:2 words:0
+1765 births - c-p wiki:2 words:0
+1837 deaths - c-p wiki:2 words:0
+1947 births - c-p wiki:2 words:0
+Irrational numbers - c-p wiki:1 words:1
+1919 deaths - c-p wiki:2 words:0
+Literature since 1500 - p-c wiki:6 words:0
+Literature since 1500 - c-p wiki:1 words:0
+American astronomers - c-p wiki:2 words:0
+American physicists - c-p wiki:2 words:1
+Hominins - p-c wiki:1 words:0
+Hominins - c-p wiki:1 words:1
+Mario Kart games - c-p wiki:1 words:0
+Russian football clubs - p-c wiki:1 words:0
+Russian football clubs - c-p wiki:2 words:0
+2002 video games - c-p wiki:2 words:0
+PlayStation 2 games - p-c wiki:1 words:0
+PlayStation 2 games - c-p wiki:2 words:0
+Tekken - c-p wiki:2 words:0
+Lists of television series episodes - p-c wiki:1 words:0
+Lists of television series episodes - c-p wiki:2 words:0
+1928 births - c-p wiki:2 words:0
+Kelly Rowland songs - c-p wiki:1 words:0
+Grammy Award winning songs - c-p wiki:1 words:0
+History of Japan - p-c wiki:4 words:2
+History of Japan - c-p wiki:3 words:0
+1992 movies - c-p wiki:2 words:0
+Canadian people - p-c wiki:3 words:0
+Canadian people - c-p wiki:3 words:0
+Theologians - c-p wiki:1 words:0
+Languages of the Americas - c-p wiki:1 words:0
+Evolution - c-p wiki:1 words:1
+Italian movie directors - c-p wiki:2 words:0
+Extinct in the Wild - c-p wiki:2 words:2
+Canids - p-c wiki:1 words:1
+Canids - c-p wiki:1 words:0
+Mammals of Asia - p-c wiki:1 words:0
+Mammals of Asia - c-p wiki:2 words:0
+Mammals of Australia - c-p wiki:1 words:0
+Mammals of Europe - p-c wiki:1 words:0
+Mammals of Europe - c-p wiki:1 words:0
+Flowers - c-p wiki:1 words:1
+1957 births - c-p wiki:2 words:0
+Agnostics - c-p wiki:1 words:0
+Billionaires - c-p wiki:1 words:0
+Biography with signature - c-p wiki:1 words:0
+Chief executives - c-p wiki:1 words:0
+Microsoft - p-c wiki:3 words:0
+Microsoft - c-p wiki:2 words:1
+People from Washington - c-p wiki:2 words:0
+Australian Football League - c-p wiki:2 words:0
+Atari 2600 - p-c wiki:1 words:0
+Atari 2600 - c-p wiki:1 words:0
+Video game consoles - p-c wiki:4 words:0
+Video game consoles - c-p wiki:2 words:0
+Airports in Vietnam - c-p wiki:2 words:0
+Transportation stubs - c-p wiki:3 words:1
+Syngnathiformes - c-p wiki:1 words:0
+Counties of Romania - c-p wiki:2 words:0
+Romania lists - c-p wiki:2 words:0
+1985 books - c-p wiki:2 words:1
+Books by Orson Scott Card - p-c wiki:1 words:0
+Books by Orson Scott Card - c-p wiki:1 words:0
+1930 births - c-p wiki:2 words:0
+Lists of rivers by country - p-c wiki:1 words:0
+Lists of rivers by country - c-p wiki:2 words:0
+Rivers of Croatia - c-p wiki:2 words:0
+Mountains in Romania - c-p wiki:2 words:0
+Gods and goddesses - p-c wiki:6 words:1
+Gods and goddesses - c-p wiki:2 words:0
+History of Mesoamerica - p-c wiki:1 words:0
+History of Mesoamerica - c-p wiki:1 words:0
+Anglican Cathedrals - c-p wiki:2 words:0
+Cathedrals in England - c-p wiki:1 words:0
+Extreme Championship Wrestling - c-p wiki:1 words:0
+WWE Drafts - c-p wiki:1 words:1
+WWE Raw - c-p wiki:1 words:1
+WWE SmackDown! - c-p wiki:1 words:1
+Paleontology - p-c wiki:3 words:2
+Paleontology - c-p wiki:3 words:3
+1754 births - c-p wiki:2 words:0
+1817 deaths - c-p wiki:2 words:0
+Governors of New South Wales - c-p wiki:1 words:0
+Mutiny on the Bounty - c-p wiki:1 words:1
+People from Cornwall - c-p wiki:2 words:0
+Buffalo Sabres players - c-p wiki:1 words:0
+Chicago Blackhawks players - c-p wiki:2 words:0
+Czech ice hockey players - c-p wiki:3 words:0
+Czechoslovak ice hockey players - c-p wiki:2 words:0
+Detroit Red Wings players - c-p wiki:2 words:0
+Ottawa Senators players - c-p wiki:1 words:0
+Stanley Cup champions - c-p wiki:1 words:0
+1973 in ice hockey - c-p wiki:2 words:0
+1974 in ice hockey - c-p wiki:2 words:0
+National Hockey League seasons - p-c wiki:1 words:0
+National Hockey League seasons - c-p wiki:1 words:1
+Former monarchies - p-c wiki:5 words:0
+Former monarchies - c-p wiki:1 words:0
+History of South America - p-c wiki:2 words:0
+History of South America - c-p wiki:2 words:0
+Pinnipeds - c-p wiki:1 words:0
+2008 movies - p-c wiki:1 words:0
+2008 movies - c-p wiki:2 words:0
+Pixar movies - c-p wiki:2 words:1
+Microscopes - c-p wiki:1 words:0
+Spectroscopy - c-p wiki:1 words:0
+Governors of Florida - c-p wiki:2 words:0
+Alternative music - p-c wiki:2 words:0
+Alternative music - c-p wiki:3 words:2
+Nirvana - p-c wiki:2 words:1
+Nirvana - c-p wiki:2 words:0
+1974 births - c-p wiki:2 words:0
+American ice hockey players - c-p wiki:3 words:0
+Boston Bruins players - c-p wiki:2 words:1
+St. Louis Blues players - c-p wiki:1 words:0
+Washington Capitals players - c-p wiki:2 words:0
+2008 in professional wrestling - c-p wiki:2 words:0
+WWE Night of Champions - c-p wiki:1 words:1
+Defunct National Hockey League teams - c-p wiki:2 words:0
+Canadian ice hockey players - p-c wiki:1 words:0
+Canadian ice hockey players - c-p wiki:2 words:0
+Los Angeles Kings players - c-p wiki:1 words:0
+New York Rangers players - c-p wiki:2 words:0
+Toronto Maple Leafs players - c-p wiki:2 words:0
+Capital cities - p-c wiki:8 words:4
+Capital cities - c-p wiki:1 words:0
+Caribbean - p-c wiki:1 words:1
+Caribbean - c-p wiki:1 words:0
+Montreal Canadiens players - c-p wiki:3 words:0
+Philadelphia Flyers players - c-p wiki:1 words:0
+1975 establishments - c-p wiki:2 words:0
+1928 in ice hockey - c-p wiki:2 words:0
+1929 in ice hockey - c-p wiki:2 words:0
+Entertainment - p-c wiki:26 words:5
+Entertainment - c-p wiki:2 words:2
+1930 in ice hockey - c-p wiki:2 words:0
+Baleen whales - c-p wiki:1 words:0
+American companies - p-c wiki:8 words:1
+American companies - c-p wiki:2 words:1
+Entertainment companies - p-c wiki:7 words:2
+Entertainment companies - c-p wiki:2 words:1
+Australian explorers - c-p wiki:2 words:0
+Pakistan Administered Kashmir - p-c wiki:3 words:2
+Pakistan Administered Kashmir - c-p wiki:2 words:1
+Special territories - c-p wiki:1 words:0
+States and territories established in 1949 - c-p wiki:2 words:0
+Territories of Pakistan - c-p wiki:2 words:0
+Airports in England - c-p wiki:2 words:0
+London Borough of Hillingdon - c-p wiki:1 words:0
+Districts of Azad Kashmir - c-p wiki:2 words:1
+World Wrestling Entertainment pay-per-view events - p-c wiki:10 words:2
+World Wrestling Entertainment pay-per-view events - c-p wiki:1 words:1
+1940 in ice hockey - c-p wiki:2 words:0
+1941 in ice hockey - c-p wiki:2 words:0
+1972 establishments - c-p wiki:2 words:0
+1979 disestablishments - c-p wiki:2 words:0
+Ice hockey leagues - p-c wiki:8 words:1
+Ice hockey leagues - c-p wiki:2 words:0
+1737 births - c-p wiki:2 words:0
+1821 deaths - c-p wiki:2 words:0
+Children\'s television series - p-c wiki:2 words:0
+Children\'s television series - c-p wiki:2 words:0
+Debian-based Linux distributions - p-c wiki:1 words:0
+Debian-based Linux distributions - c-p wiki:1 words:0
+Live CD - c-p wiki:1 words:1
+Manchester - p-c wiki:1 words:0
+Manchester - c-p wiki:2 words:1
+Knoppix - c-p wiki:1 words:0
+Ubuntu (operating system) derivatives - c-p wiki:1 words:1
+Nintendo DS games - p-c wiki:2 words:0
+Nintendo DS games - c-p wiki:1 words:0
+PlayStation 3 games - c-p wiki:2 words:0
+Xbox 360 games - p-c wiki:2 words:0
+Xbox 360 games - c-p wiki:2 words:0
+Matrix series - c-p wiki:2 words:1
+Warner Bros. movies - p-c wiki:1 words:0
+Warner Bros. movies - c-p wiki:2 words:0
+Boston Red Sox players - c-p wiki:1 words:0
+Dominican Republic athletes - c-p wiki:2 words:0
+Minnesota Twins players - c-p wiki:1 words:0
+1898 births - c-p wiki:2 words:0
+Australian Nobel Prize winners - c-p wiki:2 words:0
+Australian scientists - c-p wiki:2 words:0
+British scientists - p-c wiki:2 words:0
+British scientists - c-p wiki:2 words:0
+Nobel Prize in Physiology or Medicine winners - c-p wiki:1 words:0
+1550s births - p-c wiki:6 words:0
+1550s births - c-p wiki:2 words:0
+1616 deaths - c-p wiki:2 words:0
+Labor - c-p wiki:2 words:1
+1961 births - c-p wiki:2 words:0
+2005 video games - c-p wiki:2 words:0
+Nintendo DS-only games - c-p wiki:1 words:0
+Nintendo Entertainment Analysis and Development games - c-p wiki:1 words:0
+1995 video games - c-p wiki:2 words:0
+Chrono series - c-p wiki:1 words:0
+Super NES games - c-p wiki:2 words:0
+TOSE games - c-p wiki:1 words:1
+Video games with time travel - c-p wiki:1 words:1
+Giro d\'Italia winners - c-p wiki:1 words:0
+Spanish cyclists - c-p wiki:2 words:2
+2003 Atlantic hurricane season - c-p wiki:1 words:0
+Category 1 Atlantic hurricanes - c-p wiki:1 words:0
+Hurricane stubs - c-p wiki:4 words:1
+Hurricanes - p-c wiki:3 words:0
+Hurricanes - c-p wiki:1 words:0
+Hurricanes in Mexico - c-p wiki:1 words:0
+English athletes - p-c wiki:6 words:1
+English athletes - c-p wiki:4 words:1
+Officers of the Order of the British Empire - c-p wiki:1 words:1
+Retired tennis players - c-p wiki:1 words:0
+1939 deaths - c-p wiki:2 words:0
+1120 births - c-p wiki:2 words:0
+1180 deaths - c-p wiki:2 words:0
+2007 movies - c-p wiki:2 words:0
+Superhero movies - p-c wiki:1 words:0
+Superhero movies - c-p wiki:1 words:0
+Scottish Premier League clubs - c-p wiki:1 words:0
+Falkirk council area - p-c wiki:1 words:0
+Falkirk council area - c-p wiki:1 words:0
+Scottish football clubs - p-c wiki:4 words:1
+Scottish football clubs - c-p wiki:2 words:0
+Kirby - c-p wiki:1 words:0
+Virtual Console games - c-p wiki:1 words:0
+Passeriformes - p-c wiki:4 words:1
+Passeriformes - c-p wiki:1 words:0
+Airports in the United States - c-p wiki:3 words:0
+National Hockey League - p-c wiki:8 words:2
+National Hockey League - c-p wiki:3 words:1
+Camp Rock - c-p wiki:5 words:0
+Instant messaging software - c-p wiki:2 words:2
+Linux - p-c wiki:2 words:1
+Linux - c-p wiki:2 words:2
+1970 movies - c-p wiki:2 words:0
+1954 establishments - c-p wiki:2 words:0
+Magazines - p-c wiki:1 words:0
+Magazines - c-p wiki:3 words:0
+Sports media - c-p wiki:1 words:1
+Time Warner - c-p wiki:1 words:0
+Compositions by Wolfgang Amadeus Mozart - c-p wiki:2 words:0
+Provinces of Belgium - c-p wiki:2 words:0
+1931 in ice hockey - c-p wiki:2 words:0
+1932 in ice hockey - c-p wiki:2 words:0
+Websites - p-c wiki:7 words:2
+Websites - c-p wiki:1 words:0
+Super Bowl - c-p wiki:1 words:0
+Irish-Americans - c-p wiki:2 words:0
+International law - p-c wiki:3 words:1
+International law - c-p wiki:1 words:1
+Treaties - p-c wiki:1 words:1
+Treaties - c-p wiki:4 words:2
+1966 songs - c-p wiki:2 words:0
+The Beatles songs - c-p wiki:2 words:0
+1988 movies - c-p wiki:2 words:0
+Die Hard movies - c-p wiki:4 words:0
+Movies directed by John McTiernan - c-p wiki:1 words:0
+1258 - p-c wiki:1 words:0
+1258 - c-p wiki:1 words:0
+1919 births - c-p wiki:2 words:0
+American novelists - c-p wiki:2 words:1
+Human communication - p-c wiki:1 words:0
+Human communication - c-p wiki:2 words:1
+Language - p-c wiki:15 words:1
+Language - c-p wiki:1 words:0
+Video game remakes - c-p wiki:1 words:1
+Cities in Pennsylvania - p-c wiki:3 words:0
+Cities in Pennsylvania - c-p wiki:2 words:0
+Parasites - p-c wiki:1 words:0
+Parasites - c-p wiki:1 words:0
+Metroid - c-p wiki:1 words:0
+Himalayas - c-p wiki:1 words:0
+Mountains in Pakistan - p-c wiki:2 words:0
+Mountains in Pakistan - c-p wiki:2 words:0
+Nuclear power plants - c-p wiki:2 words:1
+Ancient Greek cities - c-p wiki:1 words:1
+1993 albums - c-p wiki:2 words:0
+Xbox - p-c wiki:2 words:0
+Xbox - c-p wiki:2 words:2
+2009 video games - c-p wiki:1 words:0
+CBS network shows - c-p wiki:1 words:0
+EarthBound - c-p wiki:1 words:0
+Mother series - c-p wiki:1 words:0
+Video game series - p-c wiki:14 words:1
+Video game series - c-p wiki:1 words:1
+Cities in California - p-c wiki:4 words:0
+Cities in California - c-p wiki:2 words:0
+People from Louisiana - c-p wiki:2 words:0
+Norwegian footballers - c-p wiki:2 words:0
+2005 deaths - c-p wiki:2 words:0
+Irish footballers - c-p wiki:2 words:0
+People from County Down - c-p wiki:1 words:0
+1893 births - c-p wiki:2 words:0
+Supercentenarians - c-p wiki:1 words:1
+Opera singers - c-p wiki:2 words:0
+Tenors - c-p wiki:1 words:0
+Mozilla - c-p wiki:1 words:1
+1570 births - c-p wiki:2 words:0
+1606 deaths - c-p wiki:2 words:0
+People from York - c-p wiki:2 words:0
+Terrorists - p-c wiki:2 words:0
+Terrorists - c-p wiki:1 words:0
+Television characters - p-c wiki:5 words:0
+Television characters - c-p wiki:1 words:0
+Xenaverse - p-c wiki:1 words:0
+Xenaverse - c-p wiki:1 words:0
+Integer sequences - c-p wiki:1 words:0
+1993 movies - c-p wiki:2 words:0
+2007 books - c-p wiki:2 words:0
+1984 movies - c-p wiki:2 words:0
+Disney people - p-c wiki:3 words:0
+Disney people - c-p wiki:1 words:0
+1806 deaths - c-p wiki:2 words:0
+Wario - c-p wiki:1 words:0
+United States Secretaries of Defense - c-p wiki:2 words:1
+Comedy television series - p-c wiki:2 words:0
+Comedy television series - c-p wiki:2 words:0
+Radio programs - c-p wiki:1 words:1
+Constellations - p-c wiki:2 words:1
+Constellations - c-p wiki:1 words:0
+Geography of Afghanistan - p-c wiki:2 words:0
+Geography of Afghanistan - c-p wiki:3 words:0
+BBC Online - c-p wiki:2 words:0
+Internet culture - p-c wiki:2 words:1
+Internet culture - c-p wiki:1 words:0
+Pakistan Movement - p-c wiki:2 words:0
+Pakistan Movement - c-p wiki:2 words:1
+Lists about England - p-c wiki:1 words:0
+Lists about England - c-p wiki:2 words:0
+Buckinghamshire - p-c wiki:2 words:0
+Buckinghamshire - c-p wiki:2 words:0
+2004 movies - c-p wiki:2 words:1
+Basketball - p-c wiki:5 words:1
+Basketball - c-p wiki:1 words:0
+Olympic Games - p-c wiki:10 words:0
+Olympic Games - c-p wiki:1 words:0
+Kashmir - p-c wiki:4 words:1
+Kashmir - c-p wiki:7 words:4
+1934 in ice hockey - c-p wiki:2 words:0
+1935 in ice hockey - c-p wiki:2 words:0
+Lists of people - p-c wiki:2 words:1
+Lists of people - c-p wiki:2 words:0
+Oklahoma politicians - p-c wiki:1 words:0
+Oklahoma politicians - c-p wiki:2 words:1
+McFly albums - c-p wiki:2 words:0
+Entertainment awards - p-c wiki:6 words:0
+Entertainment awards - c-p wiki:1 words:0
+Movie awards - p-c wiki:3 words:1
+Movie awards - c-p wiki:2 words:1
+Swiss footballers - c-p wiki:2 words:1
+BBC radio - c-p wiki:2 words:1
+Media in Scotland - c-p wiki:1 words:0
+Toys - p-c wiki:3 words:0
+Toys - c-p wiki:1 words:1
+Regions of Tasmania - c-p wiki:1 words:0
+1808 births - c-p wiki:2 words:0
+1877 deaths - c-p wiki:2 words:0
+Australian criminals - p-c wiki:1 words:0
+Australian criminals - c-p wiki:2 words:0
+Bushrangers - p-c wiki:1 words:1
+Bushrangers - c-p wiki:1 words:0
+Drama - c-p wiki:1 words:0
+Ned Kelly - c-p wiki:1 words:0
+Towns in Victoria - c-p wiki:2 words:0
+Governor of Oklahoma - c-p wiki:2 words:0
+1964 in ice hockey - c-p wiki:2 words:0
+1965 in ice hockey - c-p wiki:2 words:0
+WrestleMania - c-p wiki:1 words:1
+Buildings and structures in Switzerland - p-c wiki:1 words:0
+Buildings and structures in Switzerland - c-p wiki:2 words:0
+Cities in France - p-c wiki:4 words:0
+Cities in France - c-p wiki:3 words:0
+Besanáon - c-p wiki:1 words:0
+1846 births - c-p wiki:2 words:0
+1866 deaths - c-p wiki:2 words:0
+History of Russia - c-p wiki:3 words:0
+Cities in Washington (U.S. state) - p-c wiki:2 words:1
+Cities in Washington (U.S. state) - c-p wiki:2 words:0
+Yakima County, Washington - c-p wiki:1 words:0
+2005 songs - c-p wiki:2 words:0
+Rihanna songs - c-p wiki:1 words:0
+1958 births - c-p wiki:2 words:0
+Mexican footballers - c-p wiki:2 words:0
+1989 albums - c-p wiki:2 words:0
+Soundgarden albums - c-p wiki:2 words:0
+People from Devon - c-p wiki:2 words:0
+1987 albums - c-p wiki:2 words:0
+1937 books - c-p wiki:2 words:0
+Japanese footballers - c-p wiki:2 words:0
+Turkey - p-c wiki:11 words:0
+Turkey - c-p wiki:3 words:1
+Animal communication - c-p wiki:2 words:1
+Hymenoptera - p-c wiki:1 words:0
+Hymenoptera - c-p wiki:1 words:1
+1936 in ice hockey - c-p wiki:2 words:0
+Eurovision Song Contests - c-p wiki:1 words:0
+Songs - p-c wiki:4 words:0
+Songs - c-p wiki:1 words:0
+Call of Duty series - c-p wiki:1 words:0
+Czech footballers - c-p wiki:2 words:0
+Argentine footballers - c-p wiki:2 words:0
+People from South Yorkshire - c-p wiki:1 words:0
+Australian footballers - c-p wiki:2 words:0
+1879 births - c-p wiki:2 words:0
+Boxing - p-c wiki:2 words:0
+Boxing - c-p wiki:1 words:1
+Danish footballers - c-p wiki:2 words:0
+People from County Durham - c-p wiki:2 words:0
+Mezzo-sopranos - c-p wiki:1 words:0
+Rick Astley - p-c wiki:1 words:0
+Rick Astley - c-p wiki:1 words:0
+Prime Ministers of Israel - c-p wiki:2 words:0
+Anarchists - p-c wiki:3 words:0
+Anarchists - c-p wiki:2 words:0
+Russian writers - p-c wiki:2 words:0
+Russian writers - c-p wiki:2 words:0
+1937 in ice hockey - c-p wiki:2 words:0
+Auto parts - c-p wiki:1 words:0
+American television presenters - c-p wiki:3 words:1
+Comedy Central personalities - c-p wiki:1 words:0
+Television talk show hosts - c-p wiki:2 words:0
+Political geography - p-c wiki:5 words:1
+Political geography - c-p wiki:2 words:2
+Birds of Kashmir - c-p wiki:2 words:0
+Birds of Pakistan - c-p wiki:2 words:0
+1892 deaths - c-p wiki:2 words:0
+Anarchist communists - c-p wiki:1 words:1
+United States Department of Agriculture - p-c wiki:1 words:0
+United States Department of Agriculture - c-p wiki:1 words:1
+United States Executive Cabinet - p-c wiki:2 words:0
+United States Executive Cabinet - c-p wiki:2 words:1
+United States Secretaries of Agriculture - c-p wiki:2 words:1
+United States federal executive departments - p-c wiki:14 words:0
+United States federal executive departments - c-p wiki:1 words:0
+Cities in British Columbia - p-c wiki:2 words:0
+Cities in British Columbia - c-p wiki:2 words:0
+Computer networking - p-c wiki:3 words:0
+Computer networking - c-p wiki:1 words:0
+Geochemistry - c-p wiki:2 words:2
+Mac OS X games - c-p wiki:1 words:0
+Windows games - c-p wiki:1 words:1
+Occupations - p-c wiki:13 words:1
+Occupations - c-p wiki:2 words:2
+United States Secretaries of Health, Education, and Welfare - c-p wiki:1 words:0
+People from Nottinghamshire - c-p wiki:2 words:0
+American chemists - c-p wiki:2 words:1
+2008 - p-c wiki:11 words:1
+2008 - c-p wiki:1 words:0
+Floods - c-p wiki:1 words:0
+Yemen - p-c wiki:1 words:0
+Yemen - c-p wiki:3 words:1
+Mongolia - c-p wiki:2 words:2
+2008 Atlantic hurricane season - c-p wiki:2 words:0
+Bulgarian footballers - c-p wiki:2 words:0
+Welsh footballers - c-p wiki:2 words:0
+Movie characters - p-c wiki:1 words:0
+Movie characters - c-p wiki:1 words:0
+Islands - p-c wiki:7 words:0
+Islands - c-p wiki:1 words:1
+Oceania - p-c wiki:3 words:0
+Oceania - c-p wiki:1 words:1
+Animated characters - p-c wiki:4 words:1
+Animated characters - c-p wiki:2 words:1
+Disney characters - p-c wiki:3 words:0
+Disney characters - c-p wiki:2 words:0
+United States presidential candidates, 2008 - c-p wiki:2 words:1
+Communes in Vaucluse - c-p wiki:1 words:0
+Internet protocols - p-c wiki:1 words:1
+Internet protocols - c-p wiki:2 words:1
+Movies directed by Sam Raimi - c-p wiki:1 words:0
+Spider-Man movies - c-p wiki:6 words:2
+Squirrels - c-p wiki:1 words:0
+Money - p-c wiki:3 words:0
+Money - c-p wiki:1 words:0
+Bryan Adams - p-c wiki:2 words:0
+Bryan Adams - c-p wiki:1 words:1
+Witchcraft - c-p wiki:2 words:0
+Pink Floyd albums - c-p wiki:1 words:0
+Spices - c-p wiki:2 words:2
+1942 movies - c-p wiki:2 words:2
+2002 - p-c wiki:7 words:0
+2002 - c-p wiki:1 words:0
+Incomplete hurricane infoboxes - c-p wiki:1 words:0
+Pacific hurricane seasons - p-c wiki:5 words:0
+Pacific hurricane seasons - c-p wiki:2 words:1
+Towns in Aberdeenshire - c-p wiki:2 words:0
+1964 books - c-p wiki:2 words:0
+China - p-c wiki:12 words:2
+China - c-p wiki:1 words:1
+Physics - p-c wiki:21 words:9
+Physics - c-p wiki:2 words:0
+United States presidential elections - c-p wiki:2 words:1
+Trafford, Greater Manchester - c-p wiki:1 words:0
+Critically endangered species - c-p wiki:1 words:1
+Nirvana albums - c-p wiki:2 words:1
+Chess - p-c wiki:7 words:2
+Chess - c-p wiki:1 words:0
+Queen (band) - p-c wiki:1 words:0
+Queen (band) - c-p wiki:1 words:0
+Schools in the United States - p-c wiki:4 words:0
+Schools in the United States - c-p wiki:2 words:0
+Waste - p-c wiki:2 words:0
+Waste - c-p wiki:1 words:1
+National symbols of Pakistan - c-p wiki:1 words:0
+Towns in New South Wales - c-p wiki:2 words:0
+1938 in ice hockey - c-p wiki:2 words:0
+British automobile companies - c-p wiki:2 words:0
+1841 births - c-p wiki:2 words:1
+1863 deaths - c-p wiki:2 words:0
+Cities in New South Wales - p-c wiki:1 words:1
+Cities in New South Wales - c-p wiki:2 words:1
+Chess pieces - c-p wiki:1 words:1
+Towns in Tuscany - c-p wiki:2 words:0
+World Heritage Sites in Italy - c-p wiki:2 words:1
+Villages in Northern Ireland - c-p wiki:3 words:0
+Paradisaeidae - p-c wiki:1 words:0
+Paradisaeidae - c-p wiki:1 words:0
+Knowledge - p-c wiki:4 words:1
+Knowledge - c-p wiki:1 words:0
+Japanese football clubs - p-c wiki:1 words:0
+Japanese football clubs - c-p wiki:2 words:0
+1939 in ice hockey - c-p wiki:2 words:0
+Football in Austria - p-c wiki:4 words:1
+Football in Austria - c-p wiki:2 words:0
+Cities in Ontario - p-c wiki:1 words:0
+Cities in Ontario - c-p wiki:2 words:0
+Cities in Idaho - p-c wiki:1 words:0
+Cities in Idaho - c-p wiki:2 words:0
+County seats in Idaho - c-p wiki:1 words:0
+Cities in Indiana - c-p wiki:2 words:1
+Liberian footballers - c-p wiki:2 words:0
+Ukrainian footballers - c-p wiki:2 words:0
+South Korean footballers - c-p wiki:2 words:0
+Spanish footballers - c-p wiki:2 words:1
+Galician people - c-p wiki:2 words:0
+Counties in the United States - p-c wiki:27 words:0
+Counties in the United States - c-p wiki:2 words:1
+Valleys - p-c wiki:2 words:0
+Valleys - c-p wiki:1 words:1
+Ghanaian footballers - c-p wiki:3 words:0
+Politics of Scotland - p-c wiki:2 words:1
+Politics of Scotland - c-p wiki:2 words:1
+Scottish Parliament - p-c wiki:1 words:0
+Scottish Parliament - c-p wiki:1 words:0
+Ratites - c-p wiki:1 words:0
+Struthioniformes - c-p wiki:1 words:0
+Dermatology - c-p wiki:1 words:1
+Fungal diseases - c-p wiki:1 words:1
+Tropical depressions - c-p wiki:1 words:0
+Victoria Cross (Australia) winners - c-p wiki:2 words:0
+1988 deaths - c-p wiki:2 words:0
+Serbian people - p-c wiki:1 words:0
+Serbian people - c-p wiki:3 words:0
+Formula One circuits - c-p wiki:2 words:0
+Romanian footballers - c-p wiki:3 words:0
+Cellists - p-c wiki:1 words:0
+Cellists - c-p wiki:1 words:0
+1804 births - c-p wiki:2 words:0
+People from Connecticut - c-p wiki:2 words:0
+Socialism - c-p wiki:1 words:0
+Footballers - p-c wiki:78 words:14
+Footballers - c-p wiki:2 words:0
+Icelandic people - p-c wiki:3 words:0
+Icelandic people - c-p wiki:4 words:1
+Compositions by Camille Saint-Saâns - c-p wiki:1 words:0
+South Lanarkshire - p-c wiki:2 words:0
+South Lanarkshire - c-p wiki:1 words:0
+Tropical cyclones - p-c wiki:10 words:0
+Tropical cyclones - c-p wiki:1 words:0
+Kings and Queens of Belgium - c-p wiki:2 words:0
+People from County Limerick - c-p wiki:1 words:0
+Lists of tallest buildings - c-p wiki:2 words:0
+Skyscrapers in Chicago - c-p wiki:3 words:0
+Kuiper belt objects - c-p wiki:1 words:0
+Possible dwarf planets - c-p wiki:1 words:0
+WWE Judgment Day - c-p wiki:1 words:1
+Israel - p-c wiki:7 words:0
+Israel - c-p wiki:3 words:1
+Towns in Somerset - c-p wiki:2 words:1
+Explosives - p-c wiki:1 words:0
+Explosives - c-p wiki:1 words:1
+Terrorism - p-c wiki:3 words:0
+Terrorism - c-p wiki:4 words:1
+German conductors - c-p wiki:2 words:0
+Historical movies - c-p wiki:1 words:0
+British culture - p-c wiki:2 words:1
+British culture - c-p wiki:1 words:0
+Crime - p-c wiki:12 words:3
+Crime - c-p wiki:1 words:1
+Relativity - c-p wiki:2 words:0
+English football managers - c-p wiki:1 words:0
+1827 births - c-p wiki:2 words:0
+1898 deaths - c-p wiki:2 words:0
+Japanese people - p-c wiki:5 words:2
+Japanese people - c-p wiki:3 words:1
+Countesses - c-p wiki:1 words:0
+1763 births - c-p wiki:2 words:0
+1796 deaths - c-p wiki:2 words:0
+1744 births - c-p wiki:2 words:0
+1818 deaths - c-p wiki:2 words:0
+Electors and Electresses - c-p wiki:1 words:0
+National football teams - p-c wiki:1 words:0
+National football teams - c-p wiki:1 words:0
+University of the City of Manila - c-p wiki:2 words:0
+Antivirus software - c-p wiki:1 words:1
+Firewall software - c-p wiki:1 words:1
+Tram transport in the United Kingdom - p-c wiki:1 words:0
+Tram transport in the United Kingdom - c-p wiki:2 words:0
+1995 births - c-p wiki:2 words:0
+Human issues - p-c wiki:12 words:3
+Human issues - c-p wiki:1 words:0
+Disney direct-to-video movies - c-p wiki:1 words:0
+Architecture - p-c wiki:8 words:2
+Architecture - c-p wiki:1 words:1
+Buildings and structures in Spain - p-c wiki:2 words:0
+Buildings and structures in Spain - c-p wiki:2 words:0
+Buffalo, New York - c-p wiki:1 words:0
+Grammar - p-c wiki:2 words:0
+Grammar - c-p wiki:1 words:0
+Former countries in Africa - c-p wiki:1 words:1
+1836 births - c-p wiki:2 words:0
+Macropods - c-p wiki:1 words:1
+Ericaceae - p-c wiki:1 words:0
+Ericaceae - c-p wiki:1 words:0
+Ericales - p-c wiki:2 words:0
+Ericales - c-p wiki:1 words:0
+Botany - p-c wiki:7 words:3
+Botany - c-p wiki:1 words:1
+Authentication methods - c-p wiki:1 words:0
+1968 births - c-p wiki:2 words:0
+Canadian military - c-p wiki:2 words:0
+Heraldry - p-c wiki:2 words:0
+Heraldry - c-p wiki:1 words:0
+1830 births - c-p wiki:2 words:0
+1894 deaths - c-p wiki:2 words:0
+German pianists - c-p wiki:2 words:0
+Years in the future - p-c wiki:4 words:2
+Years in the future - c-p wiki:1 words:0
+American orchestras - c-p wiki:2 words:1
+IUCN Category II - c-p wiki:2 words:1
+National parks in Australia - c-p wiki:2 words:1
+New South Wales - p-c wiki:2 words:0
+New South Wales - c-p wiki:1 words:0
+Ramsar sites - c-p wiki:1 words:0
+Los Angeles, California - p-c wiki:4 words:1
+Los Angeles, California - c-p wiki:3 words:1
+Pollution - c-p wiki:2 words:1
+Orchestras - p-c wiki:7 words:1
+Orchestras - c-p wiki:1 words:0
+Vienna - c-p wiki:2 words:1
+Rail infrastructure - c-p wiki:2 words:0
+Rail technologies - p-c wiki:1 words:0
+Rail technologies - c-p wiki:2 words:1
+1897 births - c-p wiki:2 words:0
+American conductors - c-p wiki:2 words:1
+Hungarian conductors - c-p wiki:2 words:0
+Vietnamese History - p-c wiki:1 words:0
+Vietnamese History - c-p wiki:3 words:0
+1982 deaths - c-p wiki:2 words:0
+Chinese scholars - c-p wiki:1 words:1
+Historians - p-c wiki:1 words:0
+Historians - c-p wiki:2 words:2
+Teachers - c-p wiki:1 words:1
+Railway stations in Haringey - c-p wiki:2 words:0
+Railway stations opened in 1840 - c-p wiki:1 words:0
+Railway stations served by National Express East Anglia - p-c wiki:1 words:0
+Railway stations served by National Express East Anglia - c-p wiki:1 words:0
+Tube stations in Haringey - c-p wiki:2 words:0
+Victoria Line stations - c-p wiki:1 words:0
+Circle Line stations - c-p wiki:1 words:0
+Hammersmith & City Line stations - c-p wiki:1 words:0
+Metropolitan Line stations - c-p wiki:1 words:0
+Northern Line stations - c-p wiki:1 words:0
+Piccadilly Line stations - c-p wiki:1 words:0
+Railway stations opened in 1863 - c-p wiki:2 words:0
+Tube stations in Camden - c-p wiki:1 words:0
+London Overground stations - c-p wiki:1 words:0
+London Travelcard zone 2 - c-p wiki:1 words:0
+Railway stations in Islington - c-p wiki:3 words:0
+Railway stations opened in 1872 - c-p wiki:3 words:0
+Railway stations served by First Capital Connect - c-p wiki:1 words:0
+Tube stations in Islington - c-p wiki:1 words:0
+Ethnic groups in Asia - p-c wiki:6 words:0
+Ethnic groups in Asia - c-p wiki:2 words:1
+Palestinian people - p-c wiki:1 words:0
+Palestinian people - c-p wiki:3 words:0
+Fish of Australia - c-p wiki:2 words:1
+Percy Jackson and the Olympians - c-p wiki:2 words:0
+1940 deaths - c-p wiki:2 words:1
+Presidents of the Royal Society - c-p wiki:1 words:0
+German bands - p-c wiki:1 words:0
+German bands - c-p wiki:2 words:0
+Federal subjects of Russia - p-c wiki:1 words:0
+Federal subjects of Russia - c-p wiki:1 words:0
+Russian Orthodox saints - c-p wiki:3 words:0
+Russian nobility - p-c wiki:1 words:0
+Russian nobility - c-p wiki:2 words:0
+1534 births - c-p wiki:2 words:1
+1556 deaths - c-p wiki:2 words:0
+People from Derbyshire - c-p wiki:1 words:0
+Buildings and structures in Brazil - p-c wiki:1 words:0
+Buildings and structures in Brazil - c-p wiki:2 words:0
+Football stadiums - p-c wiki:9 words:0
+Football stadiums - c-p wiki:2 words:0
+Sports in Brazil - p-c wiki:2 words:1
+Sports in Brazil - c-p wiki:2 words:0
+British transportation companies - p-c wiki:1 words:0
+British transportation companies - c-p wiki:3 words:0
+Lists of animated television series episodes - c-p wiki:1 words:0
+Canadian writers - c-p wiki:2 words:0
+Journalists - p-c wiki:2 words:0
+Journalists - c-p wiki:3 words:0
+International environmental organizations - p-c wiki:1 words:0
+International environmental organizations - c-p wiki:2 words:1
+Korea - p-c wiki:12 words:0
+Korea - c-p wiki:1 words:1
+Japanese food - c-p wiki:2 words:0
+Furniture - p-c wiki:1 words:0
+Furniture - c-p wiki:1 words:0
+Japan - p-c wiki:19 words:0
+Japan - c-p wiki:2 words:0
+Science books - c-p wiki:2 words:0
+Guitarists - p-c wiki:3 words:1
+Guitarists - c-p wiki:1 words:0
+Irish singers - c-p wiki:3 words:0
+French fashion designers - c-p wiki:2 words:0
+French fashion houses - c-p wiki:1 words:0
+Plants of Australia - c-p wiki:1 words:1
+Central Line stations - c-p wiki:1 words:0
+District Line stations - c-p wiki:1 words:0
+Docklands Light Railway stations - c-p wiki:1 words:0
+Tube stations in the City of London - c-p wiki:1 words:0
+Waterloo and City Line stations - c-p wiki:1 words:0
+London Travelcard zone 3 - c-p wiki:1 words:0
+2009 albums - c-p wiki:2 words:0
+Reprise Records albums - c-p wiki:1 words:0
+2010s - p-c wiki:13 words:0
+2010s - c-p wiki:2 words:1
+Charity events - c-p wiki:1 words:1
+India - p-c wiki:18 words:3
+India - c-p wiki:2 words:1
+1997 deaths - c-p wiki:2 words:0
+Geography of Austria - p-c wiki:1 words:0
+Geography of Austria - c-p wiki:3 words:0
+New Zealand singers - c-p wiki:2 words:0
+Microsoft websites - c-p wiki:1 words:0
+Geography of Canada - p-c wiki:8 words:1
+Geography of Canada - c-p wiki:3 words:0
+Geography of North America - p-c wiki:7 words:1
+Geography of North America - c-p wiki:2 words:0
+1903 establishments - c-p wiki:2 words:0
+National Hockey Association - c-p wiki:1 words:0
+Russian footballers - c-p wiki:2 words:0
+1868 births - c-p wiki:2 words:0
+Biologists - p-c wiki:10 words:0
+Biologists - c-p wiki:2 words:0
+Slovenian people - p-c wiki:1 words:0
+Slovenian people - c-p wiki:2 words:0
+Hesperiidae - c-p wiki:1 words:0
+Kiribati - p-c wiki:1 words:0
+Kiribati - c-p wiki:2 words:1
+Pacific islands - p-c wiki:3 words:2
+Pacific islands - c-p wiki:2 words:1
+Stars - p-c wiki:2 words:0
+Stars - c-p wiki:1 words:0
+Serbian footballers - c-p wiki:2 words:0
+New Zealand footballers - c-p wiki:2 words:0
+Austrian footballers - p-c wiki:1 words:1
+Austrian footballers - c-p wiki:2 words:0
+Players of the Austrian national football team - c-p wiki:1 words:1
+1923 establishments - c-p wiki:2 words:0
+Schools in Canada - p-c wiki:1 words:0
+Schools in Canada - c-p wiki:2 words:0
+Early microcomputers - c-p wiki:1 words:0
+Japanese railways - p-c wiki:1 words:0
+Japanese railways - c-p wiki:2 words:0
+Pussycat Dolls - c-p wiki:2 words:1
+WWE Extreme Rules - c-p wiki:1 words:1
+Rivers of Romania - p-c wiki:1 words:0
+Rivers of Romania - c-p wiki:3 words:0
+Tributaries of the Danube - c-p wiki:1 words:0
+1984 births - c-p wiki:2 words:0
+Carolina Hurricanes players - c-p wiki:2 words:0
+Ice hockey players from Ontario - c-p wiki:2 words:0
+People from Thunder Bay - c-p wiki:1 words:0
+Paintings - c-p wiki:1 words:0
+1991 movies - c-p wiki:2 words:0
+2002 deaths - c-p wiki:2 words:0
+Hungarian footballers - c-p wiki:2 words:0
+Slovak footballers - c-p wiki:2 words:0
+History of Taiwan - c-p wiki:3 words:1
+1903 births - c-p wiki:2 words:0
+Russian musicians - p-c wiki:2 words:2
+Russian musicians - c-p wiki:2 words:0
+Bolivian footballers - c-p wiki:3 words:0
+1811 births - c-p wiki:2 words:0
+1832 deaths - c-p wiki:2 words:0
+Ecuadorian footballers - c-p wiki:2 words:0
+Muslim League - p-c wiki:1 words:0
+Muslim League - c-p wiki:4 words:0
+1959 births - c-p wiki:2 words:0
+Afghanistani people - p-c wiki:2 words:0
+Afghanistani people - c-p wiki:3 words:0
+Compositions by Igor Stravinsky - c-p wiki:1 words:0
+Austrian football managers - p-c wiki:1 words:1
+Austrian football managers - c-p wiki:2 words:0
+Soccer in the United States - p-c wiki:2 words:0
+Soccer in the United States - c-p wiki:2 words:0
+United States Department of Veterans Affairs - c-p wiki:1 words:1
+United States Secretaries of the Army - c-p wiki:1 words:0
+Members of the Cabinet of the United States - p-c wiki:14 words:7
+Members of the Cabinet of the United States - c-p wiki:2 words:1
+People from Iowa - p-c wiki:1 words:0
+People from Iowa - c-p wiki:2 words:0
+American poets - c-p wiki:2 words:1
+United States Secretaries of Energy - c-p wiki:2 words:1
+United States Secretaries of Transportation - c-p wiki:2 words:1
+United States Secretaries of Labor - c-p wiki:2 words:1
+American historians - c-p wiki:2 words:0
+Biographers - p-c wiki:1 words:0
+Biographers - c-p wiki:1 words:0
+Conn Smythe Trophy winners - c-p wiki:1 words:0
+Ice hockey players from Manitoba - c-p wiki:2 words:0
+People from Manitoba - p-c wiki:1 words:0
+People from Manitoba - c-p wiki:2 words:0
+1876 births - c-p wiki:2 words:0
+Israeli football clubs - p-c wiki:1 words:0
+Israeli football clubs - c-p wiki:2 words:0
+Slovenian footballers - c-p wiki:2 words:0
+Vancouver Canucks players - c-p wiki:3 words:1
+1960 in ice hockey - c-p wiki:2 words:0
+1961 in ice hockey - c-p wiki:2 words:0
+Pieridae - c-p wiki:1 words:0
+1825 births - c-p wiki:2 words:0
+1891 deaths - c-p wiki:2 words:0
+Brazilian people - p-c wiki:2 words:0
+Brazilian people - c-p wiki:3 words:0
+1987 establishments - c-p wiki:2 words:0
+Buildings and structures in the United States - p-c wiki:11 words:2
+Buildings and structures in the United States - c-p wiki:2 words:1
+National Football League venues - p-c wiki:1 words:0
+National Football League venues - c-p wiki:1 words:0
+Croatian footballers - c-p wiki:2 words:0
+Eurytides - c-p wiki:1 words:0
+Geography of the Dominican Republic - p-c wiki:1 words:1
+Geography of the Dominican Republic - c-p wiki:3 words:2
+Costa Rican footballers - c-p wiki:3 words:0
+Schools in England - c-p wiki:3 words:0
+Colorado Avalanche players - c-p wiki:2 words:0
+Florida Panthers players - c-p wiki:1 words:0
+1883 deaths - c-p wiki:2 words:0
+German biologists - c-p wiki:1 words:1
+1862 births - c-p wiki:2 words:0
+Austrian football clubs - p-c wiki:7 words:3
+Austrian football clubs - c-p wiki:2 words:1
+Football clubs of Upper Austria - c-p wiki:1 words:1
+1940 - p-c wiki:4 words:2
+1940 - c-p wiki:1 words:0
+German Jews - c-p wiki:2 words:2
+German doctors - c-p wiki:2 words:2
+1901 births - c-p wiki:2 words:0
+Asteraceae - c-p wiki:1 words:0
+Ethnic groups in Africa - p-c wiki:1 words:0
+Ethnic groups in Africa - c-p wiki:2 words:0
+Kenyan people - c-p wiki:3 words:0
+Mozambique - c-p wiki:1 words:0
+Tanzania - c-p wiki:1 words:0
+Turkish singers - c-p wiki:2 words:0
+1565 deaths - c-p wiki:2 words:0
+Naturalists - c-p wiki:1 words:0
+English novels - c-p wiki:1 words:0
+Georgia (U.S. state) counties - c-p wiki:2 words:2
+Middle East - p-c wiki:7 words:0
+Middle East - c-p wiki:1 words:0
+Designers - p-c wiki:1 words:0
+Designers - c-p wiki:1 words:1
+Cities in India - p-c wiki:4 words:2
+Cities in India - c-p wiki:3 words:0
+Baseball players - p-c wiki:4 words:0
+Baseball players - c-p wiki:2 words:0
+Korean athletes - c-p wiki:2 words:0
+Cities in Massachusetts - p-c wiki:3 words:0
+Cities in Massachusetts - c-p wiki:2 words:0
+1585 deaths - c-p wiki:2 words:0
+People from Missouri - c-p wiki:2 words:0
+Rhythm and Blues musicians - c-p wiki:1 words:1
+1810s books - p-c wiki:1 words:0
+1810s books - c-p wiki:2 words:0
+20th century songs - p-c wiki:5 words:0
+20th century songs - c-p wiki:2 words:0
+Poetry - p-c wiki:3 words:0
+Poetry - c-p wiki:1 words:0
+1844 births - c-p wiki:2 words:0
+Card games - p-c wiki:3 words:0
+Card games - c-p wiki:1 words:0
+Circuses - c-p wiki:1 words:1
+Performing arts - p-c wiki:4 words:1
+Performing arts - c-p wiki:3 words:2
+Towns in Ontario - c-p wiki:2 words:0
+1839 births - c-p wiki:2 words:0
+1906 deaths - c-p wiki:2 words:0
+Dinosaurs - p-c wiki:8 words:0
+Dinosaurs - c-p wiki:3 words:1
+Mesozoic - p-c wiki:3 words:0
+Mesozoic - c-p wiki:1 words:0
+Meteorites - c-p wiki:3 words:2
+Proterozoic - c-p wiki:1 words:0
+1935 deaths - c-p wiki:2 words:0
+Nobel Prize - p-c wiki:2 words:0
+Nobel Prize - c-p wiki:1 words:0
+Sweden - p-c wiki:9 words:0
+Sweden - c-p wiki:1 words:0
+Football stadiums in Scotland - c-p wiki:2 words:0
+1992 births - c-p wiki:2 words:0
+Disney singers - p-c wiki:1 words:0
+Disney singers - c-p wiki:2 words:0
+People from Tennessee - p-c wiki:1 words:0
+People from Tennessee - c-p wiki:2 words:0
+1632 births - c-p wiki:2 words:0
+1687 deaths - c-p wiki:2 words:0
+Dancers - p-c wiki:4 words:0
+Dancers - c-p wiki:2 words:1
+Egyptian footballers - c-p wiki:3 words:0
+Interstate Highways - c-p wiki:1 words:0
+Nymphalidae - p-c wiki:1 words:0
+Nymphalidae - c-p wiki:1 words:0
+Danainae - p-c wiki:1 words:0
+Danainae - c-p wiki:1 words:0
+TV movies - p-c wiki:1 words:0
+TV movies - c-p wiki:2 words:2
+Kiss - p-c wiki:1 words:0
+Kiss - c-p wiki:3 words:0
+Municipalities of Mexico - p-c wiki:1 words:0
+Municipalities of Mexico - c-p wiki:1 words:0
+Dormice - p-c wiki:1 words:0
+Dormice - c-p wiki:1 words:0
+British Empire - p-c wiki:2 words:0
+British Empire - c-p wiki:5 words:2
+English organists - c-p wiki:2 words:0
+Molecular biology - c-p wiki:1 words:1
+280s births - p-c wiki:1 words:0
+280s births - c-p wiki:2 words:0
+1977 establishments - c-p wiki:1 words:0
+Cities in Hesse - p-c wiki:1 words:0
+Cities in Hesse - c-p wiki:2 words:0
+Towns in Hesse - c-p wiki:2 words:0
+1295 establishments - c-p wiki:2 words:0
+1674 births - c-p wiki:2 words:1
+1748 deaths - c-p wiki:1 words:0
+Christian hymns - c-p wiki:1 words:0
+Offenbach Rural District - c-p wiki:1 words:0
+American technology companies - p-c wiki:4 words:1
+American technology companies - c-p wiki:2 words:0
+Companies based in California - c-p wiki:1 words:0
+Northern Hemisphere tropical cyclone seasons - c-p wiki:1 words:0
+Big East Conference - c-p wiki:1 words:0
+Colleges and universities in Indiana - c-p wiki:2 words:1
+2002 albums - c-p wiki:2 words:0
+Weather - p-c wiki:10 words:1
+Weather - c-p wiki:2 words:1
+Rivers of Hungary - c-p wiki:2 words:0
+Rivers of Serbia - c-p wiki:2 words:0
+Rivers of Slovakia - c-p wiki:2 words:0
+Rivers of Ukraine - c-p wiki:2 words:0
+2003 albums - c-p wiki:2 words:0
+Kelly Clarkson albums - c-p wiki:2 words:0
+South Australia - p-c wiki:1 words:0
+South Australia - c-p wiki:1 words:0
+Libraries - c-p wiki:3 words:2
+Clarinetists - p-c wiki:1 words:0
+Clarinetists - c-p wiki:1 words:0
+Jazz composers - c-p wiki:1 words:0
+Saxophonists - c-p wiki:1 words:0
+Chess players - p-c wiki:6 words:1
+Chess players - c-p wiki:2 words:2
+Russian chess players - c-p wiki:2 words:1
+Ants - c-p wiki:1 words:1
+American abolitionists - c-p wiki:1 words:0
+Rise Against - c-p wiki:1 words:0
+Forests - c-p wiki:3 words:1
+2010 - p-c wiki:5 words:1
+2010 - c-p wiki:1 words:0
+Earthquakes in Chile - c-p wiki:2 words:1
+Dallas Stars players - c-p wiki:2 words:0
+Hartford Whalers players - c-p wiki:1 words:0
+New Jersey Devils players - c-p wiki:1 words:0
+Cities in Tennessee - p-c wiki:1 words:0
+Cities in Tennessee - c-p wiki:2 words:0
+Governors of Louisiana - c-p wiki:2 words:0
+State governors of the United States - p-c wiki:25 words:3
+State governors of the United States - c-p wiki:2 words:1
+Trumpeters - c-p wiki:1 words:0
+Norwegian people - p-c wiki:4 words:0
+Norwegian people - c-p wiki:4 words:1
+Baking - c-p wiki:1 words:0
+Food stubs - c-p wiki:3 words:1
+Books - p-c wiki:8 words:1
+Books - c-p wiki:3 words:0
+1990 albums - c-p wiki:2 words:0
+Selena albums - c-p wiki:2 words:1
+Cities in Uzbekistan - c-p wiki:3 words:0
+Armenian people - p-c wiki:7 words:0
+Armenian people - c-p wiki:3 words:0
+Antarctica - p-c wiki:2 words:0
+Antarctica - c-p wiki:2 words:2
+Sopranos - c-p wiki:1 words:0
+1650 births - c-p wiki:2 words:0
+1722 deaths - c-p wiki:2 words:0
+British Army generals - c-p wiki:2 words:0
+English Barons - c-p wiki:1 words:0
+English Dukes - c-p wiki:1 words:0
+English Earls - c-p wiki:2 words:0
+Scottish Lords - c-p wiki:1 words:0
+Austria national football team managers - c-p wiki:1 words:1
+Paraguayan footballers - c-p wiki:2 words:0
+Alumni of Yale University - c-p wiki:1 words:0
+Chess lists - c-p wiki:2 words:0
+Chess openings - c-p wiki:1 words:0
+Africa - p-c wiki:9 words:0
+Africa - c-p wiki:1 words:1
+Ice hockey teams - p-c wiki:3 words:0
+Ice hockey teams - c-p wiki:2 words:0
+6th century births - p-c wiki:5 words:0
+6th century births - c-p wiki:2 words:0
+6th century deaths - p-c wiki:6 words:0
+6th century deaths - c-p wiki:2 words:0
+Hungarian Jews - c-p wiki:2 words:1
+Buildings and structures in Russia - c-p wiki:3 words:0
+Estonian people - p-c wiki:1 words:0
+Estonian people - c-p wiki:3 words:0
+American music history - c-p wiki:1 words:0
+Documentaries - p-c wiki:2 words:0
+Documentaries - c-p wiki:2 words:0
+Hockey Hall of Fame inductees - c-p wiki:1 words:0
+Montreal Wanderers players - c-p wiki:1 words:0
+People from Ottawa - c-p wiki:1 words:0
+Wars involving China - c-p wiki:1 words:1
+French ice hockey players - c-p wiki:2 words:0
+Plate tectonics - c-p wiki:1 words:1
+Georgian people - p-c wiki:1 words:0
+Georgian people - c-p wiki:4 words:1
+Cities in Texas - p-c wiki:2 words:0
+Cities in Texas - c-p wiki:2 words:0
+Military ranks - c-p wiki:1 words:0
+Peruvian footballers - c-p wiki:3 words:0
+Violence - c-p wiki:1 words:0
+National Hockey League divisions - c-p wiki:1 words:1
+2007 albums - c-p wiki:2 words:0
+Led Zeppelin albums - c-p wiki:2 words:1
+Anthropology - p-c wiki:4 words:0
+Anthropology - c-p wiki:3 words:2
+Cutting tools - c-p wiki:1 words:1
+Conflicts - p-c wiki:3 words:0
+Conflicts - c-p wiki:2 words:1
+War - p-c wiki:5 words:2
+War - c-p wiki:4 words:1
+Istanbul - p-c wiki:1 words:0
+Istanbul - c-p wiki:1 words:0
+American criminals - p-c wiki:2 words:1
+American criminals - c-p wiki:2 words:0
+Finnish footballers - c-p wiki:2 words:0
+Oxfordshire - p-c wiki:2 words:0
+Oxfordshire - c-p wiki:2 words:0
+Rail transport - p-c wiki:23 words:0
+Rail transport - c-p wiki:1 words:1
+Christian denominations - p-c wiki:7 words:1
+Christian denominations - c-p wiki:1 words:1
+2010 movies - c-p wiki:2 words:0
+1610s births - p-c wiki:3 words:0
+1610s births - c-p wiki:2 words:0
+1694 deaths - c-p wiki:2 words:0
+Scottish painters - c-p wiki:2 words:0
+Media - p-c wiki:4 words:0
+Media - c-p wiki:2 words:0
+Singaporean companies - c-p wiki:1 words:0
+Medical tests - p-c wiki:1 words:0
+Medical tests - c-p wiki:2 words:0
+Museums in New York - c-p wiki:2 words:1
+1991 births - c-p wiki:2 words:0
+South Korean singers - c-p wiki:4 words:0
+Colleges and universities in Australia - c-p wiki:2 words:0
+Geography of California - p-c wiki:5 words:0
+Geography of California - c-p wiki:2 words:0
+1888 births - c-p wiki:2 words:0
+1946 deaths - c-p wiki:2 words:0
+2009 movies - c-p wiki:2 words:0
+1940s movies - p-c wiki:8 words:2
+1940s movies - c-p wiki:2 words:0
+2010 in professional wrestling - c-p wiki:2 words:0
+History of Iran - p-c wiki:1 words:0
+History of Iran - c-p wiki:3 words:1
+Dance music - p-c wiki:2 words:0
+Dance music - c-p wiki:2 words:1
+MRT Singapore - p-c wiki:1 words:0
+MRT Singapore - c-p wiki:2 words:0
+1969 songs - c-p wiki:1 words:0
+Pittsburgh Penguins players - c-p wiki:1 words:0
+1967 songs - c-p wiki:1 words:0
+Formula One - p-c wiki:9 words:0
+Formula One - c-p wiki:1 words:0
+1990s songs - p-c wiki:8 words:0
+1990s songs - c-p wiki:2 words:0
+Oasis (band) songs - c-p wiki:2 words:0
+Avatar: The Last Airbender games - c-p wiki:2 words:1
+Earth - p-c wiki:6 words:5
+Earth - c-p wiki:3 words:2
+1996 births - c-p wiki:2 words:0
+Impact craters - c-p wiki:2 words:2
+Formula One Grands Prix - c-p wiki:1 words:0
+Japanese professional wrestlers - c-p wiki:2 words:0
+Motors - c-p wiki:4 words:3
+1820s establishments - p-c wiki:3 words:0
+1820s establishments - c-p wiki:2 words:0
+Newspapers in the United States - c-p wiki:2 words:0
+Meditation - c-p wiki:1 words:0
+1885 births - c-p wiki:2 words:0
+Ottawa Senators (original) players - c-p wiki:1 words:0
+Quebec Bulldogs players - c-p wiki:1 words:0
+Toronto Arenas players - c-p wiki:2 words:0
+Mighty Ducks of Anaheim players - c-p wiki:1 words:0
+Nashville Predators players - c-p wiki:1 words:0
+San Jose Sharks players - c-p wiki:1 words:0
+Tampa Bay Lightning players - c-p wiki:1 words:0
+American wrestlers - p-c wiki:1 words:1
+American wrestlers - c-p wiki:1 words:0
+Columbus Blue Jackets players - c-p wiki:2 words:0
+Phoenix Coyotes players - c-p wiki:1 words:0
+People from Kansas - c-p wiki:2 words:0
+Elasticity (physics) - c-p wiki:1 words:0
+1751 - p-c wiki:2 words:0
+1751 - c-p wiki:1 words:0
+Animal rights - p-c wiki:1 words:0
+Animal rights - c-p wiki:2 words:1
+Bridges and tunnels in London - p-c wiki:1 words:0
+Bridges and tunnels in London - c-p wiki:1 words:1
+Bridges in the United Kingdom - c-p wiki:3 words:0
+Advertising - c-p wiki:1 words:0
+Passeri - p-c wiki:2 words:0
+Passeri - c-p wiki:1 words:0
+Great Britain - p-c wiki:1 words:0
+Great Britain - c-p wiki:1 words:0
+Major League Baseball teams - p-c wiki:3 words:0
+Major League Baseball teams - c-p wiki:2 words:0
+1957 deaths - c-p wiki:2 words:0
+Indigenous peoples of Australia - c-p wiki:2 words:0
+Northern Territory - p-c wiki:2 words:0
+Northern Territory - c-p wiki:1 words:1
+1743 births - c-p wiki:2 words:0
+1820 deaths - c-p wiki:2 words:0
+Baronets - c-p wiki:1 words:0
+English botanists - c-p wiki:2 words:2
+Football (soccer) - p-c wiki:12 words:0
+Football (soccer) - c-p wiki:1 words:0
+Cello concertos - c-p wiki:1 words:0
+Fluorine compounds - c-p wiki:1 words:1
+Sulfur compounds - c-p wiki:1 words:1
+Automobiles - p-c wiki:11 words:0
+Automobiles - c-p wiki:2 words:0
+Body art - c-p wiki:2 words:0
+Cosmetics - c-p wiki:1 words:0
+Indy Racing League - p-c wiki:2 words:0
+Indy Racing League - c-p wiki:1 words:0
+Towns in Western Australia - c-p wiki:2 words:1
+Chamber music compositions - c-p wiki:1 words:0
+Compositions by Olivier Messiaen - c-p wiki:1 words:0
+Latin words and phrases - c-p wiki:1 words:0
+Buildings and structures in London - p-c wiki:9 words:0
+Buildings and structures in London - c-p wiki:2 words:0
+Mosques - c-p wiki:2 words:1
+Wars and battles of Ancient Rome - c-p wiki:2 words:0
+Beatified people - c-p wiki:1 words:1
+Catholicism - p-c wiki:2 words:1
+Catholicism - c-p wiki:1 words:1
+Polish Roman Catholics - c-p wiki:2 words:0
+Roman Catholic martyrs - c-p wiki:1 words:1
+1475 births - c-p wiki:2 words:1
+House of Medici - p-c wiki:4 words:0
+House of Medici - c-p wiki:1 words:0
+Zoologists - c-p wiki:2 words:0
+Dromaeosauridae - c-p wiki:1 words:0
+Brass instruments - c-p wiki:1 words:1
+Zoos - p-c wiki:1 words:0
+Zoos - c-p wiki:1 words:0
+1940s books - p-c wiki:4 words:0
+1940s books - c-p wiki:2 words:0
+Anne Frank - c-p wiki:1 words:0
+2010 albums - c-p wiki:2 words:0
+1160s births - p-c wiki:2 words:0
+1160s births - c-p wiki:2 words:1
+1216 deaths - c-p wiki:2 words:0
+Human rights abuses - p-c wiki:1 words:0
+Human rights abuses - c-p wiki:1 words:0
+Slavery - p-c wiki:1 words:0
+Slavery - c-p wiki:2 words:0
+Quantum mechanics - p-c wiki:1 words:0
+Quantum mechanics - c-p wiki:2 words:2
+Safety - p-c wiki:1 words:0
+Safety - c-p wiki:1 words:0
+Video game companies - p-c wiki:9 words:1
+Video game companies - c-p wiki:3 words:1
+138 deaths - c-p wiki:1 words:0
+76 births - c-p wiki:1 words:0
+Roman Emperors - p-c wiki:1 words:0
+Roman Emperors - c-p wiki:2 words:2
+Dinosaurs of South America - c-p wiki:1 words:0
+Cosmology - c-p wiki:3 words:1
+American racecar drivers - c-p wiki:2 words:0
+NASCAR drivers - p-c wiki:1 words:0
+NASCAR drivers - c-p wiki:2 words:0
+People from Michigan - p-c wiki:1 words:0
+People from Michigan - c-p wiki:2 words:0
+Sculptors - p-c wiki:2 words:0
+Sculptors - c-p wiki:2 words:0
+Ukrainian people - p-c wiki:2 words:0
+Ukrainian people - c-p wiki:3 words:1
+Japanese architects - c-p wiki:2 words:0
+1729 births - c-p wiki:2 words:0
+1785 deaths - c-p wiki:2 words:0
+Dukes and Duchesses of Savoy - c-p wiki:2 words:1
+Kings and Queens of Sardinia - c-p wiki:2 words:0
+People from Seville - c-p wiki:1 words:0
+Princes and Princesses of Savoy - p-c wiki:1 words:0
+Princes and Princesses of Savoy - c-p wiki:2 words:1
+Spanish House of Bourbon - c-p wiki:2 words:1
+Spanish infantes and infantas - c-p wiki:1 words:0
+Buildings and structures in Japan - p-c wiki:2 words:0
+Buildings and structures in Japan - c-p wiki:2 words:0
+1955 deaths - c-p wiki:2 words:0
+Classical horn players - c-p wiki:1 words:0
+Government - p-c wiki:13 words:0
+Government - c-p wiki:1 words:0
+Anglicans - c-p wiki:2 words:0
+House of Windsor - c-p wiki:2 words:0
+People from Berkshire - c-p wiki:3 words:0
+1140s births - p-c wiki:1 words:0
+1140s births - c-p wiki:2 words:1
+1218 deaths - c-p wiki:2 words:0
+Christian religious leaders - p-c wiki:1 words:0
+Christian religious leaders - c-p wiki:1 words:0
+Mac OS X - c-p wiki:2 words:1
+Time - p-c wiki:9 words:0
+Time - c-p wiki:2 words:0
+Demography - p-c wiki:2 words:0
+Demography - c-p wiki:2 words:0
+Population - p-c wiki:1 words:0
+Population - c-p wiki:2 words:0
+Cooking - p-c wiki:6 words:1
+Cooking - c-p wiki:2 words:1
+California Golden Seals players - c-p wiki:1 words:0
+Colleges and universities in the People\'s Republic of China - c-p wiki:3 words:0
+Chinese language - c-p wiki:2 words:0
+1723 deaths - c-p wiki:2 words:0
+Burials at the Basilica of St Denis - c-p wiki:1 words:0
+Dukes and Duchesses of Chartres - c-p wiki:1 words:0
+Dukes and Duchesses of Montpensier - c-p wiki:1 words:0
+Dukes and Duchesses of Nemours - c-p wiki:1 words:0
+Dukes and Duchesses of OrlÇans - c-p wiki:1 words:0
+House of OrlÇans - c-p wiki:2 words:1
+Knights of the Golden Fleece - c-p wiki:1 words:0
+People from Saint-Cloud - c-p wiki:1 words:0
+Regents - c-p wiki:1 words:0
+1640 births - c-p wiki:2 words:0
+Deaths from stroke - c-p wiki:2 words:0
+Dukes and Duchesses of Anjou - c-p wiki:1 words:0
+French generals - p-c wiki:1 words:0
+French generals - c-p wiki:2 words:0
+House of Bourbon - p-c wiki:3 words:2
+House of Bourbon - c-p wiki:3 words:0
+1670s births - p-c wiki:6 words:1
+1670s births - c-p wiki:2 words:0
+1749 deaths - c-p wiki:2 words:0
+1725 births - c-p wiki:2 words:1
+Dukes and Duchesses of Valois - c-p wiki:1 words:0
+People from Versailles - c-p wiki:1 words:0
+Edmonton Oilers players - c-p wiki:1 words:0
+1701 births - c-p wiki:2 words:0
+1773 deaths - c-p wiki:2 words:0
+Burials at the Basilica of Superga - c-p wiki:2 words:0
+People from Turin - c-p wiki:1 words:0
+Princes and Princesses of Piedmont - c-p wiki:3 words:2
+1638 births - c-p wiki:2 words:0
+1683 deaths - c-p wiki:1 words:0
+Archdukes and Archduchesses of Austria - c-p wiki:1 words:1
+Portuguese royalty - p-c wiki:1 words:0
+Portuguese royalty - c-p wiki:2 words:0
+Events - p-c wiki:4 words:0
+Events - c-p wiki:1 words:0
+Trip hop - p-c wiki:1 words:0
+Trip hop - c-p wiki:2 words:1
+Acronyms - c-p wiki:1 words:0
+Order of Australia - c-p wiki:2 words:0
+1727 births - c-p wiki:2 words:0
+1759 deaths - c-p wiki:2 words:1
+Bourbons of Parma - c-p wiki:1 words:0
+Deaths from smallpox - c-p wiki:2 words:1
+Dukes and Duchesses of Parma - c-p wiki:1 words:0
+1731 births - c-p wiki:2 words:0
+1767 deaths - c-p wiki:2 words:0
+Dauphins and Dauphines of France - c-p wiki:1 words:0
+Baritones - c-p wiki:1 words:0
+Flowering plants - p-c wiki:2 words:0
+Flowering plants - c-p wiki:3 words:0
+1889 births - c-p wiki:2 words:0
+Hamilton Tigers players - c-p wiki:1 words:0
+Non-verbal communication - c-p wiki:1 words:1
+LGBT - p-c wiki:2 words:1
+LGBT - c-p wiki:3 words:3
+1860s establishments - p-c wiki:4 words:0
+1860s establishments - c-p wiki:2 words:0
+Berlin - p-c wiki:7 words:4
+Berlin - c-p wiki:4 words:2
+Television game shows - p-c wiki:2 words:0
+Television game shows - c-p wiki:1 words:0
+Geography of Taiwan - p-c wiki:2 words:0
+Geography of Taiwan - c-p wiki:2 words:0
+Islands of the Philippines - c-p wiki:3 words:0
+Salamanders - p-c wiki:2 words:0
+Salamanders - c-p wiki:1 words:0
+Ichthyosaurs - c-p wiki:2 words:1
+North America - p-c wiki:11 words:3
+North America - c-p wiki:1 words:1
+British warships - c-p wiki:2 words:1
+Canadian musicians - p-c wiki:1 words:0
+Canadian musicians - c-p wiki:2 words:0
+Northern Ireland politicians - p-c wiki:1 words:0
+Northern Ireland politicians - c-p wiki:2 words:0
+Cities - p-c wiki:16 words:0
+Cities - c-p wiki:1 words:0
+Geography of Scotland - p-c wiki:2 words:0
+Geography of Scotland - c-p wiki:2 words:0
+Mountains in the United Kingdom - c-p wiki:2 words:0
+1627 births - c-p wiki:2 words:0
+1691 deaths - c-p wiki:2 words:0
+English chemists - c-p wiki:2 words:2
+People from County Waterford - c-p wiki:1 words:0
+2011 - p-c wiki:4 words:1
+2011 - c-p wiki:1 words:0
+Black British people - c-p wiki:1 words:1
+City of London - p-c wiki:1 words:0
+City of London - c-p wiki:1 words:0
+Law enforcement agencies of United Kingdom - c-p wiki:1 words:0
+Law enforcement in the United Kingdom - p-c wiki:1 words:0
+Law enforcement in the United Kingdom - c-p wiki:1 words:1
+1849 deaths - c-p wiki:2 words:0
+Dukes and duchesses - p-c wiki:4 words:0
+Dukes and duchesses - c-p wiki:1 words:0
+Princes and princesses - p-c wiki:7 words:2
+Princes and princesses - c-p wiki:1 words:0
+Autobiographies - c-p wiki:1 words:0
+People from Alberta - p-c wiki:1 words:0
+People from Alberta - c-p wiki:2 words:0
+1907 births - c-p wiki:2 words:0
+Dutch scientists - p-c wiki:1 words:0
+Dutch scientists - c-p wiki:2 words:0
+Geography of Victoria, Australia - c-p wiki:2 words:0
+American geneticists - c-p wiki:2 words:1
+Elimination Chamber - c-p wiki:1 words:1
+Experiments - p-c wiki:1 words:1
+Experiments - c-p wiki:2 words:0
+Australian writers - c-p wiki:2 words:0
+People from New South Wales - p-c wiki:1 words:0
+People from New South Wales - c-p wiki:3 words:0
+American politicians - p-c wiki:21 words:15
+American politicians - c-p wiki:4 words:1
+Governors of New York - c-p wiki:2 words:1
+People with foods named after them - c-p wiki:2 words:0
+Constellations listed by Ptolemy - c-p wiki:1 words:0
+Biological reproduction - p-c wiki:2 words:0
+Biological reproduction - c-p wiki:2 words:0
+1855 births - c-p wiki:2 words:0
+1880 deaths - c-p wiki:2 words:0
+Daytona 500 winners - c-p wiki:1 words:0
+2004 deaths - c-p wiki:2 words:1
+People from Pennsylvania - p-c wiki:1 words:1
+People from Pennsylvania - c-p wiki:2 words:0
+Economy of the United States - p-c wiki:1 words:0
+Economy of the United States - c-p wiki:2 words:1
+Colleges and universities in New Jersey - c-p wiki:2 words:0
+Dishes named after people - c-p wiki:1 words:1
+Pears - c-p wiki:2 words:0
+American food - c-p wiki:1 words:0
+Food in Germany - c-p wiki:2 words:0
+1962 establishments - c-p wiki:2 words:0
+Austrian people - p-c wiki:2 words:1
+Austrian people - c-p wiki:3 words:0
+British Jews - c-p wiki:2 words:1
+Psychiatrists - c-p wiki:3 words:3
+American activists - p-c wiki:3 words:0
+American activists - c-p wiki:2 words:0
+Theme parks - p-c wiki:3 words:0
+Theme parks - c-p wiki:1 words:1
+Theriodonts - c-p wiki:1 words:0
+English musicians - p-c wiki:5 words:0
+English musicians - c-p wiki:2 words:0
+People from Minnesota - c-p wiki:2 words:0
+Genres - p-c wiki:9 words:2
+Genres - c-p wiki:1 words:0
+Nazi concentration camps on Alderney - c-p wiki:2 words:1
+Judiciary of the Isle of Man - c-p wiki:2 words:0
+1981 deaths - c-p wiki:2 words:0
+Biochemists - p-c wiki:1 words:0
+Biochemists - c-p wiki:2 words:1
+German scientists - p-c wiki:8 words:4
+German scientists - c-p wiki:2 words:0
+1984 establishments - c-p wiki:2 words:0
+Fossils - p-c wiki:6 words:1
+Fossils - c-p wiki:1 words:1
+Rivers in Australia - p-c wiki:1 words:0
+Rivers in Australia - c-p wiki:3 words:1
+Deaths from prostate cancer - c-p wiki:1 words:1
+People from San Francisco - c-p wiki:2 words:1
+Television producers - c-p wiki:2 words:1
+2011 songs - c-p wiki:2 words:0
+Astronomy - p-c wiki:20 words:3
+Astronomy - c-p wiki:3 words:0
+History of science - p-c wiki:2 words:0
+History of science - c-p wiki:3 words:0
+Philosophy of science - p-c wiki:1 words:0
+Philosophy of science - c-p wiki:4 words:0
+Cornell University alumni - c-p wiki:1 words:0
+Deaths from breast cancer - c-p wiki:2 words:1
+Football clubs of Styria - c-p wiki:1 words:1
+French biologists - c-p wiki:2 words:0
+Birds - p-c wiki:13 words:0
+Birds - c-p wiki:1 words:0
+Astrology - p-c wiki:1 words:0
+Astrology - c-p wiki:2 words:0
+Calendars - p-c wiki:4 words:2
+Calendars - c-p wiki:1 words:0
+Maya civilization - c-p wiki:2 words:1
+People from Arizona - c-p wiki:2 words:0
+South African scientists - c-p wiki:2 words:0
+1994 deaths - c-p wiki:2 words:0
+People from Warwickshire - c-p wiki:2 words:0
+1942 deaths - c-p wiki:2 words:1
+Blues harp players - c-p wiki:1 words:1
+Chicago blues musicians - c-p wiki:2 words:2
+American record labels - p-c wiki:1 words:0
+American record labels - c-p wiki:1 words:1
+Blues labels - c-p wiki:1 words:1
+Music in Chicago - p-c wiki:1 words:1
+Music in Chicago - c-p wiki:2 words:1
+Bible - p-c wiki:5 words:2
+Bible - c-p wiki:4 words:3
+Jesus Christ - p-c wiki:2 words:0
+Jesus Christ - c-p wiki:2 words:1
+Parables of Jesus - c-p wiki:2 words:0
+Colleges and universities in London - c-p wiki:2 words:0
+London Borough of Camden - p-c wiki:2 words:0
+London Borough of Camden - c-p wiki:1 words:0
+Piedmont blues - c-p wiki:1 words:1
+Wards of Tokyo - c-p wiki:1 words:0
+2011 in professional wrestling - c-p wiki:2 words:0
+Progressive rock bands - p-c wiki:2 words:0
+Progressive rock bands - c-p wiki:1 words:0
+Cretaceous - p-c wiki:2 words:0
+Cretaceous - c-p wiki:1 words:1
+Football in Germany - p-c wiki:3 words:0
+Football in Germany - c-p wiki:2 words:0
+American science fiction writers - c-p wiki:2 words:1
+Music awards - p-c wiki:3 words:0
+Music awards - c-p wiki:2 words:0
+Royal residences in the United Kingdom - c-p wiki:2 words:1
+Surrey - p-c wiki:5 words:0
+Surrey - c-p wiki:2 words:1
+Laboratory techniques - c-p wiki:1 words:0
+Croatia - p-c wiki:4 words:0
+Croatia - c-p wiki:1 words:0
+Cities in Japan - p-c wiki:4 words:0
+Cities in Japan - c-p wiki:3 words:0
+Babergh - c-p wiki:1 words:0
+Civil parishes in Suffolk - c-p wiki:2 words:0
+Villages in Suffolk - p-c wiki:1 words:0
+Villages in Suffolk - c-p wiki:1 words:0
+18th century books - p-c wiki:3 words:0
+18th century books - c-p wiki:3 words:0
+Encyclopedias - p-c wiki:1 words:0
+Encyclopedias - c-p wiki:1 words:0
+Fantasy - p-c wiki:3 words:0
+Fantasy - c-p wiki:2 words:0
+Horror - p-c wiki:2 words:0
+Horror - c-p wiki:1 words:0
+Literary awards - p-c wiki:4 words:0
+Literary awards - c-p wiki:2 words:0
+Science fiction - p-c wiki:7 words:0
+Science fiction - c-p wiki:2 words:0
+Alderney - p-c wiki:1 words:0
+Alderney - c-p wiki:1 words:1
+Guernsey - p-c wiki:2 words:2
+Guernsey - c-p wiki:2 words:0
+Uninhabited islands of the Bailiwick of Guernsey - c-p wiki:1 words:1
+Musicians - p-c wiki:7 words:1
+Musicians - c-p wiki:1 words:0
+South African people - p-c wiki:1 words:0
+South African people - c-p wiki:2 words:0
+1801 deaths - c-p wiki:2 words:0
+Tuscan princesses - c-p wiki:1 words:1
+Regions of Quebec - c-p wiki:1 words:0
+Castles in England - c-p wiki:2 words:0
+1961 establishments - c-p wiki:2 words:0
+1980s disestablishments - c-p wiki:1 words:0
+Television talk shows - p-c wiki:1 words:0
+Television talk shows - c-p wiki:1 words:0
+Tamil language - c-p wiki:1 words:0
+Documentary movies - c-p wiki:2 words:0
+Formula One constructors - p-c wiki:2 words:0
+Formula One constructors - c-p wiki:1 words:0
+Communes in Val-de-Marne - c-p wiki:1 words:0
+Nations at the Olympics - c-p wiki:1 words:0
+Roads in New York City - c-p wiki:2 words:0
+Bermuda - p-c wiki:1 words:0
+Bermuda - c-p wiki:2 words:2
+Sports in Canada - p-c wiki:4 words:0
+Sports in Canada - c-p wiki:2 words:0
+1733 births - c-p wiki:2 words:0
+1799 deaths - c-p wiki:2 words:0
+Cities in New Jersey - p-c wiki:1 words:0
+Cities in New Jersey - c-p wiki:2 words:0
+Icelandic politicians - p-c wiki:1 words:0
+Icelandic politicians - c-p wiki:3 words:0
+Lesbians - c-p wiki:1 words:0
+1884 births - c-p wiki:2 words:0
+World War II people - p-c wiki:2 words:1
+World War II people - c-p wiki:2 words:1
+Google - p-c wiki:1 words:0
+Google - c-p wiki:2 words:0
+Social networking - c-p wiki:1 words:0
+Web 2.0 - c-p wiki:2 words:0
+Sports in Cuba - p-c wiki:1 words:0
+Sports in Cuba - c-p wiki:2 words:0
+Selena - p-c wiki:2 words:0
+Selena - c-p wiki:1 words:1
+2001 albums - c-p wiki:2 words:0
+English language - p-c wiki:7 words:0
+English language - c-p wiki:2 words:0
+Vocabulary - p-c wiki:3 words:0
+Vocabulary - c-p wiki:1 words:0
+American television networks - p-c wiki:7 words:1
+American television networks - c-p wiki:2 words:0
+Sports in Mexico - p-c wiki:2 words:0
+Sports in Mexico - c-p wiki:2 words:0
+Neighborhoods in Washington, D.C. - c-p wiki:1 words:0
+Buildings and structures in Los Angeles, California - c-p wiki:2 words:0
+J. Paul Getty Trust - c-p wiki:1 words:0
+Museums in California - p-c wiki:1 words:0
+Museums in California - c-p wiki:2 words:0
+Stereochemistry - c-p wiki:1 words:1
+1914 births - c-p wiki:2 words:0
+Belarus people - p-c wiki:1 words:0
+Belarus people - c-p wiki:3 words:0
+Chemical reactions - p-c wiki:2 words:0
+Chemical reactions - c-p wiki:1 words:1
+Organic reactions - p-c wiki:2 words:0
+Organic reactions - c-p wiki:2 words:0
+Theoretical chemistry - p-c wiki:2 words:0
+Theoretical chemistry - c-p wiki:1 words:1
+Foreign Members of the Royal Society - c-p wiki:1 words:1
+Japanese scientists - c-p wiki:2 words:0
+Blues bands - c-p wiki:1 words:1
+Music in the United States - p-c wiki:4 words:3
+Music in the United States - c-p wiki:1 words:0
+Indonesia - p-c wiki:7 words:0
+Indonesia - c-p wiki:1 words:0
+Rice - c-p wiki:1 words:0
+Australian athletes - p-c wiki:3 words:0
+Australian athletes - c-p wiki:3 words:0
+Basketball players - p-c wiki:4 words:1
+Basketball players - c-p wiki:2 words:0
+19th century baseball players - c-p wiki:1 words:0
+American baseball players - c-p wiki:2 words:0
+Baseball coaches - c-p wiki:1 words:0
+Pittsburgh Pirates players - c-p wiki:1 words:0
+Cities in Colorado - c-p wiki:2 words:0
+United States county seats - p-c wiki:28 words:0
+United States county seats - c-p wiki:2 words:0
+1945 books - c-p wiki:2 words:0
+Ballet dancers - c-p wiki:2 words:1
+Organometallic chemistry - c-p wiki:1 words:0
+Christina Aguilera albums - c-p wiki:1 words:0
+Health problems - p-c wiki:7 words:2
+Health problems - c-p wiki:2 words:1
+Football clubs of Lower Austria - c-p wiki:1 words:1
+Chemical synthesis - c-p wiki:2 words:1
+Spacecraft - p-c wiki:3 words:2
+Spacecraft - c-p wiki:1 words:0
+1999 albums - c-p wiki:2 words:0
+Mexican singers - c-p wiki:2 words:0
+Illnesses - p-c wiki:1 words:1
+Illnesses - c-p wiki:1 words:1
+Firearms - p-c wiki:1 words:0
+Firearms - c-p wiki:1 words:1
+Historiography - p-c wiki:1 words:0
+Historiography - c-p wiki:2 words:1
+1960s songs - p-c wiki:3 words:0
+1960s songs - c-p wiki:1 words:0
+1980s songs - p-c wiki:7 words:0
+1980s songs - c-p wiki:2 words:0
+Selena songs - c-p wiki:2 words:1
+Pronunciation - c-p wiki:2 words:1
+Genetic disorders - p-c wiki:2 words:0
+Genetic disorders - c-p wiki:2 words:1
+Feathered dinosaurs - c-p wiki:1 words:0
+LagerstÑtten - c-p wiki:2 words:1
+Nova Scotia - p-c wiki:2 words:0
+Nova Scotia - c-p wiki:1 words:0
+1942 in ice hockey - c-p wiki:2 words:0
+1943 in ice hockey - c-p wiki:2 words:0
+Bad Girls Club - c-p wiki:1 words:0
+Ice hockey players from Alberta - c-p wiki:2 words:0
+Western Hockey League players - c-p wiki:2 words:0
+Ice hockey players from British Columbia - c-p wiki:2 words:0
+1962 in ice hockey - c-p wiki:2 words:0
+American Hockey League - p-c wiki:1 words:0
+American Hockey League - c-p wiki:5 words:0
+Elissa - c-p wiki:1 words:0
+Canadian scientists - c-p wiki:2 words:0
+Jewish people - p-c wiki:8 words:3
+Jewish people - c-p wiki:3 words:0
+Polish ice hockey players - c-p wiki:2 words:0
+Atlanta Thrashers players - c-p wiki:1 words:0
+Kazakhstani ice hockey players - c-p wiki:2 words:1
+Winnipeg Jets players - c-p wiki:1 words:0
+Massari - p-c wiki:1 words:0
+Massari - c-p wiki:1 words:0
+Australian Capital Territory - c-p wiki:1 words:1
+Mountains in Australia - c-p wiki:2 words:1
+Dutch Wheelchair tennis players - c-p wiki:2 words:0
+1951 - p-c wiki:7 words:0
+1951 - c-p wiki:1 words:0
+Korean War - c-p wiki:2 words:0
+1861 births - c-p wiki:2 words:0
+Bulgarian people - p-c wiki:2 words:0
+Bulgarian people - c-p wiki:2 words:0
+Kings and queens - p-c wiki:19 words:0
+Kings and queens - c-p wiki:2 words:0
+7th century deaths - p-c wiki:3 words:0
+7th century deaths - c-p wiki:2 words:0
+1841 deaths - c-p wiki:2 words:0
+Painters - p-c wiki:3 words:0
+Painters - c-p wiki:2 words:0
+Prussia - p-c wiki:4 words:0
+Prussia - c-p wiki:1 words:0
+1713 births - c-p wiki:2 words:0
+Kings and Queens of Spain - p-c wiki:1 words:0
+Kings and Queens of Spain - c-p wiki:2 words:0
+People from Madrid - c-p wiki:2 words:0
+Princes and Princesses of Asturias - c-p wiki:1 words:0
+Audio technology - p-c wiki:2 words:1
+Audio technology - c-p wiki:2 words:1
+Scotland - p-c wiki:14 words:3
+Scotland - c-p wiki:1 words:0
+Argentine scientists - c-p wiki:1 words:0
+Writers - p-c wiki:13 words:0
+Writers - c-p wiki:2 words:0
+British rock musicians - p-c wiki:1 words:0
+British rock musicians - c-p wiki:3 words:1
+American painters - c-p wiki:2 words:0
+Models - p-c wiki:5 words:0
+Models - c-p wiki:2 words:1
+Reality television participants - p-c wiki:1 words:0
+Reality television participants - c-p wiki:2 words:0
+Russian actors - c-p wiki:2 words:0
+Russian artists - p-c wiki:1 words:0
+Russian artists - c-p wiki:2 words:0
+Spiders - p-c wiki:2 words:0
+Spiders - c-p wiki:1 words:0
+Japanologists - c-p wiki:2 words:2
+Children - p-c wiki:10 words:0
+Children - c-p wiki:2 words:0
+Pornography - p-c wiki:1 words:0
+Pornography - c-p wiki:1 words:0
+786 births - c-p wiki:2 words:1
+840s deaths - c-p wiki:2 words:1
+1954 books - c-p wiki:2 words:0
+9th century births - p-c wiki:7 words:0
+9th century births - c-p wiki:2 words:0
+9th century deaths - p-c wiki:6 words:1
+9th century deaths - c-p wiki:2 words:0
+Viking program - c-p wiki:1 words:0
+8th century births - p-c wiki:6 words:3
+8th century births - c-p wiki:2 words:0
+8th century deaths - p-c wiki:2 words:0
+8th century deaths - c-p wiki:2 words:0
+1410s births - p-c wiki:4 words:0
+1410s births - c-p wiki:2 words:0
+1471 deaths - c-p wiki:2 words:0
+1559 deaths - c-p wiki:2 words:0
+1430s births - p-c wiki:4 words:0
+1430s births - c-p wiki:2 words:0
+1503 deaths - c-p wiki:2 words:0
+1499 births - c-p wiki:2 words:0
+1742 births - c-p wiki:2 words:0
+1823 deaths - c-p wiki:2 words:0
+Disney companies - c-p wiki:1 words:0
+1835 births - c-p wiki:2 words:1
+1914 deaths - c-p wiki:2 words:0
+Human sexuality - p-c wiki:10 words:0
+Human sexuality - c-p wiki:1 words:1
+1240 births - c-p wiki:2 words:0
+1300s deaths - p-c wiki:4 words:1
+1300s deaths - c-p wiki:2 words:1
+People from Alabama - c-p wiki:2 words:0
+Train operating companies - c-p wiki:2 words:0
+Transportation in Azerbaijan - p-c wiki:1 words:0
+Transportation in Azerbaijan - c-p wiki:2 words:0
+Locks - c-p wiki:2 words:0
+Security - p-c wiki:3 words:0
+Security - c-p wiki:1 words:0
+10th century births - p-c wiki:10 words:1
+10th century births - c-p wiki:2 words:0
+10th century deaths - p-c wiki:9 words:0
+10th century deaths - c-p wiki:2 words:0
+1535 births - c-p wiki:2 words:1
+1605 deaths - c-p wiki:2 words:0
+German Bundesliga - c-p wiki:1 words:0
+1760 births - c-p wiki:2 words:0
+1829 deaths - c-p wiki:2 words:0
+2011 albums - c-p wiki:2 words:0
+1758 deaths - c-p wiki:1 words:0
+Development regions of Romania - c-p wiki:1 words:0
+1590 deaths - c-p wiki:2 words:0
+People from Rome (city) - c-p wiki:1 words:0
+Towns in Dorset - c-p wiki:2 words:0
+Armour - c-p wiki:2 words:0
+1180s deaths - p-c wiki:2 words:0
+1180s deaths - c-p wiki:2 words:0
+Pakistani singers - c-p wiki:2 words:0
+1250s deaths - p-c wiki:2 words:0
+1250s deaths - c-p wiki:2 words:1
+12th century births - p-c wiki:9 words:2
+12th century births - c-p wiki:2 words:0
+1896 births - c-p wiki:2 words:0
+American physicians - c-p wiki:2 words:1
+People from Pittsburgh - c-p wiki:2 words:1
+Blues pianists - c-p wiki:1 words:1
+Boogie Woogie pianists - c-p wiki:1 words:1
+Roads in London - c-p wiki:2 words:0
+Alexis Jordan - p-c wiki:1 words:0
+Alexis Jordan - c-p wiki:1 words:0
+British pop music groups - p-c wiki:3 words:0
+British pop music groups - c-p wiki:4 words:0
+1356 births - c-p wiki:2 words:0
+1400s deaths - p-c wiki:2 words:1
+1400s deaths - c-p wiki:2 words:0
+Actors - p-c wiki:10 words:1
+Actors - c-p wiki:2 words:0
+Argentine people - p-c wiki:4 words:0
+Argentine people - c-p wiki:2 words:0
+Iceland - p-c wiki:2 words:0
+Iceland - c-p wiki:1 words:0
+1689 deaths - c-p wiki:2 words:0
+Cities in China - p-c wiki:2 words:1
+Cities in China - c-p wiki:3 words:0
+1700s deaths - p-c wiki:8 words:1
+1700s deaths - c-p wiki:2 words:0
+Japanese eras - c-p wiki:1 words:0
+Politics of Azerbaijan - p-c wiki:2 words:0
+Politics of Azerbaijan - c-p wiki:2 words:0
+Populated places in the Czech Republic - p-c wiki:2 words:0
+Populated places in the Czech Republic - c-p wiki:3 words:0
+Alphabetic diacritics - c-p wiki:5 words:2
+2010 books - c-p wiki:1 words:0
+Books by Stephen King - c-p wiki:1 words:0
+Comic books - p-c wiki:1 words:0
+Comic books - c-p wiki:1 words:1
+Bulgaria - p-c wiki:4 words:0
+Bulgaria - c-p wiki:1 words:0
+Czechoslovakia - p-c wiki:2 words:0
+Czechoslovakia - c-p wiki:2 words:1
+Estonia - p-c wiki:3 words:0
+Estonia - c-p wiki:1 words:0
+Danish royalty - p-c wiki:1 words:1
+Danish royalty - c-p wiki:2 words:0
+Latvia - p-c wiki:1 words:0
+Latvia - c-p wiki:1 words:0
+Lithuania - p-c wiki:1 words:0
+Lithuania - c-p wiki:1 words:0
+Mexican actors - c-p wiki:2 words:0
+Voice actors - p-c wiki:3 words:0
+Voice actors - c-p wiki:1 words:0
+Airports in Azerbaijan - c-p wiki:3 words:0
+Electromagnetic radiation - c-p wiki:1 words:0
+Synchrotron instrumentation - c-p wiki:1 words:1
+Romania - p-c wiki:13 words:0
+Romania - c-p wiki:1 words:0
+Sports in Serbia - p-c wiki:2 words:0
+Sports in Serbia - c-p wiki:3 words:0
+Slovakia - p-c wiki:4 words:0
+Slovakia - c-p wiki:1 words:0
+Slovenia - p-c wiki:4 words:0
+Slovenia - c-p wiki:1 words:0
+Montenegro - p-c wiki:2 words:0
+Montenegro - c-p wiki:1 words:0
+7th century births - p-c wiki:2 words:0
+7th century births - c-p wiki:2 words:0
+1328 births - c-p wiki:2 words:0
+Irish politicians - p-c wiki:9 words:0
+Irish politicians - c-p wiki:4 words:0
+1968 - p-c wiki:6 words:1
+1968 - c-p wiki:1 words:0
+American civil rights - p-c wiki:1 words:0
+American civil rights - c-p wiki:2 words:1
+Memphis, Tennessee - p-c wiki:1 words:0
+Memphis, Tennessee - c-p wiki:1 words:0
+Murders - p-c wiki:3 words:0
+Murders - c-p wiki:1 words:0
+700s births - p-c wiki:1 words:0
+700s births - c-p wiki:2 words:1
+Colleges and universities in Maryland - c-p wiki:2 words:1
+Military schools - c-p wiki:1 words:0
+1967 establishments - c-p wiki:2 words:0
+United States government agencies - p-c wiki:5 words:0
+United States government agencies - c-p wiki:1 words:0
+Medical equipment - c-p wiki:1 words:1
+Sculpture - p-c wiki:1 words:0
+Sculpture - c-p wiki:1 words:1
+Taiwan - p-c wiki:9 words:0
+Taiwan - c-p wiki:2 words:1
+p-c wiki: 25990 links: 1096
+c-p wiki: 25990 links: 25990
+Done
