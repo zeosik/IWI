@@ -21,7 +21,7 @@ namespace Parser
         public class CetegoryWordSimilarity
         {
             public Category category;
-            public List<Tuple<Category, double>> SimilarCategories { get; set; }
+            public List<Tuple<Category, double, int>> SimilarCategories { get; set; }
         }
 
         public class Article
@@ -219,7 +219,8 @@ namespace Parser
             var total = cats.Values.Count;
             var step = 0;
             var stemmer = new TextStemmerEN();
-            var categories = cats.Values.Select(c => new CetegoryWordSimilarity() { category = c, SimilarCategories = new List<Tuple<Category, double>>() });
+            var categories = cats.Values.Select(c => 
+                new CetegoryWordSimilarity() { category = c, SimilarCategories = new List<Tuple<Category, double, int>>() });
 
             foreach (var cat in categories)
             {
@@ -239,26 +240,30 @@ namespace Parser
                     }
 
                     double min = double.MaxValue;
+                    int finalArticlesCount = 0;
                     foreach (var part in parts)
                     {
                         stemmer.add(part.ToLower().ToCharArray(), part.Length);
                         stemmer.stem();
                         var stemmedPart = stemmer.ToString();
                         double sum = 0;
+                        int articlesCount = 0;
                         foreach (var art in otherCat.Articles)
                         {
                             if (art.Features.ContainsKey(stemmedPart))
                             {
+                                articlesCount++;
                                 var value = art.Features[stemmedPart];
                                 sum += value.Value;
                             }
                         }
                         if (sum < min)
                         {
+                            finalArticlesCount = articlesCount;
                             min = sum;
                         }
                     }
-                    cat.SimilarCategories.Add(new Tuple<Category, double>(otherCat, min));
+                    cat.SimilarCategories.Add(new Tuple<Category, double, int>(otherCat, min, finalArticlesCount));
                 }
 
                 var thisGroupSimilar = groupSimilarWords(cat.category, cat.SimilarCategories.Where(x => x.Item2 >= 5), int.MaxValue, realCatMap);
@@ -267,7 +272,7 @@ namespace Parser
                     var thisGroupBest = new GroupBest(thisGroupSimilar, cat.category);
                     Console.WriteLine("{0}", thisGroupBest.ToStringSummary());
                     {
-                        foreach (var groupBest in thisGroupBest.best.OrderByDescending(x => x.val).Take(7))
+                        foreach (var groupBest in thisGroupBest.best.OrderByDescending(x => x.val/x.articlesCount).Take(7))
                         {
                             Console.WriteLine("\t{0}", thisGroupBest.ToStringLink(groupBest));
                         }
@@ -337,9 +342,9 @@ namespace Parser
             return thisGroupSimilar;
         }
 
-        public static IEnumerable<CatLinkResult> groupSimilarWords(Category parent, IEnumerable<Tuple<Category, double>> similarCategories, int searchDistThreshhold, Dictionary<Category, Dictionary<Category, int>> realCatMap)
+        public static IEnumerable<CatLinkResult> groupSimilarWords(Category parent, IEnumerable<Tuple<Category, double, int>> similarCategories, int searchDistThreshhold, Dictionary<Category, Dictionary<Category, int>> realCatMap)
         {
-            var thisGroupSimilar = similarCategories.Select(x => new CatLinkResult() { category = parent, similarCategory = x.Item1, val = x.Item2, num = 1, dist = CatDistResult.search(parent, x.Item1, realCatMap, searchDistThreshhold) });
+            var thisGroupSimilar = similarCategories.Select(x => new CatLinkResult() { category = parent, similarCategory = x.Item1, val = x.Item2, num = 1, dist = CatDistResult.search(parent, x.Item1, realCatMap, searchDistThreshhold), articlesCount = x.Item3});
             return thisGroupSimilar;
         }
 
@@ -348,6 +353,7 @@ namespace Parser
             public Category parent;
             public double avgDist;
             public double avgWikiDist;
+            public int articlesCount;
             public IEnumerable<CatLinkResult> best;
             public IEnumerable<CatLinkResult> groupSimilar;
             public GroupBest(IEnumerable<CatLinkResult> groupSimilar, Category parent)
@@ -361,7 +367,7 @@ namespace Parser
 
             public string ToStringLink(CatLinkResult link)
             {
-                return string.Format("{0} \t value:{1:0.00} n:{5} wikiDist:{2} l:{3} r:{4} parent: {6}", link.similarCategory.Name.PadRight(30, ' '), link.val, link.dist.dist(), link.dist.left, link.dist.right, link.num, link.dist.parent.Name);
+                return string.Format("{0} \t value:{1:0.00} articles count: {7} n:{5} wikiDist:{2} l:{3} r:{4} parent: {6}", link.similarCategory.Name.PadRight(30, ' '), link.val, link.dist.dist(), link.dist.left, link.dist.right, link.num, link.dist.parent.Name, link.articlesCount);
             }
 
             public string ToStringSummary()
@@ -375,6 +381,7 @@ namespace Parser
             public Category category;
             public Category similarCategory;
             public double val;
+            public int articlesCount;
             public int num;
             public CatDistResult dist;
         }
